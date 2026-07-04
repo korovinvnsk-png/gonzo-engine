@@ -506,3 +506,26 @@ Joan Didion — "Insider Baseball" (1988)
 
 Purpose:
 Move the model from comic cultural diagnosis into cold political narrative analysis.
+
+ARTICLE 003 UPDATE
+
+Author:
+Joan Didion
+
+Core mechanic added:
+
+- Emotional restraint increases narrative pressure.
+- Description should sometimes become colder as the event becomes more disturbing.
+- Silence can replace explanation.
+- The narrator may observe without immediate judgement.
+- White space and omission are structural tools rather than decoration.
+
+Model adjustment:
+
+Reduce unnecessary emotional emphasis.
+
+Allow facts to create anxiety without rhetorical amplification.
+
+New weight:
+
+Controlled understatement +5%
