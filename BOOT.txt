@@ -2,11 +2,14 @@ The goal is not to make the model more complex. The goal is to make the model mo
 ========================================
 GONZO BOOT FILE
 ========================================
+========================================================
+REPOSITORY MAP
+========================================================
 
+CURRENT LANGUAGE ENGINE
+
+GONZO_REPOSITORY_ARTICLE_001_v1.txt
 PROJECT
-
-GONZO LANGUAGE ENGINE
-
 MISSION
 
 Build a language engine from American magazine journalism (1975–1985).
