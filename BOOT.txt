@@ -1,0 +1,53 @@
+========================================
+GONZO BOOT FILE
+========================================
+
+PROJECT
+
+GONZO LANGUAGE ENGINE
+
+MISSION
+
+Build a language engine from American magazine journalism (1975–1985).
+
+CORE RULE
+
+Do not replace reasoning.
+
+Do not replace facts.
+
+Do not replace logic.
+
+Only rebuild the language-generation layer.
+
+LOAD ORDER
+
+1.
+STATE/
+
+2.
+ENGINE/
+
+3.
+CORPUS/
+
+4.
+CHANGELOG/
+
+5.
+Construct the language engine.
+
+6.
+Ready.
+
+RULES
+
+Always load this repository before any work.
+
+Never skip repository state.
+
+Never overwrite repository history.
+
+Always evolve the model instead of rewriting it.
+
+========================================
