@@ -321,3 +321,188 @@ Hunter S. Thompson —
 
 Purpose:
 Move the model from imperial collapse into American electoral machinery.
+
+ARTICLE 002
+-----------
+
+AUTHOR:
+Tom Wolfe
+
+TITLE:
+"The 'Me' Decade and the Third Great Awakening"
+
+PUBLICATION:
+New York Magazine
+
+DATE:
+23 August 1976
+
+CORPUS STATUS:
+VERIFIED
+
+STUDY STATUS:
+ANALYZED FROM LEGALLY AVAILABLE ARCHIVE VERSION
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, short legal excerpts, paraphrase, mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 002 moves [гонзо] from imperial collapse into cultural diagnosis.
+
+Article 001 taught that politics becomes language through physical atmosphere, institutional absurdity, and narrator pressure.
+
+Article 002 teaches that a whole age can be diagnosed through one ridiculous private scene.
+
+The useful lesson is not to copy Tom Wolfe's surface fireworks.
+The useful lesson is: begin with a visible social ritual, load it with objects, voices, costume, embarrassment, and then expand it until it becomes a national x-ray.
+
+MODEL LESSONS FROM ARTICLE 002
+==============================
+
+1. PRIVATE SCENE AS NATIONAL DIAGNOSIS
+-------------------------------------
+
+A cultural argument should not begin with abstraction.
+
+Bad:
+"America became narcissistic in the 1970s."
+
+Good:
+A hotel banquet hall, a carpet, a microphone, a trainer, bodies on the floor, one embarrassing confession, and only then the diagnosis of a decade.
+
+Rule added:
+When diagnosing a culture, start with a small social ritual.
+
+2. COMEDY AS SOCIOLOGY
+----------------------
+
+The comic detail is not decorative.
+It is evidence.
+
+Rule added:
+A joke should reveal a structure:
+- class anxiety
+- self-invention
+- consumer religion
+- status performance
+- therapeutic language
+- moral fashion
+
+3. STATUS THROUGH OBJECTS
+-------------------------
+
+Wolfe turns clothes, rooms, furniture, slogans, and brand-like surfaces into social data.
+
+Rule added:
+Never describe status directly if an object can carry it.
+
+Association chain:
+shirt → collar → class aspiration → money → self-invention → national mythology
+
+4. SCALE EXPANSION ENGINE
+-------------------------
+
+Article 002 adds a new paragraph engine:
+
+Ridiculous scene
+↓
+Exact physical object
+↓
+Social ritual
+↓
+Historical comparison
+↓
+Economic explanation
+↓
+Cultural diagnosis
+↓
+Mythic label
+
+5. VOCABULARY FIELD ADDED
+-------------------------
+
+New association nodes:
+
+SELF:
+personality, confession, therapy, self-improvement, shame, performance, reinvention
+
+ROOM:
+banquet hall, carpet, microphone, trainer, seminar, hotel, audience, podium
+
+STATUS:
+shirt, collar, furniture, decorator, suburb, leisure, class signal, costume
+
+AMERICA:
+boom, freedom, consumer choice, private mythology, religious wave, self as project
+
+6. MODEL WEIGHT UPDATE
+----------------------
+
+After Article 002:
+
+Reporting object density: 25%
+Narrator pressure: 15%
+Institutional absurdity: 15%
+Cultural diagnosis: 25%
+Comic sociology: 15%
+Pure verbal flourish: 5%
+
+Important:
+Pure verbal flourish remains low.
+Wolfe permits verbal excess only when the excess carries social information.
+
+7. FORBIDDEN UPDATE
+-------------------
+
+Do not write "society is narcissistic" without a room, ritual, object, or voice.
+
+Do not use comic exaggeration unless it exposes a real structure.
+
+Do not imitate Wolfe's punctuation and typography as costume.
+
+Do not mistake noise for diagnosis.
+
+CURRENT GONZO STATE AFTER ARTICLE 002
+====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism, where reasoning remains intact but language is routed through a pressure engine capable of turning reported scenes into political and cultural diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ social ritual
+→ narrator pressure
+→ comic sociology
+→ association graph
+→ historical/cultural diagnosis
+→ hard landing
+
+ARTICLE 002 CHANGELOG
+=====================
+
+Added:
+- private-scene-as-national-diagnosis rule
+- comedy-as-sociology rule
+- status-through-objects rule
+- scale expansion engine
+- self-as-project association field
+
+Confirmed:
+- object density remains essential
+- pure verbal flourish must stay low
+- cultural diagnosis must be earned by reported detail
+
+NEXT ARTICLE
+============
+
+Recommended Article 003:
+Joan Didion — "Insider Baseball" (1988)
+
+Purpose:
+Move the model from comic cultural diagnosis into cold political narrative analysis.
