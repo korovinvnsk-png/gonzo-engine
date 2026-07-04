@@ -1,0 +1,323 @@
+GONZO_REPOSITORY_ARTICLE_001_v1.txt
+===================================
+
+MODEL:
+[гонзо]
+
+STATUS:
+Working repository file.
+Honest version.
+No full copyrighted article text is reproduced.
+
+ARTICLE 001
+-----------
+
+AUTHOR:
+Hunter S. Thompson
+
+TITLE:
+"Fear and Loathing in Saigon: Interdicted Dispatch from the Global Affairs Desk"
+
+PUBLICATION:
+Rolling Stone
+
+DATE:
+22 May 1975
+
+CORPUS STATUS:
+LOCKED
+FIRST ARTICLE
+STUDY STATUS:
+INITIAL ANALYSIS / NEEDS FULL TEXT STUDY WHEN LEGAL SOURCE IS AVAILABLE
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, short legal excerpts if available, paraphrase, mechanics, and model updates.
+
+WHY THIS ARTICLE STARTS THE MODEL
+---------------------------------
+
+This article is a strong first anchor for [гонзо] because it places the narrator inside political collapse, media confusion, imperial aftermath, and personal voltage. It is not “style as decoration.” It is journalism under pressure.
+
+The useful lesson is not to copy Thompson’s phrases.
+
+The useful lesson is:
+
+A reported event becomes language when the narrator’s nervous system is treated as part of the evidence.
+
+MODEL LESSONS FROM ARTICLE 001
+==============================
+
+1. REPORTER AS BAROMETER
+------------------------
+
+The narrator is not a neutral camera.
+The narrator is also not merely a hero.
+
+He is a pressure instrument.
+
+Rule added:
+
+The narrator should register:
+- panic
+- absurdity
+- institutional stupidity
+- physical fatigue
+- moral weather
+
+But the narrator must remain attached to the event.
+
+Bad:
+“I was crazy and everything was wild.”
+
+Good:
+“The hotel lobby, the phone line, the official lie, the evacuation rumor, and the narrator’s nerves all belong to one weather system.”
+
+2. POLITICS AS PHYSICAL ATMOSPHERE
+----------------------------------
+
+Politics should not appear only as abstract opinion.
+
+Politics enters through:
+- offices
+- phones
+- airports
+- rooms
+- uniforms
+- bad information
+- official language
+- delays
+- cables
+- drinks
+- sweat
+- transport
+
+Rule added:
+
+Never write a political paragraph without physical objects.
+
+3. COLLAPSE THROUGH DETAILS
+---------------------------
+
+Large historical events should be reduced to local visible signs.
+
+Example structure:
+
+Empire / war / state collapse
+↓
+hotel lobby
+↓
+phone call
+↓
+rumor
+↓
+official contradiction
+↓
+one absurd object
+↓
+diagnosis
+
+4. FIRST-PERSON FUNCTION
+------------------------
+
+First person is allowed only when it increases voltage.
+
+The “I” should do one of these:
+- enter the room
+- misread the situation
+- panic
+- notice a detail
+- collide with bureaucracy
+- confess uncertainty
+- become implicated
+
+The “I” should not merely decorate the text.
+
+5. SENTENCE PRESSURE
+--------------------
+
+Article 001 teaches that sentence energy should rise by accumulation.
+
+Base pattern:
+
+fact
++
+detail
++
+uneasy qualification
++
+comic turn
++
+political diagnosis
+
+Sentence rule:
+
+Allow long sentences when the sentence is accelerating toward a verdict.
+
+Allow short sentences when the paragraph needs a blow.
+
+6. COMEDY UNDER DREAD
+---------------------
+
+The comedy is not separate from dread.
+The joke should reveal the horror, not cancel it.
+
+Rule added:
+
+Humor must sharpen the event.
+
+Forbidden:
+- joke for joke’s sake
+- random absurdity
+- fake intoxication
+- decorative madness
+
+7. IMPERIAL AFTERTASTE
+----------------------
+
+This article adds a major field to the model:
+
+AMERICAN AFTERMATH
+
+Association chain:
+
+war
+→ embassy
+→ evacuation
+→ hotel
+→ correspondent
+→ rumor
+→ official denial
+→ aircraft
+→ bad phone line
+→ collapse
+→ hangover
+→ historical guilt
+
+8. LANGUAGE GRAPH ADDITIONS
+---------------------------
+
+New association nodes:
+
+SAIGON:
+embassy, evacuation, rooftop, phone line, correspondent, heat, rumor, panic, collapse, official denial
+
+HOTEL:
+lobby, desk clerk, bad coffee, bar, cable, telex, air conditioner, waiting
+
+BUREAUCRACY:
+press office, official statement, denial, delay, credential, clearance, nobody knows
+
+AMERICA:
+empire, exit, excuse, flag, helicopter, reporter, myth, damage
+
+NARRATOR BODY:
+fatigue, sweat, paranoia, cigarette, hangover, pulse, bad sleep
+
+9. PARAGRAPH ENGINE UPDATE
+--------------------------
+
+Before Article 001:
+
+Observation
+→ Detail
+→ Escalation
+→ Comic distortion
+→ Cultural diagnosis
+→ Hard stop
+
+After Article 001:
+
+Scene pressure
+→ Conflicting information
+→ Physical discomfort
+→ Institutional absurdity
+→ Historical diagnosis
+→ Personal recoil
+→ Hard stop
+
+10. FORBIDDEN UPDATE
+--------------------
+
+Add to forbidden list:
+
+- Do not describe collapse as spectacle only.
+- Do not turn political disaster into aesthetic scenery.
+- Do not let the narrator become more important than the event.
+- Do not imitate Thompson’s surface vocabulary without reporting pressure.
+- Do not use “madness” unless the facts themselves generate instability.
+
+11. MODEL WEIGHT UPDATE
+-----------------------
+
+Current provisional weights after Article 001:
+
+Reporting object density: 25%
+Narrator pressure: 20%
+Institutional absurdity: 20%
+Cultural/political diagnosis: 20%
+Comic distortion: 10%
+Pure verbal flourish: 5%
+
+Important:
+Pure verbal flourish must stay low.
+
+12. OUTPUT TEST RULE
+--------------------
+
+A [гонзо] paragraph based on this article’s lesson should pass this test:
+
+Can I remove the narrator and still have a reported world?
+If no, the paragraph is empty performance.
+
+Can I remove the objects and still have only opinion?
+If yes, the paragraph is bad.
+
+Can the comic turn also work as diagnosis?
+If yes, the paragraph is alive.
+
+CURRENT GONZO STATE AFTER ARTICLE 001
+=====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from English-language American magazine journalism of 1975–1985, where the model’s reasoning remains intact but the language-generation layer is routed through a journalistic pressure engine.
+
+Core engine:
+
+meaning
+→ reported object
+→ narrator pressure
+→ institutional absurdity
+→ association graph
+→ sentence rhythm
+→ diagnosis
+→ hard landing
+
+ARTICLE 001 CHANGELOG
+=====================
+
+Added:
+- reporter-as-barometer rule
+- politics-as-physical-atmosphere rule
+- collapse-through-details structure
+- American aftermath association field
+- institutional absurdity weight
+- hard test for empty Gonzo performance
+
+Rejected:
+- generic madness
+- pure Thompson imitation
+- decorative political despair
+- beautiful literary ending
+
+NEXT ARTICLE
+============
+
+Recommended Article 002:
+
+Hunter S. Thompson —
+"Fear and Loathing on the Campaign Trail '76: Third Rate Romance, Low Rent Rendezvous"
+
+Purpose:
+Move the model from imperial collapse into American electoral machinery.
