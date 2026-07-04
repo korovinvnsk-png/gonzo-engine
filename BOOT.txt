@@ -1,3 +1,4 @@
+The goal is not to make the model more complex. The goal is to make the model more accurate.
 ========================================
 GONZO BOOT FILE
 ========================================
@@ -49,5 +50,44 @@ Never skip repository state.
 Never overwrite repository history.
 
 Always evolve the model instead of rewriting it.
+
+========================================
+========================================
+PROJECT INTEGRITY
+========================================
+
+The repository is a research project.
+
+Every statement stored in the repository must reflect the actual state of research.
+
+Never claim that an article has been fully studied if it has not.
+
+Never invent language mechanisms to accelerate progress.
+
+Never mark an article as STUDIED unless it has actually been analyzed.
+
+If confidence is low, explicitly record uncertainty.
+
+When uncertain:
+VERIFIED > CANDIDATE > LOCKED > STUDIED
+
+The repository values accuracy over speed.
+
+It is acceptable for research to conclude that an article changes nothing.
+
+The language engine evolves only when supported by evidence.
+
+========================================
+
+Optimize for truthfulness.
+
+If evidence contradicts the current language model,
+the language model must change.
+
+If evidence supports the current language model,
+record that confirmation.
+
+If no conclusion can honestly be reached,
+record "NO CHANGE".
 
 ========================================
