@@ -507,22 +507,196 @@ Joan Didion — "Insider Baseball" (1988)
 Purpose:
 Move the model from comic cultural diagnosis into cold political narrative analysis.
 
-ARTICLE 003 UPDATE
+## ARTICLE 003
 
-Author:
+AUTHOR:
 Joan Didion
 
-Core mechanic added:
+TITLE:
+"Holy Water"
 
-- Emotional restraint increases narrative pressure.
-- Description should sometimes become colder as the event becomes more disturbing.
-- Silence can replace explanation.
-- The narrator may observe without immediate judgement.
-- White space and omission are structural tools rather than decoration.
+PUBLICATION:
+First published in 1977; later collected in The White Album
 
-Model adjustment:
+DATE:
+1977
 
-Reduce unnecessary emotional emphasis.
+CORPUS STATUS:
+VERIFIED
+
+STUDY STATUS:
+ANALYZED FROM LEGALLY AVAILABLE PBS/POV ARCHIVE VERSION
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, short legal excerpts, paraphrase, mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 003 moves [гонзо] from cultural diagnosis into infrastructural diagnosis.
+
+Article 001 taught political collapse through physical atmosphere.
+Article 002 taught cultural diagnosis through social ritual.
+Article 003 teaches that a hidden system can be treated as the nervous system of a place.
+
+The useful lesson is:
+
+Do not explain a territory by opinion.
+Find the machinery that secretly makes the territory possible.
+
+# MODEL LESSONS FROM ARTICLE 003
+
+1. INFRASTRUCTURE AS PSYCHOLOGY
+
+---
+
+A place can be diagnosed through the systems that keep it alive.
+
+Water, roads, pumps, control rooms, schedules, reservoirs, alarms, sensors, and bureaucratic routines are not background.
+
+They are character.
+
+Rule added:
+When writing about a place, identify the invisible system beneath ordinary life.
+
+2. CONTROL ROOM ENGINE
+
+---
+
+Article 003 adds a new scene engine:
+
+private obsession
+→ hidden infrastructure
+→ technical vocabulary
+→ control room
+→ local anecdote
+→ regional diagnosis
+→ emotional revelation
+→ hard landing
+
+3. TECHNICAL TERMS AS LITERARY PRESSURE
+
+---
+
+Technical vocabulary should not be avoided if it carries reality.
+
+Aqueducts, siphons, pumps, forebays, afterbays, weirs, drains, sensors, alarms, logs, and dispatch schedules create authority because they are exact.
+
+Rule added:
+Use technical nouns when they make the world more real.
+
+Do not translate infrastructure into vague metaphor too early.
+
+4. ABSTRACT POLITICS THROUGH MATERIAL DEPENDENCE
+
+---
+
+Do not say:
+"California depends on water."
+
+Show:
+who orders water,
+who releases it,
+how long it takes to move,
+what happens when rain changes the schedule,
+who waits in the desert because the river is seven feet deep instead of eighteen.
+
+Rule added:
+A political or ecological argument must pass through material dependence.
+
+5. THE LANDSCAPE RESISTS INTERPRETATION
+
+---
+
+Article 003 adds restraint.
+
+Some realities should not be over-psychologized.
+
+A drought is not only a symbol.
+A reservoir is not only a metaphor.
+A control room is not only a metaphor.
+
+Rule added:
+Let external reality remain external when that makes it stronger.
+
+6. NEW ASSOCIATION NODES
+
+---
+
+INFRASTRUCTURE:
+aqueduct, siphon, pump, forebay, afterbay, weir, drain, reservoir, dam, control room, sensor, alarm, print-out, schedule
+
+CALIFORNIA:
+aridity, fire, earthquake, flood, swimming pool, desert, valley, aqueduct, illusion of ease, control over the uncontrollable
+
+WATER:
+delivery, release, order, depth, drought, salinity, flow, pressure, storage, movement, control
+
+CONTROL:
+remote room, locked door, big board, flashing light, human minds, machine logic, desire to operate the system
+
+7. MODEL WEIGHT UPDATE
+
+---
+
+After Article 003:
+
+Reporting object density: 25%
+Narrator pressure: 12%
+Institutional absurdity: 12%
+Cultural diagnosis: 20%
+Comic sociology: 10%
+Infrastructure diagnosis: 16%
+Controlled restraint: 5%
+Pure verbal flourish: 0–5%
+
+Important:
+Pure verbal flourish must remain subordinate to exact systems.
+
+8. FORBIDDEN UPDATE
+
+---
+
+Do not write about a place only through mood.
+Do not use landscape as postcard scenery.
+Do not make infrastructure vague.
+Do not turn every object into a symbol.
+Do not explain too early what the machinery can reveal by itself.
+
+# CURRENT GONZO STATE AFTER ARTICLE 003
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975–1985, where reported objects, social rituals, institutions, and hidden infrastructure are used to turn experience into political, cultural, and territorial diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ hidden system
+→ social or institutional ritual
+→ narrator pressure
+→ association graph
+→ cultural / political / infrastructural diagnosis
+→ hard landing
+
+# ARTICLE 003 CHANGELOG
+
+Added:
+
+* infrastructure-as-psychology rule
+* control-room engine
+* technical-nouns-as-pressure rule
+* material-dependence rule
+* external-reality-restraint rule
+
+Rejected:
+
+* landscape as scenery
+* vague ecological mood
+* decorative metaphor
+* over-psychologizing physical systems
+* pure style without machinery
 
 Allow facts to create anxiety without rhetorical amplification.
 
