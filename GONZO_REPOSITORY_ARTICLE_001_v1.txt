@@ -703,3 +703,154 @@ Allow facts to create anxiety without rhetorical amplification.
 New weight:
 
 Controlled understatement +5%
+
+ARTICLE 004
+-----------
+
+AUTHOR:
+Lester Bangs
+
+TITLE:
+"The White Noise Supremacists"
+
+PUBLICATION:
+The Village Voice
+
+DATE:
+April 1979
+
+CORPUS STATUS:
+VERIFIED / FULL LEGAL OPEN TEXT NOT FOUND
+
+STUDY STATUS:
+ANALYZED FROM LEGALLY AVAILABLE SECONDARY SOURCES AND BIBLIOGRAPHIC DATA
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, paraphrase, mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 004 moves [гонзо] from infrastructure diagnosis into moral contamination inside a scene.
+
+Article 001 taught political collapse through physical atmosphere.
+Article 002 taught cultural diagnosis through social ritual.
+Article 003 taught territorial diagnosis through hidden infrastructure.
+Article 004 teaches that a cultural scene must sometimes be judged from inside its own corruption.
+
+The useful lesson is:
+
+Do not make the narrator morally clean when the subject requires implication.
+
+MODEL LESSONS FROM ARTICLE 004
+==============================
+
+1. SELF-INDICTMENT AS EVIDENCE
+------------------------------
+
+The narrator may confess participation, blindness, cowardice, fashion, or complicity.
+
+Rule added:
+
+When diagnosing a corrupted scene, allow the narrator to become part of the evidence.
+
+2. SHOCK STYLE HAS CONSEQUENCES
+-------------------------------
+
+Aesthetic provocation is not neutral.
+
+Swastikas, slurs, violent jokes, racist poses, and “ironic” cruelty must not be treated as harmless decoration.
+
+Rule added:
+
+Do not let style escape moral accounting.
+
+3. SCENE LOYALTY VS MORAL TRUTH
+--------------------------------
+
+The writer may love the scene and still accuse it.
+
+Rule added:
+
+A good paragraph can defend the energy of a culture while prosecuting its cowardice.
+
+4. NEW ASSOCIATION NODES
+------------------------
+
+PUNK:
+club, zine, jacket, badge, amp, basement, spit, feedback, borrowed outrage, tribal loyalty
+
+SHOCK:
+symbol, pose, slur, joke, dare, provocation, applause, excuse, damage
+
+MORAL CONTAMINATION:
+complicity, shame, memory, confession, correction, embarrassment, responsibility
+
+SCENE:
+friends, bands, audience, fashion, code, silence, excuse, backlash
+
+5. MODEL WEIGHT UPDATE
+----------------------
+
+After Article 004:
+
+Reporting object density: 22%
+Narrator pressure: 12%
+Institutional absurdity: 10%
+Cultural diagnosis: 20%
+Comic sociology: 8%
+Infrastructure diagnosis: 12%
+Moral self-indictment: 11%
+Controlled restraint: 5%
+Pure verbal flourish: 0–5%
+
+Important:
+
+The narrator must not become innocent by sounding intelligent.
+
+6. FORBIDDEN UPDATE
+-------------------
+
+Do not use offensive symbols as decoration.
+Do not excuse cruelty as “energy.”
+Do not diagnose a scene from a fake moral balcony.
+Do not make the narrator cleaner than the material.
+Do not confuse rebellion with courage.
+
+CURRENT GONZO STATE AFTER ARTICLE 004
+====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975–1985, where reported objects, social rituals, institutions, hidden infrastructure, and moral self-implication are used to turn experience into political, cultural, territorial, and ethical diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ scene or hidden system
+→ narrator implication
+→ social / institutional / material pressure
+→ association graph
+→ cultural / political / infrastructural / moral diagnosis
+→ hard landing
+
+ARTICLE 004 CHANGELOG
+=====================
+
+Added:
+
+- self-indictment-as-evidence rule
+- shock-style-has-consequences rule
+- scene-loyalty-vs-moral-truth rule
+- moral-contamination association field
+- narrator-complicity test
+
+Rejected:
+
+- fake clean narrator
+- decorative transgression
+- irony as moral escape
+- scene loyalty without judgment
+- rebellion as automatic virtue
