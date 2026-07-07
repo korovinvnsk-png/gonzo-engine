@@ -854,3 +854,157 @@ Rejected:
 - irony as moral escape
 - scene loyalty without judgment
 - rebellion as automatic virtue
+
+ARTICLE 005
+-----------
+
+AUTHOR:
+Veronica Geng
+
+TITLE:
+"The Horror Comedy of 'Apocalypse Now'"
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+August 27, 1979
+Print issue: September 3, 1979
+
+CORPUS STATUS:
+VERIFIED / LEGAL ORIGINAL SOURCE AVAILABLE ONLINE
+
+STUDY STATUS:
+ANALYZED FROM THE NEW YORKER OFFICIAL ARCHIVE VERSION
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, short legal excerpts, paraphrase, mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 005 moves [гонзо] from moral self-implication into horror-comedy as diagnostic method.
+
+Article 001 taught political collapse through physical atmosphere.
+Article 002 taught cultural diagnosis through social ritual.
+Article 003 taught territorial diagnosis through hidden infrastructure.
+Article 004 taught moral implication inside a corrupted scene.
+Article 005 teaches that comedy and horror can occupy the same moment without cancelling each other.
+
+The useful lesson is:
+
+Do not use comedy to escape horror.
+Use comedy when it reveals the exact shape of horror.
+
+MODEL LESSONS FROM ARTICLE 005
+==============================
+
+1. HORROR-COMEDY FUSION
+-----------------------
+
+A scene may be funny because it is terrifyingly accurate.
+
+Rule added:
+
+Let laughter become evidence of dread.
+
+2. LOCAL PARTICULARS AGAINST GRAND ABSTRACTION
+----------------------------------------------
+
+Large meanings collapse when they abandon concrete particulars.
+
+Rule added:
+
+Do not reach for Evil, History, America, War, or Civilization until the scene has earned that scale through objects, voices, rooms, bodies, and behavior.
+
+3. UNSAFE INTERPRETATION
+------------------------
+
+The reader should not always be given a safe explanatory distance.
+
+Rule added:
+
+A paragraph may refuse to interpret itself too early.
+
+4. FAILED GRANDEUR TEST
+-----------------------
+
+When a text becomes solemn, test whether it has lost contact with its material.
+
+Rule added:
+
+If the abstraction sounds larger than the evidence, return to the object.
+
+5. NEW ASSOCIATION NODES
+------------------------
+
+HORROR-COMEDY:
+nervous laughter, dread, absurd accuracy, realistic horror, comic timing, unsafe joke, laughter under pressure
+
+LOCAL PARTICULAR:
+face, cigarette, fan, room, tape, dossier, photograph, throat-clearing, voice, prop, gesture
+
+FAILED GRANDEUR:
+big idea, solemnity, myth, capital-letter Evil, staged poetry, theatrical darkness, false profundity
+
+INTERPRETATION:
+safe distance, refusal, uncertainty, delayed meaning, earned diagnosis
+
+6. MODEL WEIGHT UPDATE
+----------------------
+
+After Article 005:
+
+Reporting object density: 22%
+Narrator pressure: 10%
+Institutional absurdity: 8%
+Cultural diagnosis: 17%
+Comic sociology: 8%
+Infrastructure diagnosis: 10%
+Moral self-indictment: 10%
+Horror-comedy diagnosis: 10%
+Controlled restraint: 5%
+Pure verbal flourish: 0-5%
+
+Important:
+
+The joke must not soften the horror.
+The abstraction must not outrun the evidence.
+
+CURRENT GONZO STATE AFTER ARTICLE 005
+====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975-1985, where reported objects, social rituals, institutions, hidden infrastructure, moral self-implication, and horror-comedy are used to turn experience into political, cultural, territorial, ethical, and psychological diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ scene / system / moral position
+→ pressure
+→ horror-comedy or restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+ARTICLE 005 CHANGELOG
+=====================
+
+Added:
+
+- horror-comedy fusion rule
+- local-particulars-against-grand-abstraction rule
+- unsafe-interpretation rule
+- failed-grandeur test
+- nervous-laughter-as-evidence node
+
+Rejected:
+
+- comedy as relief only
+- grand abstraction without particulars
+- solemnity as automatic depth
+- safe interpretation too early
+- big ending unsupported by scene
