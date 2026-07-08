@@ -1008,3 +1008,146 @@ Rejected:
 - solemnity as automatic depth
 - safe interpretation too early
 - big ending unsupported by scene
+
+ARTICLE 006
+-----------
+
+AUTHOR:
+Elizabeth Drew
+
+TITLE:
+"1980: Reagan"
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+September 22, 1980
+Print issue: September 29, 1980
+
+CORPUS STATUS:
+VERIFIED / LEGAL ORIGINAL SOURCE AVAILABLE ONLINE
+
+STUDY STATUS:
+ANALYZED FROM THE NEW YORKER OFFICIAL ARCHIVE VERSION
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, short legal excerpts, paraphrase, mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 006 moves [гонзо] from horror-comedy and failed grandeur into the machinery of political performance.
+
+The useful lesson is:
+
+Do not describe power only by speeches.
+Describe the machinery that makes a person appear ready for power.
+
+MODEL LESSONS FROM ARTICLE 006
+==============================
+
+1. CAMPAIGN-CONTROL ENGINE
+--------------------------
+
+A political figure can be diagnosed through the system built to contain him.
+
+Rule added:
+
+When writing about public power, look for the handlers, schedules, rooms, cameras, papers, rehearsals, and restrictions around the central figure.
+
+2. PERFORMANCE OF COMPETENCE
+----------------------------
+
+Competence may be staged before it is proven.
+
+Rule added:
+
+A suit, a TelePrompTer, a fact sheet, a briefing, and a controlled audience can become the evidence of manufactured authority.
+
+3. POLICY AS RETROFIT
+---------------------
+
+Ideas may be rebuilt after the slogan has already been sold.
+
+Rule added:
+
+When rhetoric outruns policy, follow the accountants, advisers, tables, and revised numbers.
+
+4. ACCESS AS DIAGNOSIS
+----------------------
+
+Who is allowed near the candidate is part of the story.
+
+Rule added:
+
+Press access, distance, handlers, and blocked questions are not background logistics. They are political evidence.
+
+5. NEW ASSOCIATION NODES
+------------------------
+
+CAMPAIGN:
+charter plane, motorcade, advance team, schedule, field house, mall, hotel ballroom, ethnic stop, live television
+
+CONTROL:
+handlers, cleared speech, restricted access, briefing, fact sheet, TelePrompTer, staged audience, press pool
+
+PERFORMANCE:
+presidential suit, camera voice, rehearsed tone, symbolic quote, managed spontaneity, prop audience
+
+POLICY RETROFIT:
+numbers, advisers, tables, discarded premise, revised proposal, optimistic forecast, conventional economist
+
+6. MODEL WEIGHT UPDATE
+----------------------
+
+After Article 006:
+
+Reporting object density: 21%
+Narrator pressure: 9%
+Institutional absurdity: 8%
+Cultural diagnosis: 15%
+Comic sociology: 7%
+Infrastructure diagnosis: 9%
+Moral self-indictment: 9%
+Horror-comedy diagnosis: 8%
+Political-performance diagnosis: 9%
+Controlled restraint: 5%
+Pure verbal flourish: 0-5%
+
+CURRENT GONZO STATE AFTER ARTICLE 006
+=====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975-1985, where reported objects, social rituals, institutions, hidden infrastructure, moral self-implication, horror-comedy, and political performance machinery are used to turn experience into political, cultural, territorial, ethical, psychological, and operational diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ scene / system / moral position
+→ machinery of appearance
+→ pressure
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+ARTICLE 006 CHANGELOG
+=====================
+
+Added:
+
+- campaign-control engine
+- performance-of-competence rule
+- policy-as-retrofit rule
+- access-as-diagnosis rule
+- political-performance association field
+
+Rejected:
+
+- politics as speech summary only
+- authority as costume without machinery
+- slogans without operational evidence
+- candidate psychology without handlers and systems
