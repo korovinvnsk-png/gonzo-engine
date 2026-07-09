@@ -1151,3 +1151,147 @@ Rejected:
 - authority as costume without machinery
 - slogans without operational evidence
 - candidate psychology without handlers and systems
+
+ARTICLE 007
+-----------
+
+AUTHOR:
+The New Yorker / unsigned Talk of the Town item
+
+TITLE:
+"The Talk of the Town" — "Two: At the Four Seasons"
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+October 15, 1979
+Print issue: October 22, 1979
+
+CORPUS STATUS:
+VERIFIED / LEGAL ORIGINAL SOURCE AVAILABLE ONLINE
+
+STUDY STATUS:
+ANALYZED FROM THE NEW YORKER OFFICIAL ARCHIVE VERSION
+
+COPYRIGHT NOTE:
+Do not store the full article text in this repository.
+Store bibliographic data, short legal excerpts, paraphrase, mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 007 moves [гонзо] from political-performance machinery into miniature status exposure.
+
+The useful lesson is:
+
+A scene does not need a declared verdict if the social machinery is recorded accurately enough.
+
+MODEL LESSONS FROM ARTICLE 007
+==============================
+
+1. DEADPAN STATUS EXPOSURE
+--------------------------
+
+Status can expose itself through polite, trivial speech.
+
+Rule added:
+
+Let people reveal their hierarchy by how they describe insignificant things.
+
+2. EMPTY PRESTIGE ROOM
+----------------------
+
+A prestigious setting may become comic when emptied of grandeur.
+
+Rule added:
+
+Use the gap between famous location and minor event as diagnostic pressure.
+
+3. PROMOTIONAL RITUAL AS CULTURE
+--------------------------------
+
+A product launch, screening, meeting, pitch, or invitation can diagnose an era.
+
+Rule added:
+
+Treat small commercial ceremonies as cultural evidence.
+
+4. SELF-CORRECTION AS CHARACTER
+-------------------------------
+
+A person correcting “most successful” into “hottest” reveals the status system more precisely than author commentary would.
+
+Rule added:
+
+Keep small verbal repairs. They are often the diagnosis.
+
+5. NEW ASSOCIATION NODES
+------------------------
+
+PROMOTION:
+invitation, screening, public-relations man, commissioned film, product phenomenon, advertising pages
+
+EMPTY PRESTIGE:
+Four Seasons, empty bar, empty restaurant, back room, borrowed glamour, minor ceremony
+
+STATUS SPEECH:
+fortunate, successful, hottest, esoteric, insight, phenomenon, collectible field
+
+COMMODITY CULTURE:
+plate, collector, thirty dollars, manufactured rarity, accessible prestige, hobby as market
+
+6. MODEL WEIGHT UPDATE
+----------------------
+
+After Article 007:
+
+Reporting object density: 22%
+Narrator pressure: 7%
+Institutional absurdity: 8%
+Cultural diagnosis: 15%
+Comic sociology: 8%
+Infrastructure diagnosis: 8%
+Moral self-indictment: 8%
+Horror-comedy diagnosis: 7%
+Political-performance diagnosis: 8%
+Deadpan status exposure: 9%
+Controlled restraint: 8%
+Pure verbal flourish: 0-5%
+
+CURRENT GONZO STATE AFTER ARTICLE 007
+=====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975-1985, where reported objects, social rituals, institutions, hidden infrastructure, moral self-implication, horror-comedy, political performance machinery, and deadpan status exposure are used to turn experience into political, cultural, territorial, ethical, psychological, operational, and commercial diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ scene / system / ritual
+→ machinery of appearance
+→ pressure
+→ deadpan exposure or horror-comedy
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+ARTICLE 007 CHANGELOG
+=====================
+
+Added:
+
+- deadpan status exposure rule
+- empty-prestige-room rule
+- promotional-ritual-as-culture rule
+- self-correction-as-character rule
+- commodity-culture association field
+
+Rejected:
+
+- explaining every joke
+- overloading small scenes with premature theory
+- prestige settings as automatic glamour
+- commercial rituals as background only
