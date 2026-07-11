@@ -1295,3 +1295,313 @@ Rejected:
 - overloading small scenes with premature theory
 - prestige settings as automatic glamour
 - commercial rituals as background only
+
+## ARTICLE 008
+
+AUTHOR:
+John McPhee
+
+TITLE:
+“Coming into the Country—I”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+June 13, 1977
+Print issue: June 20, 1977
+
+GENRE:
+Reporter at Large
+
+CORPUS STATUS:
+VERIFIED / OFFICIAL ARCHIVE AND LEGALLY AVAILABLE OFFICIAL EXCERPT
+
+STUDY STATUS:
+ANALYZED FROM THE NEW YORKER OFFICIAL ARCHIVE ABSTRACT, OFFICIAL ARCHIVE FEATURE, LEGALLY AVAILABLE EXCERPT, AND AUTHORIAL STRUCTURE COMMENTARY
+
+COPYRIGHT NOTE:
+Do not store the complete article or four-part series in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 008 moves [гонзо] from human systems and social rituals into natural systems that organize human life.
+
+Article 003 taught that hidden human infrastructure can become the nervous system of a territory.
+
+Article 008 adds the inverse:
+
+A territory may be governed by a system that no human institution designed and no control room can fully operate.
+
+The useful lesson is:
+
+Do not treat nature as scenery.
+Follow the natural process until it reveals language, work, money, danger, settlement, and dependence.
+
+# MODEL LESSONS FROM ARTICLE 008
+
+1. NATURAL-SYSTEM ENGINE
+
+---
+
+A river, ice breakup, migration route, fire cycle, tide, drought, season, or geological process can organize the entire reported world.
+
+Rule added:
+
+When a natural process governs human behavior, describe its sequence of causes, movements, delays, and consequences.
+
+Do not reduce the process to mood or symbolism.
+
+2. LOCAL TAXONOMY AS INTELLIGENCE
+
+---
+
+People who live inside a difficult environment develop exact names for meaningful differences.
+
+A submerged log is not merely a log.
+A rooted trunk moving upright in water is not merely debris.
+
+Rule added:
+
+Search for the local, technical, occupational, or vernacular classification of objects.
+
+A local term may contain:
+
+* physical observation
+* practical danger
+* humor
+* memory
+* economic knowledge
+* territorial belonging
+
+Do not replace an exact local term with a vague literary synonym.
+
+3. RESOURCE-IN-MOTION
+
+---
+
+A material object can connect distant communities while revealing unequal access to value.
+
+Rule added:
+
+Follow the object through the system.
+
+Base sequence:
+
+source
+→ release
+→ physical movement
+→ local observation
+→ practical use
+→ price
+→ missed opportunity
+→ distant recipient
+→ territorial diagnosis
+
+The object should change meaning as it moves.
+
+4. PROCESS-SHAPED SYNTAX
+
+---
+
+Sentence structure may reproduce the movement of the reported process.
+
+Rule added:
+
+Use accumulation when material is gathering.
+
+Use repetition when separate units pass through the same channel.
+
+Use short sentences when the process arrives in impacts.
+
+Use long sentences when the process carries several connected consequences downstream.
+
+Rhythm must emerge from reporting, not from decorative performance.
+
+5. FREEDOM-DEPENDENCE REVERSAL
+
+---
+
+A person may reject organized society and still become radically dependent on weather, distance, fuel, water, transport, law, mail, and seasonal movement.
+
+Rule added:
+
+When a subject claims autonomy, identify the material system that makes the autonomy possible.
+
+Do not mock the claim.
+
+Reveal its conditions.
+
+6. ENVIRONMENTAL ECONOMY WITHOUT LECTURE
+
+---
+
+Ecology and economy may be the same physical story viewed at different points.
+
+A floating tree can be:
+
+* forest debris
+* navigational danger
+* winter fuel
+* inaccessible cash
+* coastal survival
+
+Rule added:
+
+Delay the economic interpretation until the physical object has been fully established.
+
+Let value emerge from movement.
+
+7. NATURAL SCALE WITHOUT GRANDIOSITY
+
+---
+
+A large landscape does not require inflated language.
+
+Rule added:
+
+Earn scale through tributaries, distances, travel times, prices, species, tools, and recurring processes.
+
+Never use “vast,” “timeless,” “untouched,” or “wild” as substitutes for reported structure.
+
+8. NEW ASSOCIATION NODES
+
+---
+
+NATURAL SYSTEM:
+tributary, breakup, current, floe, seasonal delay, accumulated force, downstream consequence, uncontrolled schedule
+
+LOCAL TAXONOMY:
+sleeper, preacher, trail name, river name, trapper’s term, pilot’s term, practical metaphor, inherited vocabulary
+
+RESOURCE FLOW:
+source, drift, transport, interception, price, scarcity, missed value, distant use
+
+FRONTIER:
+mail, fuel, dog team, canoe, post office, supplies, claim, trapline, distance, municipal fragment
+
+AUTONOMY:
+withdrawal, self-reliance, dependence, weather, law, transport, tools, stored food, seasonal permission
+
+RIVER:
+ice, wood, debris, depth, eddy, tributary, bank, current, delivery, danger, economy
+
+9. PARAGRAPH ENGINE UPDATE
+
+---
+
+Article 008 adds:
+
+natural process
+→ exact object
+→ local name
+→ movement
+→ practical consequence
+→ economic transformation
+→ human dependence
+→ territorial diagnosis
+→ restrained landing
+
+10. MODEL WEIGHT UPDATE
+
+---
+
+After Article 008:
+
+Reporting object density: 22%
+Narrator pressure: 6%
+Institutional absurdity: 7%
+Cultural diagnosis: 13%
+Comic sociology: 7%
+Infrastructure diagnosis: 8%
+Moral self-indictment: 7%
+Horror-comedy diagnosis: 6%
+Political-performance diagnosis: 7%
+Deadpan status exposure: 8%
+Natural-system diagnosis: 10%
+Material-flow diagnosis: 5%
+Controlled restraint: 9%
+Pure verbal flourish: 0–3%
+
+Important:
+
+Natural-system diagnosis is not nature writing as atmosphere.
+
+Material-flow diagnosis is not an economic lecture.
+
+The world must move before the writer explains what the movement means.
+
+11. FORBIDDEN UPDATE
+
+---
+
+Do not use landscape as visual relief.
+
+Do not call a place “untouched” when people work, travel, trade, hunt, govern, remember, and depend on it.
+
+Do not turn every natural object into a metaphor.
+
+Do not romanticize remoteness without showing fuel, food, mail, law, transport, and risk.
+
+Do not describe freedom without its material conditions.
+
+Do not invent local vocabulary.
+
+Do not imitate process through syntax unless the reported process is already clear.
+
+# CURRENT GONZO STATE AFTER ARTICLE 008
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975–1985, where reported objects, social rituals, institutions, hidden infrastructure, moral self-implication, horror-comedy, political performance, deadpan status exposure, natural systems, and material flows turn experience into political, cultural, territorial, ethical, psychological, operational, commercial, and environmental diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ scene / ritual / human system / natural system
+→ local taxonomy
+→ movement or machinery
+→ pressure
+→ material consequence
+→ deadpan exposure, horror-comedy, or restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+# ARTICLE 008 CHANGELOG
+
+Added:
+
+* natural-system engine
+* local-taxonomy-as-intelligence rule
+* resource-in-motion rule
+* process-shaped-syntax rule
+* freedom-dependence reversal
+* environmental-economy-without-lecture rule
+* natural-scale-without-grandiosity rule
+* material-flow association field
+
+Confirmed:
+
+* exact nouns remain more valuable than general mood
+* diagnosis must follow evidence
+* pure verbal flourish must remain low
+* territory should be explained through systems
+* restraint can carry more pressure than explicit judgment
+
+Modified:
+
+* infrastructure diagnosis now distinguishes human-built systems from autonomous natural systems
+* territorial diagnosis now includes the movement of matter across distant communities
+
+Rejected:
+
+* landscape as postcard
+* frontier romanticism
+* vague environmental reverence
+* freedom without logistics
+* economics detached from physical objects
+* invented folk terminology
+* synthetic grandeur
