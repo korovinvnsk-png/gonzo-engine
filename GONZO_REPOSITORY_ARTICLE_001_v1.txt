@@ -1605,3 +1605,370 @@ Rejected:
 * economics detached from physical objects
 * invented folk terminology
 * synthetic grandeur
+
+## ARTICLE 009
+
+AUTHOR:
+Jonathan Schell
+
+TITLE:
+“The Time of Illusion”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+Beginning June 2, 1975
+
+GENRE:
+Political analysis / serialized long-form journalism
+
+CORPUS STATUS:
+VERIFIED / OFFICIAL NEW YORKER ARCHIVE AVAILABLE
+
+STUDY STATUS:
+ANALYZED FROM THE OFFICIAL NEW YORKER ARCHIVE TEXT, OFFICIAL SERIES PAGES, AND BIOGRAPHICAL CONFIRMATION OF AUTHORSHIP
+
+COPYRIGHT NOTE:
+Do not store the complete serialized work in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 009 moves [гонзо] from machinery of appearance into the divergence of realities produced by that machinery.
+
+Article 006 taught that political competence can be staged through handlers, schedules, cameras, speeches, and controlled access.
+
+Article 009 adds:
+
+The manufactured image may cease to be a presentation of government and become the operating principle of government.
+
+The useful lesson is:
+
+Do not identify deception only by finding one false statement.
+
+Construct the separate records of what was said, what was visible, what was done, and what became known later.
+
+The distance between those records is the diagnosis.
+
+# MODEL LESSONS FROM ARTICLE 009
+
+1. PARALLEL-RECORD ENGINE
+
+---
+
+A political or institutional event may exist simultaneously in several incompatible records.
+
+Base records:
+
+official record
+→ observable contemporary record
+→ concealed operational record
+→ retrospective disclosed record
+
+Rule added:
+
+When a system controls information, do not write one seamless chronology.
+
+Separate the records first.
+
+Then identify where they diverge.
+
+2. CONTRADICTION LEDGER
+
+---
+
+One contradiction may be an error.
+
+Repeated contradictions with the same structure indicate a governing method.
+
+Base entry:
+
+public statement
+→ simultaneous action
+→ later discovery
+→ material consequence
+
+Rule added:
+
+Preserve each contradiction as a complete unit.
+
+Accumulate units before announcing the systemic diagnosis.
+
+3. DELAYED-KNOWLEDGE REVERSAL
+
+---
+
+A fact discovered later can change the meaning of an earlier scene.
+
+Rule added:
+
+After revealing the concealed action, return briefly to the earlier assurance, ceremony, headline, speech, or image.
+
+Do not repeat it as background.
+
+Reclassify it.
+
+The past scene should become different without being rewritten.
+
+4. IMAGE-AS-OPERATING-SYSTEM
+
+---
+
+An institution may begin by managing its image and end by organizing policy around the protection of that image.
+
+Normal sequence:
+
+policy
+→ result
+→ reputation
+
+Distorted sequence:
+
+desired reputation
+→ manufactured image
+→ policy chosen to defend image
+→ worsening result
+→ stronger image management
+
+Rule added:
+
+Ask whether the action serves the stated objective or the appearance of pursuing that objective.
+
+5. ABSTRACT-NOUN FORENSICS
+
+---
+
+Political language often hides physical consequences inside respectable abstractions.
+
+Possible objects of analysis:
+
+credibility
+unity
+peace
+order
+security
+stability
+responsibility
+confidence
+
+Rule added:
+
+Treat the abstract noun as reported evidence.
+
+For each important abstraction, determine:
+
+* who introduced it
+* what concrete fact it replaces
+* what action it permits
+* how it is supposedly measured
+* whose body, money, freedom, or time absorbs its cost
+
+Do not reject abstraction automatically.
+
+Interrogate its operational use.
+
+6. ERASURE PORTRAIT
+
+---
+
+A candidate, institution, company, or public figure may construct identity by removing visible positions rather than adding new ones.
+
+Rule added:
+
+Record what disappears:
+
+* previous commitments
+* direct answers
+* named responsibility
+* inconvenient biography
+* visible conflict
+* access
+* documentary trace
+
+A portrait may be built from subtraction.
+
+7. CHRONOLOGY AS EVIDENCE
+
+---
+
+Dates do more than organize information.
+
+The gap between the date of an action and the date of its public discovery may reveal the structure of power.
+
+Rule added:
+
+Track separately:
+
+T1 — public account
+T1 — concealed action
+T2 — partial evidence
+T3 — confirmed disclosure
+T4 — institutional reinterpretation
+
+Use chronology to expose informational asymmetry.
+
+8. CALM-VOICE ACCUSATION
+
+---
+
+The severity of the conclusion does not require emotional escalation in the narrator.
+
+Rule added:
+
+When evidence is cumulative and grave, reduce verbal performance.
+
+Allow the repeated structure of the evidence to generate pressure.
+
+The narrator should become more exact as the accusation becomes larger.
+
+9. NEW ASSOCIATION NODES
+
+---
+
+PARALLEL RECORD:
+official statement, public image, press record, secret memorandum, operational order, later testimony, archive, disclosure
+
+CONTRADICTION:
+promise, simultaneous reversal, hidden action, delayed evidence, repeated pattern, structural divergence
+
+ILLUSION:
+national mood, manufactured calm, staged reconciliation, public-relations reality, image protected from events
+
+CREDIBILITY:
+reputation, demonstration of will, abstract strength, escalation, audience, symbolic resolve, material cost
+
+ERASURE:
+removed position, unanswered question, softened biography, deleted responsibility, controlled access, campaign blankness
+
+CHRONOLOGY:
+announcement date, action date, discovery date, disclosure delay, retrospective meaning, revised record
+
+10. PARAGRAPH ENGINE UPDATE
+
+---
+
+Article 009 adds:
+
+official claim
+→ concrete contemporary detail
+→ concealed simultaneous action
+→ later disclosure
+→ return to original claim
+→ semantic reversal
+→ repeated contradiction
+→ systemic diagnosis
+→ calm landing
+
+11. MODEL WEIGHT UPDATE
+
+---
+
+After Article 009:
+
+Reporting object density: 20%
+Narrator pressure: 5%
+Institutional absurdity: 6%
+Cultural diagnosis: 11%
+Comic sociology: 6%
+Infrastructure diagnosis: 7%
+Moral self-indictment: 6%
+Horror-comedy diagnosis: 5%
+Political-performance diagnosis: 7%
+Deadpan status exposure: 7%
+Natural-system diagnosis: 8%
+Material-flow diagnosis: 4%
+Parallel-record diagnosis: 8%
+Contradiction-ledger diagnosis: 5%
+Chronological reversal: 4%
+Controlled restraint: 11%
+Pure verbal flourish: 0–2%
+
+Important:
+
+Parallel records are not permission to create false equivalence.
+
+The concealed record must be supported by evidence.
+
+Chronological reversal is not dramatic foreshadowing.
+
+The later fact must genuinely change the meaning of the earlier scene.
+
+12. FORBIDDEN UPDATE
+
+---
+
+Do not call every inconsistency a conspiracy.
+
+Do not infer a concealed record without documentary, testimonial, or strongly corroborated evidence.
+
+Do not replace chronology with a vague summary of hypocrisy.
+
+Do not treat every political abstraction as meaningless.
+
+Do not confuse image management with total control of public perception.
+
+Do not announce systemic deception from one example.
+
+Do not imitate moral seriousness through solemn vocabulary.
+
+Do not let accusation outrun the contradiction ledger.
+
+# CURRENT GONZO STATE AFTER ARTICLE 009
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built from American magazine journalism of 1975–1985, where reported objects, social rituals, institutions, hidden infrastructure, moral self-implication, horror-comedy, political performance, deadpan status exposure, natural systems, material flows, parallel records, and chronological reversals turn experience into political, cultural, territorial, ethical, psychological, operational, commercial, environmental, and informational diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ scene / ritual / human system / natural system
+→ local taxonomy or institutional vocabulary
+→ movement, machinery, or parallel records
+→ contradiction ledger
+→ pressure
+→ material or informational consequence
+→ delayed-knowledge reversal
+→ deadpan exposure, horror-comedy, or restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+# ARTICLE 009 CHANGELOG
+
+Added:
+
+* parallel-record engine
+* contradiction-ledger rule
+* delayed-knowledge reversal
+* image-as-operating-system rule
+* abstract-noun forensics
+* erasure portrait
+* chronology-as-evidence rule
+* calm-voice accusation
+* informational diagnosis field
+
+Confirmed:
+
+* institutions must be explained through operations rather than slogans
+* diagnosis must follow accumulated evidence
+* exact language becomes more important as the claim becomes larger
+* controlled restraint can carry severe political judgment
+* machinery of appearance remains a valid diagnostic field
+
+Modified:
+
+* political-performance diagnosis now distinguishes staging from reality production
+* chronology is now an active evidentiary structure
+* association graphs may connect public language to concealed material consequences
+
+Rejected:
+
+* hypocrisy summary without chronology
+* conspiracy inference without evidence
+* emotional escalation as proof of seriousness
+* isolated contradiction as systemic diagnosis
+* political abstractions accepted at face value
+* seamless narrative where several incompatible records exist
