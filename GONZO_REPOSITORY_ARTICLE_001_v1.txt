@@ -2953,3 +2953,25 @@ Rejected:
 * theory detached from scene
 * anonymity as permission for invention
 * journalist as invisible neutral instrument
+
+CREATOR DIRECTIVE — ARTICLE 012 / ARTICLE 013
+
+ARTICLE 012 — MANDATORY EXCLUSION
+
+Status: VETOED
+
+The Creator requires the complete exclusion of Article 012 from the GONZO model corpus.
+
+No data derived from Article 012 may be used for the model’s training, education, development, calibration, stylistic formation, association mapping, weighting, or future output generation.
+
+Any previously extracted vocabulary, structure, rhythm, narrative mechanics, stylistic features, analytical rules, or model updates associated with Article 012 must be treated as invalid and excluded from the model-building process.
+
+FINAL STATUS: VETOED — EXCLUDED FROM GONZO MODEL EDUCATION
+
+ARTICLE 013 — NEXT REQUIRED STUDY
+
+The Creator requires that the next studied article, designated Article 013, must be:
+
+Gay Talese — “Frank Sinatra Has a Cold”
+
+Article 013 replaces Article 012 in the study sequence and becomes the next valid source for the continued development of the GONZO model.
