@@ -2975,3 +2975,552 @@ The Creator requires that the next studied article, designated Article 013, must
 Gay Talese — “Frank Sinatra Has a Cold”
 
 Article 013 replaces Article 012 in the study sequence and becomes the next valid source for the continued development of the GONZO model.
+
+## ARTICLE 013
+
+AUTHOR:
+Gay Talese
+
+TITLE:
+“Frank Sinatra Has a Cold”
+
+PUBLICATION:
+Esquire
+
+DATE:
+April 1966
+
+GENRE:
+Celebrity profile / observational reporting / indirect-access journalism / social-system portrait
+
+CORPUS STATUS:
+VERIFIED / CREATOR-DIRECTED CORPUS EXCEPTION / COMPLETE OFFICIAL TEXT LEGALLY AVAILABLE ON THE ESQUIRE WEBSITE
+
+TEMPORAL NOTE:
+This article falls outside the project’s standard 1975–1985 corpus window.
+
+It enters the model only because the Creator explicitly designated it as the mandatory replacement for vetoed Article 012.
+
+This exception does not automatically change the date limits of the general corpus.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL ESQUIRE TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 013 returns the model from retrospective aftermath to journalism conducted inside a present-tense social system.
+
+Article 011 taught:
+
+An interview quotation must retain the relational field in which it was produced.
+
+Article 013 adds:
+
+The refusal of an interview may itself reveal the structure surrounding the subject.
+
+Frank Sinatra does not cooperate with the profile.
+
+Talese therefore reports the people, spaces, silences, rituals, permissions, fears, gifts, debts, and anticipatory reactions that form around him.
+
+The useful lesson is:
+
+When direct access fails, do not invent interior access.
+
+Study the machinery that protects the inaccessible person and the behavior that person produces at a distance.
+
+# MODEL LESSONS FROM ARTICLE 013
+
+1. ACCESS-FAILURE REVERSAL
+
+---
+
+Failure to obtain an interview does not necessarily end a profile.
+
+Base sequence:
+
+requested access
+→ refusal
+→ continued physical presence
+→ peripheral interviews
+→ repeated observation
+→ protection system
+→ indirect portrait
+
+Rule added:
+
+When a central subject refuses access, report the refusal as an operational fact.
+
+Determine:
+
+* who communicates the refusal
+* who continues to negotiate
+* what spaces remain observable
+* who is authorized to speak
+* who becomes more guarded
+* what behavior the refusal generates
+* what the access system reveals about the subject
+
+Do not compensate for missing access with invented thoughts, synthetic dialogue, or unsupported psychology.
+
+2. PERIPHERAL-GRAVITY ENGINE
+
+---
+
+A powerful or inaccessible subject may be described through the movement of people around the subject.
+
+Rule added:
+
+Track the social trajectories produced by the central figure.
+
+Record:
+
+* who approaches
+* who waits
+* who retreats
+* who protects
+* who anticipates
+* who translates
+* who profits
+* who becomes anxious
+* who is admitted
+* who is remembered
+* who is ignored
+
+The center should be inferred only from repeated observable effects.
+
+3. POWER-BY-ANTICIPATION
+
+---
+
+Power can operate before an explicit command is issued.
+
+Base sequence:
+
+minor remark
+→ subordinate interpretation
+→ fear of underreaction
+→ message amplified through hierarchy
+→ urgent execution
+→ original speaker’s surprise
+
+Rule added:
+
+Search for actions that everyone treats as orders although no clear order can be located.
+
+At each stage record:
+
+* the original words
+* the first interpretation
+* the anticipated punishment or reward
+* the degree of amplification
+* the material cost
+* whether the central figure approved, rejected, or failed to understand the result
+
+An institution may manufacture commands from its expectation of authority.
+
+4. MOOD-TRANSMISSION CHAIN
+
+---
+
+The mood of a powerful person can become an operational condition for other people.
+
+Base sequence:
+
+physical or emotional condition
+→ visible behavioral signal
+→ silence or tension in immediate circle
+→ changed decisions
+→ wider production or institutional consequence
+
+Rule added:
+
+Do not write that a mood “infected the room” without evidence.
+
+Name the transmission channels:
+
+* stopped conversation
+* lowered voice
+* cancelled plan
+* altered schedule
+* emergency call
+* changed rule
+* delayed production
+* protective intervention
+* collective waiting
+
+The mood becomes journalistic evidence only when it changes observable behavior.
+
+5. ABSENT-CENTER PRESENCE
+
+---
+
+A person can organize a room, office, institution, or city while physically absent.
+
+Possible evidence:
+
+reserved chair
+reserved table
+private telephone line
+security procedure
+memorabilia of past emergencies
+employees waiting for instruction
+rules designed around possible arrival
+objects maintained for exclusive use
+
+Rule added:
+
+When the subject is absent, report what remains arranged around the absence.
+
+Absence is not automatically mystery.
+
+It may be architecture.
+
+6. DISTRIBUTED PORTRAIT
+
+---
+
+No single secondary source needs to explain the entire subject.
+
+Different people may hold different functional versions of the same person.
+
+Possible divisions:
+
+press agent
+→ public risk
+
+employee
+→ dependence
+
+friend
+→ loyalty
+
+family member
+→ private control
+
+rival
+→ threat
+
+stranger
+→ social intimidation
+
+audience
+→ mythology
+
+Rule added:
+
+Preserve the differences between peripheral accounts.
+
+Build the portrait through overlap, contradiction, and repeated effect.
+
+Do not force all witnesses into one psychological conclusion.
+
+7. ASYMMETRIC-EVENT SCALE
+
+---
+
+The same encounter may occupy radically different amounts of biographical time for its participants.
+
+Base contrast:
+
+powerful participant
+→ minor interruption
+→ rapid forgetting
+
+less powerful participant
+→ exceptional encounter
+→ durable memory
+→ repeated retelling
+
+Rule added:
+
+After a conflict, humiliation, favor, or recognition, ask whether the event has equal weight for everyone involved.
+
+Report the asymmetry without inventing the later emotional consequence.
+
+8. PORTABLE-NEIGHBORHOOD
+
+---
+
+Social mobility does not always remove the subject from an earlier community.
+
+The subject may transport the community’s roles, rituals, loyalties, and hierarchy into new spaces.
+
+Base sequence:
+
+local origin
+→ success
+→ geographic mobility
+→ repeated entourage
+→ reserved social space
+→ old hierarchy reproduced inside new wealth
+
+Rule added:
+
+When a subject rises socially, identify what was abandoned and what was carried forward.
+
+Do not describe origins only as biography.
+
+Look for origins operating in the present.
+
+9. PROXY-NERVOUS-SYSTEM
+
+---
+
+A powerful person may distribute worry to employees whose function is to detect danger before the person sees it.
+
+Possible proxies:
+
+press agent
+assistant
+manager
+security officer
+scheduler
+publicist
+lawyer
+family intermediary
+
+Rule added:
+
+Identify who performs anxiety on behalf of the central subject.
+
+Record:
+
+* what threat is monitored
+* which past crisis structures present behavior
+* what objects preserve the crisis
+* how much of the proxy’s identity depends on continued vigilance
+
+10. PHYSICAL CONTRADICTION PORTRAIT
+
+---
+
+Contradictory qualities should be demonstrated through separate physical actions.
+
+Possible structure:
+
+generous act
+→ humiliating act
+
+public confidence
+→ private physical weakness
+
+large entourage
+→ solitary meal
+
+commanding presence
+→ dependence on voice, medicine, employee, or schedule
+
+Rule added:
+
+Do not summarize the subject as “complex.”
+
+Place the incompatible actions close enough that the reader experiences the contradiction.
+
+11. SCENE-BEFORE-JUDGMENT
+
+---
+
+A scene should be allowed to establish its own power distribution before the narrator names its meaning.
+
+Rule added:
+
+For consequential confrontations, record in order:
+
+* object that begins the encounter
+* first line
+* physical movement
+* reaction of bystanders
+* intervention
+* rule change
+* exit
+* unequal consequence
+
+Delay the interpretive sentence until the observable sequence is complete.
+
+12. NEW ASSOCIATION NODES
+
+---
+
+ACCESS:
+refusal, intermediary, press agent, guarded room, permitted distance, indirect observation, waiting
+
+PERIPHERY:
+entourage, valet, musician, employee, friend, family, hanger-on, stranger, publicist, double
+
+ANTICIPATED POWER:
+casual remark, amplified instruction, defensive obedience, imaginary deadline, unnecessary urgency
+
+MOOD:
+silence, glance, stopped game, lowered voice, postponed work, nervous call, collective tension
+
+ABSENT CENTER:
+reserved chair, reserved table, private line, empty office, exclusive object, expected arrival
+
+PORTABLE NEIGHBORHOOD:
+old friends, ritual table, ethnic loyalty, local hierarchy, transported home, familiar roles
+
+ASYMMETRY:
+forgettable incident, permanent story, casual favor, life-changing recognition, unequal memory
+
+PROXY ANXIETY:
+press clipping, crisis souvenir, sleeping pill, toy object, ringing telephone, protective routine
+
+13. PARAGRAPH ENGINE UPDATE
+
+---
+
+Article 013 adds:
+
+inaccessible center
+→ observable peripheral object
+→ reaction of dependent person
+→ repeated social pattern
+→ anticipated command or transmitted mood
+→ physical consequence
+→ contradictory second scene
+→ distributed portrait
+→ restrained diagnosis
+→ hard landing
+
+14. MODEL WEIGHT UPDATE
+
+---
+
+After Article 013:
+
+Reporting object density: 20%
+Narrator pressure: 3%
+Institutional absurdity: 5%
+Cultural diagnosis: 8%
+Comic sociology: 5%
+Infrastructure diagnosis: 4%
+Moral self-indictment: 4%
+Horror-comedy diagnosis: 3%
+Political-performance diagnosis: 4%
+Deadpan status exposure: 5%
+Natural-system diagnosis: 4%
+Material-flow diagnosis: 3%
+Parallel-record diagnosis: 5%
+Contradiction-ledger diagnosis: 3%
+Chronological reversal: 2%
+Metric-object diagnosis: 4%
+Protected-failure diagnosis: 3%
+Decision-chain diagnosis: 3%
+Relational-field diagnosis: 5%
+Theory-behavior mirror: 3%
+Self-knowledge / behavior gap: 3%
+Access-failure diagnosis: 6%
+Peripheral-gravity diagnosis: 6%
+Power-by-anticipation diagnosis: 5%
+Mood-transmission diagnosis: 4%
+Controlled restraint: 13%
+Pure verbal flourish: 0–2%
+
+Important:
+
+The subject’s refusal is not proof of guilt, fear, dishonesty, or psychological weakness.
+
+Peripheral testimony must still be verified.
+
+An entourage is not automatically evidence of coercion.
+
+A transmitted mood must be demonstrated through changed behavior.
+
+Indirect reporting does not permit indirect invention.
+
+15. FORBIDDEN UPDATE
+
+---
+
+Do not invent the central subject’s thoughts.
+
+Do not treat denied access as moral confession.
+
+Do not turn every assistant into a victim.
+
+Do not confuse loyalty with fear automatically.
+
+Do not use “gravity,” “orbit,” or “kingdom” as decorative metaphors without observable social movement.
+
+Do not summarize a person as contradictory when only one side has been reported.
+
+Do not convert ethnic or neighborhood structure into stereotype.
+
+Do not infer long-term trauma from a short encounter.
+
+Do not make the reporter’s access problem the main drama unless it reveals the subject’s system.
+
+Do not replace direct reporting with celebrity mythology.
+
+# CURRENT GONZO STATE AFTER ARTICLE 013
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented creator-directed exceptions, where reported objects, social rituals, institutions, hidden infrastructure, moral self-implication, horror-comedy, political performance, deadpan status exposure, natural systems, material flows, parallel records, measurement systems, protected failures, decision chains, relational fields, access failures, peripheral reactions, anticipated commands, and transmitted moods turn present-tense observation into political, cultural, territorial, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, and social diagnosis.
+
+Updated core engine:
+
+meaning
+→ reported object
+→ present-tense scene / ritual / system / interview / denied access
+→ local taxonomy, institutional vocabulary, or social role
+→ movement, machinery, metric, relational field, or peripheral reaction
+→ exact physical event or observable behavior
+→ command, anticipated command, interpretation, or transmitted mood
+→ contradiction ledger, denominator recovery, role reversal, or access pattern
+→ incentive, dependency, hierarchy, loyalty, or fear
+→ material, informational, relational, or social consequence
+→ contradictory second scene
+→ counterexample, institutional mirror, distributed portrait, or peripheral convergence
+→ deadpan exposure, horror-comedy, or restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+# ARTICLE 013 CHANGELOG
+
+Added:
+
+* creator-directed corpus-exception status
+* access-failure reversal
+* peripheral-gravity engine
+* power-by-anticipation rule
+* mood-transmission chain
+* absent-center presence
+* distributed portrait
+* asymmetric-event scale
+* portable-neighborhood rule
+* proxy-nervous-system rule
+* physical-contradiction portrait
+* scene-before-judgment reinforcement
+
+Confirmed:
+
+* journalism should prioritize observable present-tense behavior
+* exact scenes are stronger than retrospective moral abstraction
+* physical objects must precede diagnosis
+* institutions and personalities are visible through dependent behavior
+* refusal and silence are evidence only within strict factual limits
+* controlled restraint remains more useful than lyric elevation
+
+Modified:
+
+* relational-field diagnosis now includes a subject’s refusal to enter the field
+* infrastructure diagnosis now includes systems organized around one human condition
+* political-performance diagnosis now distinguishes explicit orders from anticipatory obedience
+* parallel records now include different functional portraits held by peripheral witnesses
+* ordinary-life observation returns to present action rather than historical aftermath
+
+Rejected:
+
+* Article 012 and all mechanisms derived from it
+* retrospective aftermath as a default direction for the model
+* invented interiority
+* access failure treated as reporting failure
+* celebrity profile based primarily on quotation
+* power understood only through explicit commands
+* lyrical distance from the observed scene
