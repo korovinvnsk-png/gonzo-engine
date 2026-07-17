@@ -3524,3 +3524,547 @@ Rejected:
 * celebrity profile based primarily on quotation
 * power understood only through explicit commands
 * lyrical distance from the observed scene
+
+## ARTICLE 014
+
+AUTHOR:
+E. J. Kahn, Jr.
+
+TITLE:
+“The Candy Factory—II: What Keeps ‘60 Minutes’ Ticking Away?”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+July 19, 1982
+Print issue: July 26, 1982
+
+GENRE:
+Institutional profile / media reporting / production-system analysis / journalistic ethics
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS / COMPLETE OFFICIAL TEXT LEGALLY AVAILABLE ON THE NEW YORKER WEBSITE
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL NEW YORKER TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 014 keeps [гонзо] inside a contemporary, observable production system.
+
+Article 013 taught:
+
+A powerful or inaccessible public figure can be described through the reactions, permissions, anxieties, and anticipatory behavior of the surrounding people.
+
+Article 014 adds the reverse structure:
+
+The visible public figure may be produced by an invisible chain of researchers, producers, camera crews, editors, lawyers, and institutional decisions.
+
+The useful lesson is:
+
+Do not treat a finished piece of journalism as a transparent container of facts.
+
+Report how the facts were selected, provoked, staged, filmed, ordered, voiced, edited, legally approved, and converted into public authority.
+
+# MODEL LESSONS FROM ARTICLE 014
+
+1. HIDDEN-PRODUCTION ENGINE
+
+---
+
+A public journalistic product may conceal the people who performed most of the reporting and production.
+
+Base sequence:
+
+story proposal
+→ producer
+→ researcher
+→ source negotiation
+→ travel and access
+→ camera crew
+→ correspondent
+→ editor
+→ legal review
+→ broadcast
+
+Rule added:
+
+When reporting on media, politics, advertising, business, or any public performance, identify the hidden roles that create the visible result.
+
+Record separately:
+
+* who originated the idea
+* who performed the research
+* who obtained access
+* who appears publicly
+* who selected the material
+* who accepted legal risk
+* who receives credit
+* who receives blame
+
+Do not assume that visibility and authorship are identical.
+
+2. TRUTH / STAGING SEPARATION
+
+---
+
+A scene may contain real people, real objects, and a true general claim while still misrepresenting how the event occurred.
+
+Separate:
+
+A — object authenticity
+B — action authenticity
+C — discovery authenticity
+D — spontaneity authenticity
+E — editorial impression
+
+Rule added:
+
+Do not reduce the evaluation of a scene to “real” or “fake.”
+
+Determine which layer is supported.
+
+A real object does not prove a spontaneous discovery.
+
+A rehearsed discovery does not automatically make the underlying object false.
+
+The reader must be told which fact survived and which circumstance was altered.
+
+3. OBSERVER-CAUSED EVENT
+
+---
+
+The presence or promised presence of journalism may help produce the event being reported.
+
+Base sequence:
+
+possible action
+→ media interest
+→ participant commitment
+→ camera arrival
+→ action occurs
+→ action presented as evidence
+
+Rule added:
+
+Ask whether the event would have occurred:
+
+* without the journalist
+* without the camera
+* without the promised audience
+* at the same time
+* in the same form
+* with the same intensity
+
+Do not automatically invalidate an observer-caused event.
+
+Preserve the journalist’s causal role.
+
+4. PRODUCTION-ROLE SPLIT
+
+---
+
+The public correspondent and the operational producer may perform different authorship functions.
+
+Possible division:
+
+producer
+→ research, access, structure, schedule, responsibility
+
+correspondent
+→ public confrontation, voice, presence, authority
+
+camera crew
+→ visual evidence and visual limitation
+
+editor
+→ sequence, emphasis, duration, omission
+
+lawyer
+→ permissible risk
+
+executive producer
+→ final institutional judgment
+
+Rule added:
+
+Attribute decisions to the role that actually made them.
+
+Do not assign the producer’s reporting to the correspondent merely because the correspondent appears on screen.
+
+5. EDITORIAL-PUNCTUATION ENGINE
+
+---
+
+Meaning in recorded journalism is created not only by quoted language.
+
+Possible editorial punctuation:
+
+* pause
+* cut
+* reaction shot
+* repeated question
+* removed hesitation
+* shortened answer
+* voice-over
+* music
+* sequence
+* visual juxtaposition
+* concluding sentence
+
+Rule added:
+
+When analyzing audio or video, report how editorial punctuation changes emphasis.
+
+A pause may operate as a comma.
+
+A cut may operate as an accusation.
+
+A reaction shot may create a relationship that did not exist in continuous time.
+
+Do not infer manipulation without examining the available sequence.
+
+6. METHOD-REVERSIBILITY TEST
+
+---
+
+A journalistic method should be examined after reversing its direction.
+
+Base test:
+
+institution secretly records subject
+→ subject secretly records institution
+
+journalist confronts reluctant witness
+→ witness confronts journalist with private material
+
+editor selects damaging fragments
+→ investigated organization selects damaging fragments from editor’s conduct
+
+Rule added:
+
+Ask whether the organization accepts the legitimacy of the method when it becomes the object rather than the operator.
+
+An inconsistent response does not prove that the original method was invalid.
+
+It reveals a power asymmetry requiring explanation.
+
+7. PUBLICATION-THREAT SHADOW
+
+---
+
+Journalistic authority can alter behavior before publication.
+
+Base sequence:
+
+possible investigation
+→ anticipated exposure
+→ institutional anxiety
+→ changed conduct
+→ publication may become unnecessary
+
+Rule added:
+
+Distinguish:
+
+published influence
+from
+anticipated-publication influence.
+
+Record who invoked the possibility of coverage and whether the journalist authorized that invocation.
+
+Do not allow journalistic reputation to become an unreported form of private coercion.
+
+8. REVELATION-AS-INSTRUCTION
+
+---
+
+A report exposing a vulnerability may also teach audiences how to exploit it.
+
+Base sequence:
+
+vulnerability discovered
+→ procedure demonstrated
+→ public warning
+→ unintended instructional use
+→ copied violation
+
+Rule added:
+
+When publishing operational detail, identify:
+
+* public value
+* procedural specificity
+* likely legitimate users
+* likely malicious users
+* safeguards omitted or included
+* evidence of imitation
+
+Do not suppress useful reporting automatically.
+
+Record the double function.
+
+9. VISIBLE-ACQUISITION REQUIREMENT
+
+---
+
+Some forms of journalism depend on showing the process by which information was obtained.
+
+Possible evidence:
+
+doorstep confrontation
+field travel
+document presentation
+physical demonstration
+unscripted reaction
+failed access
+visible verification
+
+Rule added:
+
+Show acquisition when the acquisition itself establishes credibility, resistance, risk, or power.
+
+Do not manufacture movement merely because a stationary explanation appears less dramatic.
+
+The process must add evidence.
+
+10. DRAMA / EVIDENCE BALANCE
+
+---
+
+Journalism may require selection and dramatic form without becoming fiction.
+
+Rule added:
+
+For each dramatic element, determine:
+
+* what factual function it performs
+* what information it omits
+* whether it changes chronology
+* whether it intensifies an established fact
+* whether it creates a conclusion not supported by the full material
+
+Drama may carry evidence.
+
+Drama may not manufacture evidence.
+
+11. INSTITUTIONAL SELF-EXEMPTION
+
+---
+
+An institution that investigates power may consider itself exempt from equivalent investigation.
+
+Rule added:
+
+Compare the institution’s declared standard for others with its operational standard for itself.
+
+Possible fields:
+
+access
+privacy
+editing
+correction
+transparency
+source protection
+financial disclosure
+conflict of interest
+
+Do not use self-exemption as a generic accusation.
+
+Name the precise asymmetry.
+
+12. NEW ASSOCIATION NODES
+
+---
+
+PRODUCTION:
+producer, researcher, correspondent, camera crew, editor, screening room, lawyer, schedule, outtake
+
+STAGING:
+rehearsal, repeated action, prepared discovery, authentic object, false spontaneity, dramatic enhancement
+
+EDITORIAL PUNCTUATION:
+pause, cut, reaction shot, voice-over, sequence, omission, inflection, visual emphasis
+
+MEDIA CAUSATION:
+camera promised, protest organized, official prepares, subject performs, action accelerated
+
+PUBLICATION SHADOW:
+possible story, feared exposure, mayoral call, institutional response, reputation as leverage
+
+REVERSIBILITY:
+hidden camera, reciprocal scrutiny, private office, selected fragment, asymmetrical consent
+
+REVELATION:
+demonstration, vulnerability, warning, imitation, procedural knowledge, unintended instruction
+
+VISIBLE ACQUISITION:
+travel, confrontation, doorway, document, chase, failed interview, physical verification
+
+13. PARAGRAPH ENGINE UPDATE
+
+---
+
+Article 014 adds:
+
+visible public product
+→ hidden production role
+→ exact reporting operation
+→ observer effect
+→ real fact / staged circumstance split
+→ editorial punctuation
+→ institutional decision
+→ method-reversibility test
+→ public consequence
+→ restrained diagnosis
+→ hard landing
+
+14. MODEL WEIGHT UPDATE
+
+---
+
+After Article 014:
+
+Reporting object density: 20%
+Narrator pressure: 3%
+Institutional absurdity: 5%
+Cultural diagnosis: 7%
+Comic sociology: 4%
+Infrastructure diagnosis: 4%
+Moral self-indictment: 4%
+Horror-comedy diagnosis: 2%
+Political-performance diagnosis: 4%
+Deadpan status exposure: 4%
+Natural-system diagnosis: 3%
+Material-flow diagnosis: 3%
+Parallel-record diagnosis: 5%
+Contradiction-ledger diagnosis: 3%
+Metric-object diagnosis: 4%
+Protected-failure diagnosis: 3%
+Decision-chain diagnosis: 4%
+Relational-field diagnosis: 4%
+Access-failure diagnosis: 4%
+Peripheral-gravity diagnosis: 4%
+Power-by-anticipation diagnosis: 4%
+Mood-transmission diagnosis: 3%
+Hidden-production diagnosis: 6%
+Truth-staging diagnosis: 6%
+Observer-caused-event diagnosis: 5%
+Editorial-punctuation diagnosis: 4%
+Method-reversibility diagnosis: 4%
+Controlled restraint: 14%
+Pure verbal flourish: 0–1%
+
+Important:
+
+Selection is not automatically falsification.
+
+Editing is not automatically manipulation.
+
+A staged circumstance does not automatically invalidate the underlying fact.
+
+An observer-caused event must be disclosed and interpreted, not automatically discarded.
+
+The model must distinguish production from fabrication.
+
+15. FORBIDDEN UPDATE
+
+---
+
+Do not call every edited scene deceptive.
+
+Do not assume that a camera always corrupts the event.
+
+Do not treat producers as invisible conspirators.
+
+Do not attribute all decisions to the person appearing publicly.
+
+Do not infer staging merely because a scene is dramatic.
+
+Do not equate real objects with truthful chronology.
+
+Do not use the reversibility test as automatic moral proof.
+
+Do not reproduce harmful procedural detail when the detail adds no journalistic value.
+
+Do not replace weak evidence with visible confrontation.
+
+Do not confuse a famous journalistic style with the reporting labor that produced it.
+
+Do not let media criticism become vague suspicion of all mediation.
+
+# CURRENT GONZO STATE AFTER ARTICLE 014
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented creator-directed exceptions, where reported objects, present-tense scenes, social rituals, institutions, hidden infrastructure, measurements, relational fields, access systems, peripheral reactions, production chains, observer effects, editorial punctuation, and the division between factual truth and staged circumstance turn observable experience into political, cultural, territorial, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, social, and media diagnosis.
+
+Updated core engine:
+
+meaning
+→ exact present-tense object
+→ scene / ritual / system / interview / denied access / media product
+→ observable behavior or reporting operation
+→ visible role / hidden production role
+→ movement, machinery, metric, relational field, or camera effect
+→ exact fact
+→ circumstances of acquisition
+→ truth / staging separation
+→ institutional interpretation or editorial punctuation
+→ contradiction ledger, denominator recovery, access pattern, or reversibility test
+→ incentive, dependency, hierarchy, production responsibility, or audience demand
+→ material, informational, relational, social, or media consequence
+→ contradictory second scene or observer-caused event
+→ controlled exposure or restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+# ARTICLE 014 CHANGELOG
+
+Added:
+
+* hidden-production engine
+* truth / staging separation
+* observer-caused-event rule
+* production-role split
+* editorial-punctuation engine
+* method-reversibility test
+* publication-threat shadow
+* revelation-as-instruction rule
+* visible-acquisition requirement
+* drama / evidence balance
+* institutional-self-exemption rule
+* media-production diagnosis field
+
+Confirmed:
+
+* journalism must remain attached to observable contemporary operations
+* exact objects and actions must precede interpretation
+* institutions reveal themselves through workflow and responsibility
+* visible performance may conceal invisible labor
+* controlled restraint is stronger than generalized media suspicion
+* diagnosis must distinguish fact, method, presentation, and consequence
+
+Modified:
+
+* access diagnosis now includes access manufactured for television
+* political-performance diagnosis now includes journalistic performance
+* decision-chain analysis now includes reporting and editing chains
+* parallel records now include raw event, filmed event, edited event, and perceived event
+* power-by-anticipation now includes the anticipated threat of publication
+
+Rejected:
+
+* media product as transparent fact container
+* public correspondent as sole author
+* automatic condemnation of editing
+* automatic trust in real-looking scenes
+* drama used as evidence
+* confrontation without informational value
+* lyrical description of media power without production detail
