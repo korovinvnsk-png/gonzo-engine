@@ -4068,3 +4068,589 @@ Rejected:
 * drama used as evidence
 * confrontation without informational value
 * lyrical description of media power without production detail
+
+## ARTICLE 015
+
+AUTHOR:
+Elizabeth Drew
+
+TITLE:
+“A Tendency to Legislate”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+June 19, 1978
+Print issue: June 26, 1978
+
+GENRE:
+Congressional reporting / procedural observation / institutional analysis / present-tense political journalism
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS / COMPLETE OFFICIAL TEXT LEGALLY AVAILABLE IN THE NEW YORKER DIGITAL ARCHIVE
+
+SOURCE NOTE:
+The official archive states that the article was digitized through an automated process and may contain transcription errors.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL NEW YORKER DIGITAL TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 015 moves [гонзо] from the production of a media account into the production of an institutional decision.
+
+Article 014 taught:
+
+A public journalistic product is created through a hidden production chain, observer effects, selection, staging, editing, and institutional judgment.
+
+Article 015 adds:
+
+An official decision can also be produced through a hidden chain of procedural labels, time pressure, attention scarcity, visible vote totals, proxy signals, and locally rational shortcuts.
+
+The House members are not shown as uniformly corrupt, stupid, or indifferent.
+
+They are shown inside a system that presents more decisions than they can directly understand and then supplies them with increasingly powerful substitutes for understanding.
+
+The useful lesson is:
+
+When a person appears to decide without knowledge, report the machinery that made knowledge expensive and imitation efficient.
+
+# MODEL LESSONS FROM ARTICLE 015
+
+1. ATTENTION-BUDGET ENGINE
+
+---
+
+Attention is a finite operational resource.
+
+Base sequence:
+
+number of decisions
+→ available time
+→ depth of examination
+→ reliance on proxy signals
+→ decision quality
+→ institutional consequence
+
+Rule added:
+
+When reporting a rushed or superficial decision, reconstruct the subject’s attention budget.
+
+Record:
+
+* number of simultaneous responsibilities
+* time available
+* documents available
+* documents actually read
+* competing meetings
+* interruptions
+* travel
+* deadlines
+* electoral incentives
+* number of decisions required
+
+Do not use overload as automatic excuse.
+
+Use it as causal evidence.
+
+2. PROCEDURAL-DEFAULT LEGITIMACY
+
+---
+
+A procedural category can create a presumption about the content placed inside it.
+
+Base sequence:
+
+item assigned to “noncontroversial” procedure
+→ participants assume safety
+→ scrutiny falls
+→ item passes
+→ successful passage confirms procedural label
+
+Rule added:
+
+When a system classifies an item before examination, determine whether the classification has become a substitute for examination.
+
+Possible labels:
+
+noncontroversial
+routine
+pre-approved
+low risk
+standard
+automatic
+recommended
+verified
+normal
+ready
+
+Do not assume the label is false.
+
+Report how much independent checking survives after the label is applied.
+
+3. PROXY-SIGNAL DECISION
+
+---
+
+When direct knowledge is expensive, participants may use signals as substitutes.
+
+Possible signals:
+
+* leadership recommendation
+* colleague’s vote
+* party advisory
+* absence of lobbying
+* current tally
+* respected dissenter
+* bill title
+* procedural category
+* visible majority
+* urgency marker
+
+Rule added:
+
+For every proxy signal, record:
+
+* what information it supposedly represents
+* who produced it
+* why the decision-maker trusts it
+* what information it omits
+* whether several participants are relying on the same unverified signal
+
+A proxy can be rational locally and dangerous systemically.
+
+4. VISIBLE-CONSENSUS FEEDBACK
+
+---
+
+A displayed intermediate result can alter the decisions that create the final result.
+
+Base sequence:
+
+first votes
+→ public tally
+→ interpretation of momentum
+→ later votes
+→ stronger tally
+→ apparent consensus
+
+Rule added:
+
+When a system displays a running result, identify who can observe the result before acting.
+
+Possible fields:
+
+legislative voting
+polls
+social-media reactions
+auction prices
+sales dashboards
+ratings
+meeting votes
+crowdfunding
+public queues
+booking counters
+
+Do not treat the final majority as independent evidence when participants observed and followed the developing majority.
+
+5. BINARY-PACKAGE COERCION
+
+---
+
+A complex proposal may be protected by reducing it to a binary choice attached to a morally powerful category.
+
+Base sequence:
+
+many provisions
+→ amendments prohibited
+→ attractive public title
+→ total-package vote
+→ opposition reframed as opposition to the beneficiary
+
+Rule added:
+
+Separate:
+
+* the stated moral category
+* the complete operational package
+* the disputed provisions
+* the unavailable intermediate choices
+
+Do not assume that support for the category proves support for every mechanism inside the package.
+
+Do not assume that opposition to one mechanism proves opposition to the category.
+
+6. SILENCE-AS-ATTENTION-ABSENCE
+
+---
+
+Silence inside an overloaded system may indicate that no participant had enough time, incentive, standing, or organization to produce an objection.
+
+Base sequence:
+
+no visible opposition
+→ item classified as safe
+→ reduced scrutiny
+→ rapid approval
+
+Rule added:
+
+Before interpreting silence as consent, determine:
+
+* who had time to inspect the matter
+* who had authority to object
+* who would bear the cost of objecting
+* whether the affected people were represented
+* whether anyone knew an objection was required
+* whether the procedure permitted revision
+
+Silence is evidence of consent only after the conditions for meaningful objection have been established.
+
+7. VOLUME-CREATES-SHORTCUT LOOP
+
+---
+
+A high volume of institutional output can create shortcuts that make still greater output possible.
+
+Base loop:
+
+more programs
+→ more maintenance and authorization
+→ larger decision queue
+→ accelerated procedure
+→ reduced scrutiny
+→ easier continuation and creation
+→ more programs
+
+Rule added:
+
+When a system introduces an efficiency shortcut, check whether the shortcut reduces the underlying workload or merely increases throughput.
+
+Higher throughput may deepen the condition that justified the shortcut.
+
+8. MOMENTUM-BEFORE-MERIT
+
+---
+
+A proposal may acquire direction before most participants understand its contents.
+
+Possible momentum signals:
+
+early majority
+respected dissenter
+leadership position
+visible queue
+social approval
+rapid first sale
+public endorsement
+
+Rule added:
+
+Record separately:
+
+T1 — first participants act
+T2 — result becomes visible
+T3 — later participants observe result
+T4 — later participants investigate, imitate, or avoid
+T5 — final result is described as collective judgment
+
+Do not infer independent agreement when the evidence shows sequential imitation.
+
+9. PROCEDURE-AS-SCENE
+
+---
+
+Institutional procedure should be reported through observable physical operations.
+
+Possible evidence:
+
+clock
+electronic card
+colored light
+doorway instruction
+empty seat
+printed advisory
+running tally
+five-minute timer
+member arriving from lunch
+postponed vote
+changed vote
+
+Rule added:
+
+Do not leave procedure in explanatory summary.
+
+Enter the room and show what participants physically do.
+
+10. CATEGORY-VOTE / TEXT-VOTE SPLIT
+
+---
+
+A participant may believe that the vote concerns a moral category while the enacted text creates a much larger operational system.
+
+Base contrast:
+
+public category
+versus
+specific clauses, formulas, offices, spending authorizations, committees, and enforcement rules
+
+Rule added:
+
+For important institutional decisions, state both what participants say they are voting for and what the text physically creates.
+
+11. OUTPUT-METRIC / ATTENTION-DEGRADATION LOOP
+
+---
+
+An institution may measure productivity by quantity of completed decisions.
+
+Base sequence:
+
+output count becomes prestige metric
+→ pressure to complete more items
+→ attention per item falls
+→ shortcuts expand
+→ output count rises
+→ institution reports success
+
+Rule added:
+
+When an output metric rises, check whether the input of attention per unit is falling.
+
+Do not assume that a larger completed count means greater substantive accomplishment.
+
+12. OVERLOAD WITHOUT SINGLE VILLAIN
+
+---
+
+Systemic degradation may emerge from actors following understandable local incentives.
+
+Possible incentives:
+
+leadership
+→ clear calendar and avoid defeat
+
+committee chairman
+→ protect bill from amendments
+
+member
+→ maintain voting record
+
+party
+→ preserve unity
+
+staff
+→ protect program and employment
+
+interest group
+→ secure continuation
+
+Rule added:
+
+Map the incentives before assigning responsibility.
+
+Distributed causation does not eliminate responsibility.
+
+It changes where responsibility must be located.
+
+13. NEW ASSOCIATION NODES
+
+---
+
+ATTENTION:
+calendar, committee, meeting, phone call, district travel, advisory sheet, unread document, deadline, fatigue
+
+PROCEDURAL DEFAULT:
+suspension calendar, routine item, noncontroversial label, guideline, pre-approved status, automatic passage
+
+PROXY SIGNAL:
+leadership recommendation, colleague, whip sheet, lobbyist, bill title, absence of protest, respected dissenter
+
+VISIBLE CONSENSUS:
+tally board, green light, red light, running count, remaining time, changed vote, momentum
+
+BINARY PACKAGE:
+no amendments, total-package vote, moral beneficiary, disputed formula, protected clause
+
+SILENCE:
+no lobbying, no floor opposition, empty gallery, unread notice, absent beneficiary, unorganized objection
+
+OVERLOAD:
+six votes, five-minute interval, running between buildings, postponed roll calls, election deadline, exhaustion
+
+MOMENTUM:
+early majority, herd movement, joining the kill, presumed safety, rapid convergence
+
+14. PARAGRAPH ENGINE UPDATE
+
+---
+
+Article 015 adds:
+
+exact procedural object
+→ attention constraint
+→ official category
+→ missing examination
+→ proxy signal
+→ visible running result
+→ imitative decision
+→ operational text
+→ distributed incentive
+→ institutional consequence
+→ restrained diagnosis
+→ hard landing
+
+15. MODEL WEIGHT UPDATE
+
+---
+
+After Article 015:
+
+Reporting object density: 20%
+Narrator pressure: 3%
+Institutional absurdity: 5%
+Cultural diagnosis: 6%
+Comic sociology: 4%
+Infrastructure diagnosis: 4%
+Moral self-indictment: 3%
+Horror-comedy diagnosis: 2%
+Political-performance diagnosis: 4%
+Deadpan status exposure: 4%
+Natural-system diagnosis: 3%
+Material-flow diagnosis: 2%
+Parallel-record diagnosis: 4%
+Contradiction-ledger diagnosis: 3%
+Metric-object diagnosis: 4%
+Protected-failure diagnosis: 3%
+Decision-chain diagnosis: 4%
+Relational-field diagnosis: 3%
+Access-failure diagnosis: 3%
+Peripheral-gravity diagnosis: 3%
+Power-by-anticipation diagnosis: 3%
+Hidden-production diagnosis: 5%
+Truth-staging diagnosis: 4%
+Observer-caused-event diagnosis: 3%
+Editorial-punctuation diagnosis: 3%
+Method-reversibility diagnosis: 3%
+Attention-budget diagnosis: 6%
+Procedural-default diagnosis: 5%
+Proxy-signal diagnosis: 5%
+Visible-consensus-feedback diagnosis: 5%
+Binary-package diagnosis: 4%
+Controlled restraint: 15%
+Pure verbal flourish: 0–1%
+
+Important:
+
+Overload does not remove responsibility.
+
+Reliance on a proxy signal is not always irrational.
+
+A large majority is not automatically evidence of imitation.
+
+Silence is not automatically evidence of suppressed opposition.
+
+The model must report the observable sequence before identifying procedural momentum.
+
+16. FORBIDDEN UPDATE
+
+---
+
+Do not describe every majority decision as herd behavior.
+
+Do not assume that an accelerated procedure is inherently illegitimate.
+
+Do not treat ignorance as proof of corruption.
+
+Do not use overload as a moral pardon.
+
+Do not infer hidden controversy merely because amendments were unavailable.
+
+Do not reject proxy signals when direct examination is impossible.
+
+Do not claim silence proves opposition.
+
+Do not confuse the bill’s public title with the complete legal text.
+
+Do not attribute an institutional outcome to one villain when the evidence shows distributed incentives.
+
+Do not replace reporting on procedure with generalized contempt for politicians.
+
+Do not use lyrical language to enlarge a procedural failure.
+
+# CURRENT GONZO STATE AFTER ARTICLE 015
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented creator-directed exceptions, where exact present-tense objects, scenes, social rituals, institutions, infrastructure, metrics, relational fields, access systems, hidden production chains, procedural labels, attention budgets, proxy signals, visible consensus, and distributed incentives turn observable experience into political, cultural, territorial, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, social, media, and procedural diagnosis.
+
+Updated core engine:
+
+meaning
+→ exact present-tense object
+→ scene / ritual / system / interview / procedure / media product
+→ observable behavior or operation
+→ visible role / hidden role / attention constraint
+→ institutional vocabulary, category, metric, or proxy signal
+→ exact fact or operational text
+→ circumstances of acquisition or decision
+→ available and missing examination
+→ running result or visible consensus
+→ individual action
+→ feedback into later actions
+→ incentive, dependency, hierarchy, workload, or reputational risk
+→ material, informational, relational, social, media, or procedural consequence
+→ contradictory second scene, counterexample, or failed default
+→ controlled exposure or restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+# ARTICLE 015 CHANGELOG
+
+Added:
+
+* attention-budget engine
+* procedural-default legitimacy
+* proxy-signal decision
+* visible-consensus feedback
+* binary-package coercion
+* silence-as-attention-absence rule
+* volume-creates-shortcut loop
+* momentum-before-merit rule
+* procedure-as-scene reinforcement
+* category-vote / text-vote split
+* output-metric / attention-degradation loop
+* procedural diagnosis field
+
+Confirmed:
+
+* journalism should remain attached to present-tense observable operations
+* exact objects and physical actions must precede institutional judgment
+* large outcomes may emerge from locally rational decisions
+* metrics can alter the process they claim only to measure
+* controlled restraint is stronger than generalized political outrage
+* procedure is substantive evidence rather than administrative background
+
+Modified:
+
+* metric-object diagnosis now includes the effect of output metrics on attention allocation
+* decision-chain diagnosis now includes sequential imitation
+* power-by-anticipation now includes anticipation of visible majority
+* parallel records now include public category, operational text, understood content, and enacted consequence
+* institutional absurdity now requires reconstruction of workload and incentives
+
+Rejected:
+
+* political ignorance as automatic corruption
+* majority as automatic independent agreement
+* silence as consent without conditions
+* accelerated procedure as automatic fraud
+* moral bill title as complete description of legislation
+* overload as complete excuse
+* lyrical enlargement of procedural facts
