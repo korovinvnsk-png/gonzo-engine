@@ -4654,3 +4654,551 @@ Rejected:
 * moral bill title as complete description of legislation
 * overload as complete excuse
 * lyrical enlargement of procedural facts
+
+## ARTICLE 016
+
+AUTHOR:
+Calvin Trillin
+
+TITLE:
+“Warm Bodies”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+January 8, 1979
+Print issue: January 15, 1979
+
+GENRE:
+U.S. Journal / local reporting / economic-system observation / crime-policy analysis
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS / COMPLETE OFFICIAL TEXT LEGALLY AVAILABLE ON THE NEW YORKER WEBSITE
+
+SOURCE NOTE:
+The official archive states that the article was digitized through an automated process and may contain transcription errors.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL NEW YORKER DIGITAL TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+## WHY THIS ARTICLE ENTERS THE MODEL
+
+Article 016 moves [гонзо] from the production of a decision into the physical fate of the procedure created by that decision.
+
+Article 015 taught:
+
+Institutional decisions may be produced through attention scarcity, procedural labels, proxy signals, visible consensus, and locally rational shortcuts.
+
+Article 016 adds:
+
+A formally enacted response may continue through forms, photographs, fingerprints, offices, and storage while failing to reach the operational act that would make the response effective.
+
+The useful lesson is:
+
+Do not stop reporting when a policy is passed, announced, funded, registered, or implemented.
+
+Follow the process until the last person, machine, database, room, shelf, or physical action that can alter the original risk.
+
+# MODEL LESSONS FROM ARTICLE 016
+
+1. DEPENDENCY / REJECTION SPLIT
+
+---
+
+A system may depend economically on people whom it rejects socially.
+
+Base sequence:
+
+labor demand
+→ rapid recruitment
+→ economic value
+→ unstable housing
+→ social anxiety
+→ spatial exclusion
+→ continued labor demand
+
+Rule added:
+
+When a community describes a group as dangerous, undesirable, temporary, or alien, determine whether the same community materially depends on that group.
+
+Record separately:
+
+* work performed
+* value created
+* wages paid
+* housing provided
+* social access permitted
+* restrictions imposed
+* who benefits from continued availability
+* who pays the cost of exclusion
+
+Do not interpret dependence as acceptance.
+
+Do not interpret rejection as operational independence.
+
+2. FEAR-TO-PAPERWORK CONVERSION
+
+---
+
+Collective fear may be converted into an administrative object.
+
+Base sequence:
+
+crime or visible threat
+→ public fear
+→ political demand
+→ legal authorization
+→ application
+→ photograph
+→ fingerprint
+→ card
+→ file
+
+Rule added:
+
+When an institution responds to fear, identify the exact physical object produced by the response.
+
+Possible objects:
+
+identity card
+permit
+registry
+certificate
+database entry
+inspection form
+screening questionnaire
+badge
+watch list
+report
+
+Then determine what operational action the object enables.
+
+Do not confuse the existence of the object with the reduction of the threat.
+
+3. IMPLEMENTATION-SINK ENGINE
+
+---
+
+A procedure may move through several official stages and then stop at a point where no further processing capacity exists.
+
+Base sequence:
+
+law
+→ local office
+→ collected material
+→ transfer
+→ recipient
+→ missing staff, authority, database, classification, or follow-up
+→ storage
+
+Rule added:
+
+Follow every administrative process to its terminal operational point.
+
+Do not stop at:
+
+submitted
+registered
+forwarded
+accepted
+entered
+sent for review
+placed on file
+
+Ask:
+
+* Who receives it?
+* What can that person legally do?
+* What can that person technically do?
+* What can that person do at the available volume?
+* What happens when no match or alert is produced?
+* Where does the material physically remain?
+
+The implementation sink may be a desk, inbox, archive, basement room, unused database, or unattended queue.
+
+4. ADMINISTRATIVE-PLACEBO TEST
+
+---
+
+A procedure may be effective as public reassurance while weak as risk control.
+
+Base contrast:
+
+visible procedure
+→ cards, lines, forms, offices, equipment, staff
+
+operational capacity
+→ identification, comparison, intervention, prevention, enforcement
+
+Rule added:
+
+Evaluate these separately.
+
+Record:
+
+* visibility of the response
+* inconvenience imposed
+* volume of records created
+* probability of detecting the target
+* available comparison mechanism
+* capacity for follow-up
+* evidence of reduced risk
+* public perception of action
+
+Do not call a procedure symbolic merely because it is visible.
+
+Demonstrate the gap between production of procedure and production of safety.
+
+5. NARROW-THREAT / UNIVERSAL-BURDEN SPLIT
+
+---
+
+A policy designed in response to a narrow threat may impose obligations on a much wider population.
+
+Base sequence:
+
+specific offender or category
+→ legal concern about selective treatment
+→ universal rule
+→ mass compliance
+→ small probability of finding target
+
+Rule added:
+
+Compare:
+
+* number and characteristics of the original target
+* number of people required to comply
+* material cost per person
+* aggregate administrative cost
+* expected detection rate
+* available less-broad alternatives
+
+Equal application does not automatically mean proportionate application.
+
+6. COLLECTIVE-GUILT TRANSFER
+
+---
+
+A community may recognize that it ignored a risk because the underlying system was profitable.
+
+The resulting guilt may then be transferred into obligations imposed on a weaker group.
+
+Base sequence:
+
+economic dependence
+→ ignored warning
+→ visible harm
+→ collective guilt
+→ political response
+→ burden placed on mobile or weak participants
+→ original economic incentives remain
+
+Rule added:
+
+When public language includes guilt, regret, or “we should have acted,” determine who performs the corrective action and who bears its cost.
+
+Do not assume that collective acknowledgement produces collective burden.
+
+7. PROCESS-TERMINAL QUESTION
+
+---
+
+Every bureaucratic verb must be followed to its next physical action.
+
+Examples:
+
+registered
+→ where?
+
+submitted
+→ to whom?
+
+checked
+→ against what?
+
+flagged
+→ who sees the flag?
+
+forwarded
+→ who opens it?
+
+stored
+→ for what later use?
+
+Rule added:
+
+Do not accept procedural verbs as completed explanations.
+
+Translate the verb into a person, object, machine, place, and next action.
+
+8. PROCEDURE-CREATES-MARKET
+
+---
+
+A regulatory response may create an industry of licensed centers, equipment, forms, contractors, staff, and maintenance.
+
+Base sequence:
+
+public problem
+→ mandatory procedure
+→ compliance demand
+→ private or public service providers
+→ new revenue
+→ constituency for continuation
+
+Rule added:
+
+When a procedure becomes permanent, identify:
+
+* who sells compliance
+* who supplies equipment
+* who issues licenses
+* who receives fees
+* which jobs depend on continued operation
+* whether the original problem is still used to justify the market
+
+The creation of a market does not prove that the policy is fraudulent.
+
+It creates a new incentive that must be reported.
+
+9. SPATIAL EXCLUSION / OPERATIONAL INCLUSION
+
+---
+
+A community may move undesirable people outside visible residential space while continuing to include them in economic operations.
+
+Base sequence:
+
+worker recruited
+→ worker housed
+→ neighbor complaint
+→ housing prohibited
+→ worker relocated to peripheral strip
+→ work continues
+
+Rule added:
+
+Report where the person is permitted to work, sleep, drink, travel, and appear.
+
+A boundary may separate visibility from usefulness rather than inclusion from exclusion.
+
+10. POLICY-PRODUCT / POLICY-OUTCOME SPLIT
+
+---
+
+A policy can successfully produce its specified administrative product without producing its stated social outcome.
+
+Possible distinction:
+
+specified product:
+identity cards issued
+
+stated outcome:
+dangerous fugitives detected or deterred
+
+Rule added:
+
+State both.
+
+Do not label implementation successful solely because the expected number of forms, cards, inspections, or registrations was completed.
+
+11. NEW ASSOCIATION NODES
+
+---
+
+DEPENDENCY:
+labor shortage, contractor, roustabout, rapid hire, turnover, offshore platform, payroll, economic necessity
+
+REJECTION:
+bunkhouse, zoning, highway strip, temporary worker, outsider, undesirable neighbor, social distance
+
+FEAR:
+abduction, rumor, fugitive, collective guilt, public hearing, demand for action
+
+PAPERWORK:
+application, photograph, fingerprint, identity card, weekly collection, file, archive
+
+IMPLEMENTATION SINK:
+sheriff’s office, unclassified cards, missing clerk, inaccessible database, basement storage, unattended queue
+
+ADMINISTRATIVE PLACEBO:
+busy office, visible card, official seal, reassurance, weak comparison, no follow-up
+
+UNIVERSAL BURDEN:
+all applicants, job changers, local residents, compliance fee, broad rule, narrow target
+
+PROCEDURAL MARKET:
+licensed center, fingerprint equipment, operator, fee, supplier, new service industry
+
+12. PARAGRAPH ENGINE UPDATE
+
+---
+
+Article 016 adds:
+
+economic dependency
+→ socially rejected worker
+→ visible harm
+→ collective fear
+→ political response
+→ administrative object
+→ implementation chain
+→ terminal operational sink
+→ public reassurance
+→ unchanged underlying incentive
+→ restrained diagnosis
+→ hard landing
+
+13. MODEL WEIGHT UPDATE
+
+---
+
+After Article 016:
+
+Reporting object density: 21%
+Narrator pressure: 3%
+Institutional absurdity: 5%
+Cultural diagnosis: 5%
+Comic sociology: 4%
+Infrastructure diagnosis: 4%
+Moral self-indictment: 3%
+Horror-comedy diagnosis: 2%
+Political-performance diagnosis: 3%
+Deadpan status exposure: 4%
+Natural-system diagnosis: 2%
+Material-flow diagnosis: 3%
+Parallel-record diagnosis: 4%
+Contradiction-ledger diagnosis: 3%
+Metric-object diagnosis: 4%
+Protected-failure diagnosis: 3%
+Decision-chain diagnosis: 4%
+Relational-field diagnosis: 3%
+Access-failure diagnosis: 2%
+Peripheral-gravity diagnosis: 2%
+Power-by-anticipation diagnosis: 2%
+Hidden-production diagnosis: 4%
+Truth-staging diagnosis: 3%
+Observer-caused-event diagnosis: 2%
+Attention-budget diagnosis: 5%
+Procedural-default diagnosis: 4%
+Proxy-signal diagnosis: 4%
+Visible-consensus-feedback diagnosis: 4%
+Binary-package diagnosis: 3%
+Dependency-rejection diagnosis: 5%
+Fear-to-paperwork diagnosis: 5%
+Implementation-sink diagnosis: 6%
+Administrative-placebo diagnosis: 5%
+Controlled restraint: 16%
+Pure verbal flourish: 0–1%
+
+Important:
+
+A weak implementation chain does not prove that the threat was imaginary.
+
+A visible administrative response is not automatically useless.
+
+A broad policy may be justified even when triggered by a narrow event.
+
+The model must trace actual capacity before concluding that a procedure is symbolic.
+
+14. FORBIDDEN UPDATE
+
+---
+
+Do not treat every security measure as theatre.
+
+Do not call fear irrational merely because it produces a broad response.
+
+Do not minimize the original crime in order to criticize the policy.
+
+Do not assume mobile workers are dangerous or harmless as a class.
+
+Do not infer that every collected record is never used.
+
+Do not confuse administrative inconvenience with oppression automatically.
+
+Do not claim a new service market proves corruption.
+
+Do not stop analysis at the announcement or passage of a policy.
+
+Do not describe paperwork metaphorically when its physical path can be reported.
+
+Do not enlarge procedural weakness through lyrical language.
+
+# CURRENT GONZO STATE AFTER ARTICLE 016
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented creator-directed exceptions, where exact present-tense objects, social scenes, institutions, labor dependencies, spatial exclusions, metrics, procedural labels, attention budgets, proxy signals, administrative objects, implementation chains, and terminal operational sinks turn observable experience into political, cultural, territorial, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, social, media, procedural, and administrative diagnosis.
+
+Updated core engine:
+
+meaning
+→ exact present-tense object
+→ scene / ritual / system / procedure
+→ observable person, operation, or dependency
+→ public category or fear
+→ political or institutional response
+→ administrative object
+→ implementation chain
+→ person, machine, database, office, or storage point
+→ actual available action
+→ policy-product / policy-outcome comparison
+→ burden distribution
+→ new incentive or market
+→ material consequence
+→ contradictory second scene or terminal sink
+→ controlled exposure and restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+# ARTICLE 016 CHANGELOG
+
+Added:
+
+* dependency / rejection split
+* fear-to-paperwork conversion
+* implementation-sink engine
+* administrative-placebo test
+* narrow-threat / universal-burden split
+* collective-guilt-transfer rule
+* process-terminal question
+* procedure-creates-market rule
+* spatial-exclusion / operational-inclusion split
+* policy-product / policy-outcome split
+* administrative diagnosis field
+
+Confirmed:
+
+* journalism should remain attached to present-tense observable systems
+* exact objects and physical procedures must precede judgment
+* institutional action must be followed beyond passage and announcement
+* distributed incentives may preserve a weak system
+* public reassurance and operational effectiveness must be evaluated separately
+* controlled restraint remains stronger than lyrical accusation
+
+Modified:
+
+* procedural diagnosis now continues through implementation and storage
+* decision-chain diagnosis now includes administrative dead ends
+* metric-object diagnosis now distinguishes completed compliance units from social outcomes
+* hidden-production diagnosis now includes workers and equipment producing compliance
+* material-flow diagnosis now includes information and records moving through offices
+* hard landing should identify the final physical destination of the system
+
+Rejected:
+
+* policy announcement as completed action
+* paperwork as proof of capability
+* visible compliance as proof of safety
+* universal burden as automatic proportionality
+* social rejection without economic-dependency analysis
+* symbolic-policy diagnosis without implementation reporting
+* lyrical enlargement of administrative failure
