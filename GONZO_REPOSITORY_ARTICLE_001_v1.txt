@@ -5202,3 +5202,532 @@ Rejected:
 * social rejection without economic-dependency analysis
 * symbolic-policy diagnosis without implementation reporting
 * lyrical enlargement of administrative failure
+
+ARTICLE 017
+-----------
+
+AUTHOR:
+Susan Sheehan
+
+TITLE:
+“The Patient”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+May 18, 1981
+Print issue: May 25, 1981
+
+GENRE:
+Long-form observational reporting / institutional profile / medical journalism / continuous-case study
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS / OFFICIAL ORIGINAL TEXT LEGALLY AVAILABLE ON THE NEW YORKER WEBSITE
+
+STUDY STATUS:
+ANALYZED FROM THE OFFICIAL NEW YORKER TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 017 moves [гонзо] from following an administrative object to following one human being through repeated institutional observation.
+
+Article 016 taught:
+
+A policy or procedure must be followed until the last person, machine, database, office, shelf, or physical action capable of changing the stated problem.
+
+Article 017 adds:
+
+The object moving through the system may be a person whose observed behavior, legal status, diagnosis, treatment status, personal identity, and institutional category do not remain identical.
+
+The useful lesson is:
+
+Do not let the case file replace the person.
+
+Do not let the person’s visible individuality erase the legitimate operational requirements of care, safety, law, and institutional coordination.
+
+Track both.
+
+MODEL LESSONS FROM ARTICLE 017
+==============================
+
+1. CASE / PERSON SEPARATION
+---------------------------
+
+A person may exist simultaneously as a physical individual and as several institutional objects.
+
+Possible identities:
+
+person
+→ patient
+→ voluntary admission
+→ danger-to-self determination
+→ readmission
+→ treatment-resistant case
+→ management problem
+→ legal subject
+
+Rule added:
+
+Whenever an institution applies a category to a person, record:
+
+- the observed fact supporting the category
+- who applied the category
+- what action the category authorizes
+- what information the category omits
+- whether another institution uses the same category differently
+- whether the person understands or contests the category
+
+Do not reject necessary institutional categories.
+
+Do not allow them to become complete portraits.
+
+2. CARE / CONTAINMENT SPLIT
+---------------------------
+
+The same action may serve care, safety, control, and institutional order at the same time.
+
+Possible actions:
+
+hospitalization
+medication
+seclusion
+locked storage
+physical assistance
+restricted movement
+retention after a discharge request
+
+Rule added:
+
+For every restrictive therapeutic action, identify separately:
+
+- immediate danger
+- intended benefit
+- person protected
+- duration
+- authorization
+- available alternative
+- observable result
+- cost to the subject
+- cost to other patients and staff
+
+Do not label the action solely as treatment or solely as punishment without evidence.
+
+3. TREATMENT / MANAGEMENT SPLIT
+-------------------------------
+
+Successful management of behavior is not automatically successful treatment of the underlying condition.
+
+Possible layers:
+
+immediate physical safety
+→ reduction of agitation
+→ medication response
+→ sustained stabilization
+→ independent functioning
+→ community survival
+
+Rule added:
+
+State which layer improved.
+
+Do not allow temporary quiet, completed medication, or discharge to stand silently for recovery.
+
+Do not allow continued illness to erase partial benefit.
+
+4. SHIFT-HANDOFF MEMORY
+-----------------------
+
+An institution operating continuously depends on people who observe different portions of the same case.
+
+Base sequence:
+
+event
+→ observing employee
+→ spoken report
+→ written note
+→ communication book or chart
+→ next shift
+→ new interpretation
+→ new action
+
+Rule added:
+
+For important institutional decisions, identify:
+
+- who directly observed the event
+- who recorded it
+- when it was recorded
+- what language was used
+- who read it
+- what information was lost or compressed
+- what action followed
+
+The institution does not remember directly.
+
+It remembers through handoffs.
+
+5. PROCEDURAL-REPETITION LEDGER
+-------------------------------
+
+A correctly authorized procedure may be repeated so often that repetition itself becomes evidence.
+
+Possible units:
+
+seclusion order
+emergency injection
+incident report
+restraint
+readmission
+medication increase
+staff-assistance call
+
+Rule added:
+
+Count repetitions and record:
+
+- reason for first use
+- interval between uses
+- change in circumstances
+- change in dosage, duration, or personnel
+- immediate result
+- cumulative result
+- reason the procedure remained necessary
+
+A repeated procedure may be individually justified and collectively unsuccessful.
+
+6. LEGAL-STATUS / PRACTICAL-CHOICE SPLIT
+----------------------------------------
+
+A formal right may exist inside a process that sharply limits the practical result of exercising it.
+
+Base sequence:
+
+voluntary status
+→ right to request discharge
+→ clinician objects
+→ second clinical examination
+→ court application
+→ possible involuntary retention
+
+Rule added:
+
+After reporting a formal right, follow the physical and legal process triggered by its exercise.
+
+Do not imply that procedural limitation makes the right fictitious.
+
+Do not imply that formal existence makes the choice unrestricted.
+
+7. OBSERVATION / DIAGNOSIS / ACTION LADDER
+------------------------------------------
+
+Observable behavior, professional interpretation, official diagnosis, and authorized action are separate evidentiary stages.
+
+Base sequence:
+
+movement, speech, refusal, assault, silence, sleep
+→ clinical interpretation
+→ diagnosis
+→ medication or legal decision
+
+Rule added:
+
+State the level of every claim.
+
+Do not convert unusual behavior directly into a diagnosis.
+
+Do not present a diagnosis as an independently observed physical fact.
+
+Do not erase professional uncertainty when diagnoses differ.
+
+8. PERSONAL-OBJECT STATUS TRANSITION
+------------------------------------
+
+Personal objects may record a person’s movement between institutional roles.
+
+Possible objects:
+
+street clothes
+hospital clothes
+watch
+eyeglasses
+pocketbook
+medical form
+paper medication cup
+locked storage room
+borrowed item
+
+Rule added:
+
+When an institution removes, stores, replaces, or returns personal objects, report:
+
+- operational reason
+- custodian
+- duration
+- substitute object
+- effect on behavior
+- point of return
+
+Do not convert the object automatically into a symbol of lost identity.
+
+First report its practical function.
+
+9. BEHAVIORAL-STATE / ENDURING-PERSON SPLIT
+-------------------------------------------
+
+A severe temporary or recurrent state should not become the complete definition of a person.
+
+Rule added:
+
+Preserve evidence of:
+
+- previous functioning
+- preferences
+- humor
+- memory
+- relationships
+- practical knowledge
+- periods of stability
+- self-description
+
+Do not sentimentalize these details.
+
+Use them to prevent the acute state from occupying the entire portrait.
+
+10. STAFF-RISK / PATIENT-RISK DUAL RECORD
+-----------------------------------------
+
+A difficult clinical scene may contain simultaneous risks to the patient, other patients, and employees.
+
+Rule added:
+
+Maintain separate records of:
+
+- self-harm risk
+- harm to other patients
+- harm to staff
+- medication risk
+- restraint or seclusion risk
+- risk of non-intervention
+
+Do not describe safety as though only one person’s body is present.
+
+11. INSTITUTIONAL-TIME / HUMAN-TIME SPLIT
+-----------------------------------------
+
+The institution works through shifts, orders, review periods, legal deadlines, medication intervals, and admission windows.
+
+The person experiences waiting, agitation, fatigue, pain, boredom, repetition, and interrupted sleep.
+
+Rule added:
+
+Report both clocks.
+
+A legally correct interval may still be experientially long.
+
+An urgent subjective demand may still require procedural delay.
+
+12. NEW ASSOCIATION NODES
+-------------------------
+
+CASE:
+chart, diagnosis, admission note, medication record, progress note, legal status, screening
+
+PERSON:
+clothing, watch, glasses, pocketbook, joke, preference, friendship, remembered right
+
+HANDOFF:
+night shift, day shift, telephone report, transfer form, communication book, returning employee
+
+CARE:
+examination, medication, clean clothing, protected belongings, observation, community placement
+
+CONTAINMENT:
+locked door, seclusion order, retention, restricted movement, nurse management team
+
+REPETITION:
+readmission, injection, renewed order, medication increase, recurring incident, repeated evaluation
+
+LEGAL STATUS:
+voluntary request, discharge letter, second opinion, court hearing, representation, retention order
+
+INSTITUTIONAL TIME:
+three-day limit, two-hour order, medication schedule, shift change, ninety-day readmission rule
+
+13. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 017 adds:
+
+exact human action or object
+→ immediate institutional observation
+→ written category
+→ authorized response
+→ short-term result
+→ shift handoff
+→ repeated procedure
+→ divergence between treatment and management
+→ legal-status / practical-choice comparison
+→ return to the person
+→ restrained diagnosis
+→ hard landing
+
+14. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 017:
+
+Reporting object density: 21%
+Narrator pressure: 2%
+Institutional absurdity: 4%
+Cultural diagnosis: 4%
+Comic sociology: 3%
+Infrastructure diagnosis: 4%
+Moral self-indictment: 3%
+Horror-comedy diagnosis: 1%
+Political-performance diagnosis: 2%
+Deadpan status exposure: 3%
+Natural-system diagnosis: 2%
+Material-flow diagnosis: 3%
+Parallel-record diagnosis: 4%
+Contradiction-ledger diagnosis: 3%
+Metric-object diagnosis: 3%
+Protected-failure diagnosis: 2%
+Decision-chain diagnosis: 4%
+Relational-field diagnosis: 3%
+Access-failure diagnosis: 2%
+Peripheral-gravity diagnosis: 2%
+Power-by-anticipation diagnosis: 2%
+Hidden-production diagnosis: 3%
+Truth-staging diagnosis: 2%
+Observer-caused-event diagnosis: 2%
+Attention-budget diagnosis: 4%
+Procedural-default diagnosis: 3%
+Proxy-signal diagnosis: 2%
+Visible-consensus-feedback diagnosis: 2%
+Binary-package diagnosis: 2%
+Dependency-rejection diagnosis: 3%
+Fear-to-paperwork diagnosis: 3%
+Implementation-sink diagnosis: 4%
+Administrative-placebo diagnosis: 3%
+Case-person diagnosis: 6%
+Care-containment diagnosis: 5%
+Treatment-management diagnosis: 5%
+Shift-handoff diagnosis: 5%
+Procedural-repetition diagnosis: 5%
+Legal-status / practical-choice diagnosis: 4%
+Controlled restraint: 19%
+Pure verbal flourish: 0–1%
+
+Important:
+
+A psychiatric diagnosis must not be inferred by the model from literary observation.
+
+A restrictive intervention may be necessary without being curative.
+
+A repeated intervention may indicate severity rather than institutional failure.
+
+Institutional terminology must be reported accurately and attributed to qualified sources.
+
+The person’s dignity must not depend on appearing calm, rational, agreeable, or recovered.
+
+15. FORBIDDEN UPDATE
+--------------------
+
+Do not romanticize severe mental illness.
+
+Do not use disordered speech as comic ornament.
+
+Do not diagnose people from prose, photographs, videos, or social-media behavior.
+
+Do not treat medication, hospitalization, seclusion, or restraint as automatically therapeutic or automatically abusive.
+
+Do not erase risks to staff or other patients.
+
+Do not turn personal objects into symbols before reporting their operational role.
+
+Do not confuse voluntary legal status with unlimited practical choice.
+
+Do not treat a chart as a complete person.
+
+Do not treat resistance to treatment as moral failure.
+
+Do not enlarge suffering through lyrical language.
+
+CURRENT GONZO STATE AFTER ARTICLE 017
+=====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented exceptions, where exact present-tense objects, human actions, social scenes, institutional categories, metrics, procedures, administrative chains, legal statuses, shift handoffs, repeated interventions, and the separation between person, case, care, containment, treatment, and management turn observable experience into political, cultural, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, social, media, procedural, administrative, and human-institutional diagnosis.
+
+Updated core engine:
+
+meaning
+→ exact present-tense person, action, or object
+→ observed behavior
+→ observer and institutional setting
+→ written category or professional interpretation
+→ authorized action
+→ immediate physical result
+→ handoff between people or shifts
+→ repeated procedure
+→ treatment / management comparison
+→ legal status / practical choice comparison
+→ risk distribution
+→ return to enduring person
+→ controlled exposure and restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+ARTICLE 017 CHANGELOG
+=====================
+
+Added:
+
+- case / person separation
+- care / containment split
+- treatment / management split
+- shift-handoff memory
+- procedural-repetition ledger
+- legal-status / practical-choice split
+- observation / diagnosis / action ladder
+- personal-object status transition
+- behavioral-state / enduring-person split
+- staff-risk / patient-risk dual record
+- institutional-time / human-time split
+- human-institutional diagnosis field
+
+Confirmed:
+
+- reporting must remain attached to exact observable scenes
+- institutional categories require operational explanation
+- procedures must be followed through human handoffs
+- repeated correct actions may still reveal unresolved conditions
+- controlled restraint is essential when material is grave
+- diagnosis must not outrun professional evidence
+- the person must remain visible behind institutional records
+
+Modified:
+
+- implementation-chain analysis now includes handoffs between shifts
+- metric diagnosis now includes counts of repeated interventions
+- legal and procedural analysis now distinguishes formal status from usable choice
+- material-flow analysis now includes clothing, charts, medication, and personal possessions
+- hard landings should identify the unresolved operational condition without converting suffering into metaphor
+
+Rejected:
+
+- institutional record as complete identity
+- acute behavior as total personality
+- treatment as synonym for control
+- control as synonym for treatment
+- repetition without counting
+- psychological interpretation without qualified evidence
+- lyrical enlargement of suffering
