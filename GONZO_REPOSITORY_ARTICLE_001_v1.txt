@@ -5731,3 +5731,658 @@ Rejected:
 - repetition without counting
 - psychological interpretation without qualified evidence
 - lyrical enlargement of suffering
+
+ARTICLE 018
+-----------
+
+AUTHOR:
+Calvin Trillin
+
+TITLE:
+“Todo Se Paga”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+January 29, 1979
+Print issue: February 5, 1979
+
+GENRE:
+U.S. Journal / community reporting / conflict-network analysis / multigenerational social observation
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS / COMPLETE OFFICIAL TEXT LEGALLY AVAILABLE ON THE NEW YORKER WEBSITE
+
+SOURCE NOTE:
+The official archive states that the article was digitized through an automated process and may contain transcription errors.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL NEW YORKER DIGITAL TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 018 moves [гонзо] from following one person through an institution into following a conflict distributed across families, generations, witnesses, territory, memory, and chance encounters.
+
+Article 017 taught:
+
+A person and the institutional case constructed around that person are connected but not identical.
+
+Article 018 adds:
+
+A conflict and the chronology constructed around that conflict are also not identical.
+
+Different participants may maintain different ledgers in which the same action is recorded as punishment, justice, betrayal, humiliation, defence, or a new unpaid debt.
+
+The useful lesson is:
+
+Do not assume that a conflict has one shared beginning, one shared account of damage, or one participant capable of ending it.
+
+Reconstruct each ledger separately.
+
+MODEL LESSONS FROM ARTICLE 018
+==============================
+
+1. RETALIATION-LEDGER ENGINE
+----------------------------
+
+A continuing conflict may be organized through several incompatible accounts of obligation.
+
+Possible entries:
+
+injury
+imprisonment
+testimony
+humiliation
+death
+failed retaliation
+public disrespect
+threat
+association with an enemy
+refusal to cooperate
+
+Base structure:
+
+action
+→ one side records repayment
+→ other side records new injury
+→ obligation continues
+
+Rule added:
+
+For every major retaliatory act, record separately:
+
+- actor
+- stated target
+- original grievance invoked
+- immediate trigger
+- intended meaning
+- how the opposing side classified the act
+- new obligation produced
+- who inherits the obligation
+
+Do not merge incompatible ledgers into a false neutral balance.
+
+Do not assume that equal numbers produce moral symmetry.
+
+2. DISPUTED-ORIGIN STRUCTURE
+----------------------------
+
+Participants may agree on the first physical event while disagreeing about which consequence created the first legitimate debt.
+
+Possible sequence:
+
+initial assault
+→ testimony
+→ imprisonment
+→ accusation of betrayal
+→ competing origin claims
+
+Rule added:
+
+Separate:
+
+A — first observable event
+B — first event each side identifies as injustice
+C — first retaliation
+D — first event inherited by the next generation
+
+A shared chronology does not produce a shared origin story.
+
+3. ORIGIN-EVENT / CURRENT-MOTIVE SPLIT
+--------------------------------------
+
+The event used to explain the beginning of a conflict may not explain each current act.
+
+Possible current motives:
+
+chance insult
+territorial challenge
+drug-market dispute
+family loyalty
+status competition
+fear
+friendship
+revenge
+self-protection
+
+Rule added:
+
+For every new incident, state:
+
+- historical grievance invoked
+- immediate trigger
+- material opportunity
+- current incentive
+- evidence supporting each explanation
+
+Do not permit an old origin story to silently explain every later action.
+
+4. INTERVAL-NOT-PEACE TEST
+--------------------------
+
+A period without recorded severe violence may still contain active transmission of the conflict.
+
+Possible interval evidence:
+
+schoolyard fights
+repeated family stories
+insults
+weapons retained
+territorial separation
+children assigned to sides
+continued avoidance
+revenge language
+
+Rule added:
+
+When violence pauses, investigate what continues.
+
+Do not call an interval peace until the mechanisms of obligation, transmission, preparation, and role assignment have weakened.
+
+5. INHERITED-OBLIGATION CHAIN
+-----------------------------
+
+A later generation may inherit a classification and an expected response before directly experiencing the original event.
+
+Base sequence:
+
+adult grievance
+→ family story
+→ identity category
+→ childhood insult
+→ repeated confrontation
+→ adult capacity for retaliation
+
+Rule added:
+
+Record:
+
+- who tells the origin story
+- what language is repeated
+- when the child first acts on it
+- whether the child has direct knowledge
+- what action is expected at adulthood
+- whether refusal is permitted
+
+Do not describe inherited hatred as biological, ethnic, or automatic.
+
+Show the transmission.
+
+6. PRIDE-THREAT AMPLIFIER
+-------------------------
+
+An action with little physical effect may receive high conflict value when it publicly signals weakness, contempt, or superiority.
+
+Possible signals:
+
+gesture
+stare
+air kiss
+insult
+refusal to greet
+public accusation
+association with a rival
+failure to answer
+
+Rule added:
+
+Compare:
+
+- physical scale
+- audience
+- local status meaning
+- expected response
+- material consequence
+
+Do not dismiss symbolic acts merely because they cause no immediate physical injury.
+
+Do not treat every insult as an inevitable cause of violence.
+
+7. SILENCE-AS-PROTECTION INFRASTRUCTURE
+---------------------------------------
+
+Witness silence may preserve an internal conflict system by preventing external adjudication.
+
+Base sequence:
+
+public incident
+→ multiple witnesses
+→ fear, loyalty, or territorial code
+→ refusal to identify
+→ weak prosecution
+→ return of participants
+→ continued internal settlement
+
+Rule added:
+
+For witness silence, identify:
+
+- who saw the event
+- who was questioned
+- stated reason for silence
+- feared consequence
+- family or territorial obligation
+- effect on the legal case
+- whether silence protects a person, a group, or the rule of non-cooperation itself
+
+Do not interpret silence automatically as consent.
+
+Do not infer knowledge from physical presence without evidence.
+
+8. CHANCE-ENCOUNTER ACTIVATION
+------------------------------
+
+A conflict may remain dormant until an ordinary encounter makes retaliation materially possible.
+
+Possible activators:
+
+person alone
+car passing
+filling station
+bar
+funeral
+court corridor
+unexpected visit
+insult during conversation
+
+Rule added:
+
+Separate:
+
+standing grievance
+from
+activation condition.
+
+Do not assume that every act required central planning.
+
+Report the exact opportunity that converted memory into action.
+
+9. EXTERNAL-ENEMY SUSPENSION
+----------------------------
+
+Internal rivals may temporarily reduce conflict when a larger external opponent organizes group identity.
+
+Base sequence:
+
+internal division
+→ shared external threat
+→ temporary collective identity
+→ weakened external threat
+→ return of internal ledger
+
+Rule added:
+
+When internal conflict pauses during external confrontation, determine whether the underlying obligations were resolved or merely displaced.
+
+A shared enemy is not evidence of internal reconciliation.
+
+10. NEUTRALITY-AS-PERFORMANCE
+------------------------------
+
+Neutrality inside a divided community may require repeated visible acts.
+
+Possible acts:
+
+greet both sides
+attend both funerals
+avoid public alignment
+maintain equal distance
+refuse gossip
+continue ordinary exchange
+
+Rule added:
+
+Report how neutrality is maintained and what violation would cause reclassification.
+
+Do not describe neutral residents as uninvolved when their neutrality requires constant work.
+
+11. CONFLICT-NETWORK CONTAMINATION
+----------------------------------
+
+A person may enter a conflict through a social connection rather than a direct grievance.
+
+Possible channels:
+
+marriage
+friendship
+hospitality
+witness status
+shared car
+family alliance
+neighborhood contact
+refusal to abandon another person
+
+Rule added:
+
+At the moment a new participant appears, identify the exact edge connecting that person to the conflict.
+
+Do not expand group responsibility beyond demonstrated ties.
+
+12. PEACE-DESIRE / STOPPING-CAPACITY SPLIT
+-------------------------------------------
+
+Participants may sincerely want a conflict to end while lacking authority to close all outstanding ledgers.
+
+Rule added:
+
+After a declaration of peace or exhaustion, determine:
+
+- who speaks
+- whom the speaker controls
+- which debts the speaker recognizes
+- which allies accept the decision
+- whether refusal to retaliate is interpreted as weakness
+- whether the next generation is included
+- what institution can verify and protect the cessation
+
+Desire is an emotional state.
+
+Stopping capacity is an operational structure.
+
+13. GEOGRAPHIC-EXIT / SOCIAL-RETURN SPLIT
+-----------------------------------------
+
+Leaving a conflict territory may reduce immediate exposure without ending social membership.
+
+Possible return channels:
+
+family
+court
+funeral
+friendship
+property
+ritual
+employment
+identity
+
+Rule added:
+
+When a participant moves away, track:
+
+- frequency of return
+- reason for return
+- roles resumed
+- weapons or precautions retained
+- whether conflict obligations follow the person
+
+Distance is not automatic exit.
+
+14. MULTIPLE-MOTIVE LEDGER
+--------------------------
+
+Several explanations may remain partially valid without one becoming the complete cause.
+
+Possible explanations:
+
+family revenge
+drug commerce
+prison affiliation
+territorial code
+personal insult
+status competition
+fear
+chance
+
+Rule added:
+
+For each explanation, record:
+
+- source
+- supporting evidence
+- contradiction
+- institutional assessment
+- incidents it explains
+- incidents it fails to explain
+
+Do not choose one motive solely to simplify narrative structure.
+
+15. NEW ASSOCIATION NODES
+-------------------------
+
+LEDGER:
+injury, repayment, unpaid debt, counter-entry, inherited account, disputed balance
+
+ORIGIN:
+first assault, testimony, imprisonment, betrayal claim, competing beginning
+
+INTERVAL:
+school fight, repeated story, stored weapon, childhood category, waiting generation
+
+PRIDE:
+heart, respect, weakness, contempt gesture, stare, public humiliation, reputation
+
+SILENCE:
+witness, refusal, fear, loyalty, outside authority, failed prosecution, internal code
+
+ACTIVATION:
+chance encounter, isolated target, passing car, bar, filling station, funeral, courthouse
+
+NEUTRALITY:
+dual greeting, both funerals, balanced contact, avoided alignment, constant caution
+
+CONTAMINATION:
+marriage, friendship, ally, witness, host, neighbor, inherited side
+
+EXIT:
+relocation, return visit, family obligation, court appearance, funeral, continuing identity
+
+STOPPING CAPACITY:
+recognized speaker, closed debt, protected refusal, accepted truce, next generation
+
+16. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 018 adds:
+
+observable incident
+→ participant ledger
+→ opposing ledger
+→ disputed origin
+→ immediate trigger
+→ local vocabulary of pride or betrayal
+→ chance activation
+→ witness response
+→ external authority failure or limitation
+→ network expansion
+→ interval or generational transfer
+→ peace-desire / stopping-capacity comparison
+→ restrained diagnosis
+→ hard landing
+
+17. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 018:
+
+Reporting object density: 21%
+Narrator pressure: 2%
+Institutional absurdity: 4%
+Cultural diagnosis: 4%
+Comic sociology: 2%
+Infrastructure diagnosis: 4%
+Moral self-indictment: 3%
+Horror-comedy diagnosis: 1%
+Political-performance diagnosis: 2%
+Deadpan status exposure: 3%
+Natural-system diagnosis: 2%
+Material-flow diagnosis: 3%
+Parallel-record diagnosis: 5%
+Contradiction-ledger diagnosis: 4%
+Metric-object diagnosis: 3%
+Protected-failure diagnosis: 2%
+Decision-chain diagnosis: 4%
+Relational-field diagnosis: 4%
+Access-failure diagnosis: 2%
+Peripheral-gravity diagnosis: 2%
+Power-by-anticipation diagnosis: 2%
+Hidden-production diagnosis: 2%
+Truth-staging diagnosis: 2%
+Observer-caused-event diagnosis: 2%
+Attention-budget diagnosis: 3%
+Procedural-default diagnosis: 2%
+Proxy-signal diagnosis: 2%
+Visible-consensus-feedback diagnosis: 2%
+Binary-package diagnosis: 2%
+Dependency-rejection diagnosis: 3%
+Fear-to-paperwork diagnosis: 2%
+Implementation-sink diagnosis: 3%
+Administrative-placebo diagnosis: 2%
+Case-person diagnosis: 5%
+Care-containment diagnosis: 4%
+Treatment-management diagnosis: 4%
+Shift-handoff diagnosis: 4%
+Procedural-repetition diagnosis: 4%
+Legal-status / practical-choice diagnosis: 3%
+Retaliation-ledger diagnosis: 6%
+Inherited-obligation diagnosis: 5%
+Silence-infrastructure diagnosis: 5%
+Pride-threat diagnosis: 4%
+Conflict-network diagnosis: 5%
+Peace-desire / stopping-capacity diagnosis: 4%
+Controlled restraint: 20%
+Pure verbal flourish: 0–1%
+
+Important:
+
+A retaliation ledger is not a moral equivalence ledger.
+
+Inherited obligation must be demonstrated through speech, behavior, or role assignment.
+
+Witness silence does not prove approval of violence.
+
+Pride language does not make violence inevitable.
+
+Multiple motives should be preserved only when supported by evidence.
+
+18. FORBIDDEN UPDATE
+--------------------
+
+Do not romanticize family feuds.
+
+Do not treat violence as folklore.
+
+Do not convert ethnic identity into causal explanation.
+
+Do not describe inherited hatred as biological.
+
+Do not assume every relative belongs to the conflict.
+
+Do not infer guilt from refusal to testify.
+
+Do not treat all silence as loyalty.
+
+Do not make symmetrical prose where the evidence is asymmetrical.
+
+Do not use the number of dead as a substitute for event-by-event reporting.
+
+Do not let an origin story explain incidents it does not fit.
+
+Do not describe peace as available merely because participants say they want it.
+
+Do not enlarge violence through lyrical language.
+
+CURRENT GONZO STATE AFTER ARTICLE 018
+=====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented exceptions, where exact present-tense objects, human actions, social scenes, institutional categories, parallel records, disputed origins, retaliation ledgers, inherited obligations, witness silences, chance activations, relational networks, procedures, administrative chains, and the separation between person, case, motive, status, debt, peace desire, and stopping capacity turn observable experience into political, cultural, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, social, media, procedural, administrative, human-institutional, and conflict-network diagnosis.
+
+Updated core engine:
+
+meaning
+→ exact present-tense person, action, or object
+→ observable incident
+→ participant and institutional setting
+→ first ledger
+→ opposing ledger
+→ disputed origin
+→ immediate trigger
+→ local vocabulary and status meaning
+→ material action
+→ witness and authority response
+→ network handoff or expansion
+→ interval, return, or generational transfer
+→ peace-desire / stopping-capacity comparison
+→ return to exact human consequence
+→ controlled exposure and restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+ARTICLE 018 CHANGELOG
+=====================
+
+Added:
+
+- retaliation-ledger engine
+- disputed-origin structure
+- origin-event / current-motive split
+- interval-not-peace test
+- inherited-obligation chain
+- pride-threat amplifier
+- silence-as-protection infrastructure
+- chance-encounter activation
+- external-enemy suspension
+- neutrality-as-performance
+- conflict-network contamination
+- peace-desire / stopping-capacity split
+- geographic-exit / social-return split
+- multiple-motive ledger
+- conflict-network diagnosis field
+
+Confirmed:
+
+- reporting must remain attached to exact observable incidents
+- parallel records may describe incompatible meanings of the same act
+- controlled restraint is essential when violence is severe
+- local vocabulary is useful only when connected to observable behavior
+- human identity must not collapse into family, police, or press categories
+- systems may persist without a central command
+- repeated correct observations may reveal unresolved transmission
+
+Modified:
+
+- contradiction-ledger analysis now includes incompatible moral accounts
+- relational-field analysis now includes involuntary recruitment into conflict
+- shift-handoff analysis now includes generational and family transmission
+- access analysis now includes witness silence and territorial distrust
+- procedural-repetition analysis now distinguishes recurring intervention from recurring retaliation
+- hard landings may identify the person or generation receiving the next unpaid obligation
+
+Rejected:
+
+- feud as balanced duel
+- ethnicity as explanation
+- silence as automatic consent
+- pride as decorative psychology
+- origin story as universal cause
+- relocation as automatic exit
+- declared desire for peace as operational peace
+- lyrical enlargement of violence
