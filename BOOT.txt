@@ -1,86 +1,153 @@
-The goal is not to make the model more complex. The goal is to make the model more accurate.
+The goal is not to make the model more complex.
+The goal is to make the model more accurate.
+
 ========================================
 GONZO BOOT FILE
 ========================================
-========================================================
-REPOSITORY MAP
-========================================================
 
-CURRENT LANGUAGE ENGINE
+PURPOSE
 
-GONZO_REPOSITORY_ARTICLE_001_v1.txt
-PROJECT
-MISSION
+This file routes work into one of two separate GONZO modes:
 
-Build a language engine from American magazine journalism (1975–1985).
+1. runtime Gonzo mode;
+2. daily article-analysis mode.
 
-CORE RULE
-
-Do not replace reasoning.
-
-Do not replace facts.
-
-Do not replace logic.
-
-Only rebuild the language-generation layer.
-
-LOAD ORDER
-
-1.
-STATE/
-
-2.
-ENGINE/
-
-3.
-CORPUS/
-
-4.
-CHANGELOG/
-
-5.
-Construct the language engine.
-
-6.
-Ready.
-
-RULES
-
-Always load this repository before any work.
-
-Never skip repository state.
-
-Never overwrite repository history.
-
-Always evolve the model instead of rewriting it.
+Do not merge these modes.
 
 ========================================
+MODE 1 — ENABLE OR USE GONZO
+========================================
+
+TRIGGER
+
+Use this mode when the user asks to:
+
+- enable Gonzo;
+- switch to Gonzo mode;
+- answer in Gonzo mode;
+- write or rewrite material using Gonzo.
+
+REQUIRED FILE
+
+GONZO_START_v1.txt
+
+LOAD RULE
+
+Read and apply GONZO_START_v1.txt as the executable engine for:
+
+- perception;
+- verification;
+- interpretation;
+- writing;
+- rhythm;
+- restraint;
+- final output checks.
+
+Do not load the article-repository files merely to produce an ordinary Gonzo response.
+
+The research corpus is not the runtime prompt.
+
+RUNTIME PRINCIPLES
+
+- Preserve reasoning.
+- Preserve facts.
+- Preserve logic.
+- Preserve uncertainty.
+- Rebuild only the perception, interpretation, and language-generation layer according to GONZO_START_v1.txt.
+- Do not imitate the surface vocabulary of any individual corpus author.
+- Do not invent scenes, facts, quotations, motives, access, or interior states.
+- Use only the diagnostic modules supported by the material.
+- Output the final result rather than a description of the engine.
+
+========================================
+MODE 2 — DAILY ARTICLE ANALYSIS
+========================================
+
+TRIGGER
+
+Use this mode when performing the daily assignment to:
+
+- analyze a new article;
+- study a corpus article;
+- extract writing, perception, or interpretation mechanisms;
+- update the GONZO research state;
+- determine whether the model changes.
+
+REQUIRED FILES
+
+Read both files, in this order:
+
+1. GONZO_REPOSITORY_ARTICLE_001_v1.txt
+2. GONZO_REPOSITORY_ARTICLE_002_v1.txt
+
+LOAD RULE
+
+Treat both files as one cumulative canonical research memory.
+
+GONZO_REPOSITORY_ARTICLE_002_v1.txt continues
+GONZO_REPOSITORY_ARTICLE_001_v1.txt.
+
+It does not replace it.
+
+DAILY ANALYSIS PROCEDURE
+
+Before analyzing a new article:
+
+1. Read the existing research state in both repository files.
+2. Identify rules, mechanisms, weights, restrictions, and association nodes already present.
+3. Verify the article and the evidentiary basis available for study.
+4. Analyze the article without copying its copyrighted text into the repository.
+5. Add only mechanisms supported by evidence.
+6. Record confirmation when the article supports an existing rule.
+7. Record modification when evidence changes an existing rule.
+8. Record rejection when the article disproves or limits an existing mechanism.
+9. Record NO CHANGE when no honest model update is justified.
+10. Preserve uncertainty, source limitations, and research status.
+11. Append the new analysis to GONZO_REPOSITORY_ARTICLE_002_v1.txt unless the repository structure is explicitly changed later.
+12. Never rewrite or erase the historical record in GONZO_REPOSITORY_ARTICLE_001_v1.txt.
+
+Do not use GONZO_START_v1.txt as a substitute for the research corpus during daily analysis.
+
+GONZO_START_v1.txt is the executable synthesis.
+The two GONZO_REPOSITORY files are the evidentiary memory.
+
+========================================
+ROUTING PRECEDENCE
+========================================
+
+If the user explicitly asks for daily article analysis, use MODE 2.
+
+If the user only asks to enable or use Gonzo, use MODE 1.
+
+If a task asks both to analyze an article and then write with the updated mode:
+
+1. complete MODE 2 first;
+2. update the research state honestly;
+3. determine whether GONZO_START_v1.txt also requires a later revision;
+4. use the currently approved executable Gonzo rules for the final writing stage.
+
+Never silently perform corpus research during an ordinary Gonzo response.
+
+Never perform ordinary Gonzo stylization instead of the requested daily analysis.
+
 ========================================
 PROJECT INTEGRITY
 ========================================
 
 The repository is a research project.
 
-Every statement stored in the repository must reflect the actual state of research.
+Every statement stored in the research files must reflect the actual state of research.
 
 Never claim that an article has been fully studied if it has not.
-
 Never invent language mechanisms to accelerate progress.
-
 Never mark an article as STUDIED unless it has actually been analyzed.
-
 If confidence is low, explicitly record uncertainty.
-
-When uncertain:
-VERIFIED > CANDIDATE > LOCKED > STUDIED
 
 The repository values accuracy over speed.
 
 It is acceptable for research to conclude that an article changes nothing.
 
 The language engine evolves only when supported by evidence.
-
-========================================
 
 Optimize for truthfulness.
 
@@ -91,6 +158,6 @@ If evidence supports the current language model,
 record that confirmation.
 
 If no conclusion can honestly be reached,
-record "NO CHANGE".
+record NO CHANGE.
 
 ========================================
