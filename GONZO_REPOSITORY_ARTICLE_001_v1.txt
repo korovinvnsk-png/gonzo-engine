@@ -6386,3 +6386,602 @@ Rejected:
 - relocation as automatic exit
 - declared desire for peace as operational peace
 - lyrical enlargement of violence
+
+ARTICLE 019
+-----------
+
+AUTHOR:
+John McPhee
+
+TITLE:
+“Ice Pond”
+
+PUBLICATION:
+The New Yorker
+
+DATE:
+July 6, 1981
+Print issue: July 13, 1981
+
+GENRE:
+Our Far-Flung Correspondents / technology reporting / prototype observation / energy-system analysis
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS / COMPLETE OFFICIAL TEXT LEGALLY AVAILABLE ON THE NEW YORKER WEBSITE
+
+SOURCE NOTE:
+The official archive provides the complete English text and the original magazine presentation.
+The archive states that the digital text was produced through an automated process and may contain transcription errors.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL NEW YORKER DIGITAL TEXT
+
+COPYRIGHT NOTE:
+Do not store the complete article in this repository.
+Store bibliographic data, brief legal excerpts, detailed paraphrase, structural analysis, literary mechanics, and model updates.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 019 moves [гонзо] from a conflict preserved through social memory into a physical idea tested through matter, weather, machinery, time, failure, and measured performance.
+
+Article 018 taught:
+
+A social event may generate several incompatible ledgers, each assigning different meanings and obligations to the same action.
+
+Article 019 adds:
+
+A technological idea may also exist in several non-equivalent records:
+
+claim
+calculation
+prototype
+measured function
+measured loss
+refined design
+economic projection
+deployment.
+
+The useful lesson is:
+
+Do not report an invention as either a promise or a completed solution.
+
+Stand beside the existing object.
+
+Record what enters it, what leaves it, what is lost, who makes it function, which claim has been demonstrated, and which claim remains an extrapolation.
+
+MODEL LESSONS FROM ARTICLE 019
+==============================
+
+1. PROTOTYPE-EVIDENCE LADDER
+----------------------------
+
+A technical claim may occupy several distinct evidentiary stages.
+
+Possible sequence:
+
+idea
+→ paper calculation
+→ component test
+→ assembled prototype
+→ extended or seasonal trial
+→ refined prototype
+→ economic comparison
+→ commercial deployment
+→ system-wide adoption
+
+Rule added:
+
+For every reported technology, identify the highest stage supported by direct evidence.
+
+Do not call a calculation operational.
+
+Do not call a working prototype commercially viable.
+
+Do not call one deployment a mature system.
+
+Do not dismiss a demonstrated physical principle merely because deployment remains incomplete.
+
+2. FAILURE-PRESERVING SUCCESS
+-----------------------------
+
+A prototype may fail in one dimension while proving another.
+
+Possible structure:
+
+large thermal loss
+→ insulation failure
+
+building remains cool
+→ basic cooling function succeeds
+
+Rule added:
+
+Record separately:
+
+- function tested
+- function achieved
+- loss observed
+- component responsible
+- correction attempted
+- result not yet demonstrated
+
+Do not remove failure from a success narrative.
+
+Do not allow one failed component to silently invalidate the complete physical principle.
+
+3. CHEAP-NEGATIVE-KNOWLEDGE ENGINE
+----------------------------------
+
+A small experiment may be valuable because it produces fast and inexpensive evidence about what does not work.
+
+Base contrast:
+
+small prototype
+→ rapid test
+→ visible failure
+→ limited sunk cost
+→ redesign
+
+large program
+→ long construction
+→ political and financial commitment
+→ delayed evidence
+→ expensive correction
+
+Rule added:
+
+When comparing experiments, record:
+
+- cost
+- duration
+- reversibility
+- scale
+- time to first useful result
+- time to first useful failure
+- cost of abandonment
+
+The value of an experiment includes the price of obtaining a trustworthy negative result.
+
+4. CONCEPT / TECHNIQUE SPLIT
+----------------------------
+
+The person who conceives a system may not possess the practical skill required to build or operate it.
+
+Possible roles:
+
+originator
+→ defines physical principle
+
+engineer
+→ selects components and tolerances
+
+builder
+→ assembles the system
+
+operator
+→ maintains daily performance
+
+financier
+→ makes testing possible
+
+institution
+→ supplies land, authority, and continuity
+
+Rule added:
+
+Attribute every working function to the role that performed it.
+
+Do not use the inventor’s name as a substitute for the production chain.
+
+5. SEASONAL-RESOURCE TRANSFER
+-----------------------------
+
+A system may shift a naturally available condition from one season into another.
+
+Base sequence:
+
+winter cold
+→ water freezing
+→ insulated storage
+→ summer circulation
+→ building cooling
+
+Possible related resources:
+
+spring floodwater
+daytime solar heat
+night air
+seasonal wind
+off-peak electricity
+harvest surplus
+
+Rule added:
+
+Report:
+
+- source time
+- collection mechanism
+- storage medium
+- storage loss
+- release time
+- transport mechanism
+- final use
+
+The infrastructure may create value by moving availability through time rather than generating a new resource.
+
+6. STORED-NATURE INFRASTRUCTURE
+-------------------------------
+
+Infrastructure may capture and retain a natural physical condition.
+
+Possible stored conditions:
+
+cold
+heat
+water pressure
+elevation
+compressed air
+electrical charge
+chemical concentration
+
+Rule added:
+
+Separate:
+
+generation
+storage
+transport
+conversion
+release.
+
+Do not describe storage as generation.
+
+Do not describe a natural input as costless without reporting collection, containment, land, equipment, loss, and maintenance.
+
+7. SCALE-CONTINUITY TEST
+------------------------
+
+A large projection must preserve the mechanism demonstrated at small scale.
+
+Base ladder:
+
+pond
+→ building
+→ development
+→ district
+→ city
+→ industrial sector
+
+Rule added:
+
+At every transition, identify:
+
+- component multiplied
+- component enlarged
+- new transport distance
+- new loss mechanism
+- new control requirement
+- land requirement
+- maintenance requirement
+- legal or economic constraint
+
+Do not permit scale to expand through adjectives alone.
+
+8. DREAM-AFTER-EVIDENCE RULE
+----------------------------
+
+Large technological imagination is strongest after a working object has been established.
+
+Rule added:
+
+Order the report:
+
+exact object
+→ physical operation
+→ measured result
+→ observed limitation
+→ revised object
+→ larger hypothesis
+
+Do not begin with a city-saving claim when the only existing object is a prototype.
+
+Do not suppress a larger hypothesis when the prototype genuinely supports further investigation.
+
+9. PHYSICAL-CLAIM DENOMINATOR
+-----------------------------
+
+An efficiency claim requires a physical denominator.
+
+Possible denominators:
+
+energy per square foot
+ice loss per day
+water flow per minute
+cost per ton
+cooling per building
+oil displaced per season
+land per unit of storage
+
+Rule added:
+
+For every percentage, saving, or capacity claim, state:
+
+- compared with what
+- under which conditions
+- over what period
+- for what unit of output
+- including or excluding which costs
+
+10. MATERIAL-IMAGINATION SEQUENCE
+---------------------------------
+
+Metaphor may enlarge perception only after the object has been physically established.
+
+Base sequence:
+
+shape
+→ dimensions
+→ material
+→ operational role
+→ visual comparison
+
+Rule added:
+
+Use metaphor to improve spatial recognition.
+
+Do not allow metaphor to substitute for size, composition, function, or measurement.
+
+11. BIOGRAPHY-AS-TECHNICAL-CONTINUITY
+-------------------------------------
+
+A subject’s biography may reveal a persistent operational habit across apparently opposed fields.
+
+Possible structure:
+
+weapon design
+→ nuclear propulsion
+→ material security
+→ low-energy cooling
+
+Rule added:
+
+Use biography to identify continuity in method, scale, risk tolerance, and problem selection.
+
+Do not force the biography into a redemption narrative unless the subject and evidence support it.
+
+12. PROTOTYPE / DEPLOYMENT RESPONSIBILITY SPLIT
+-----------------------------------------------
+
+The people responsible for demonstrating a principle may not be responsible for manufacturing, financing, regulating, purchasing, or maintaining it at scale.
+
+Rule added:
+
+Before declaring that society failed to adopt an invention, identify the missing deployment owner.
+
+Possible owners:
+
+manufacturer
+utility
+developer
+government agency
+building operator
+investor
+regulator
+customer
+
+13. NEW ASSOCIATION NODES
+-------------------------
+
+PROTOTYPE:
+paper calculation, test pit, pump, snow machine, insulation, measured loss, summer trial
+
+STORAGE:
+winter cold, ice mass, seasonal transfer, thermal loss, insulated cover, release cycle
+
+TECHNIQUE:
+consulting engineer, plumbing, assembly, maintenance, component failure, operational skill
+
+SCALE:
+house, office building, district, city, quarry, reservoir, pipeline, industrial plant
+
+MEASUREMENT:
+tons of ice, gallons per minute, degrees Fahrenheit, square feet, barrels of oil, daily melt
+
+FAILURE:
+premature melting, missing insulation, leakage, component weakness, redesign, retained function
+
+IMAGINATION:
+city cooling, desalination, industrial refrigeration, ice ship, mineral brine, abandoned quarry
+
+14. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 019 adds:
+
+strange exact object
+→ subject physically interacting with object
+→ relevant technical biography
+→ simple operating principle
+→ material inputs and outputs
+→ production roles
+→ first prototype
+→ preserved failure
+→ measured success
+→ refined prototype
+→ physical denominator
+→ scale-continuity ladder
+→ dream after evidence
+→ boundary between result and projection
+→ restrained diagnosis
+→ hard landing
+
+15. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 019:
+
+Reporting object density: 22%
+Narrator pressure: 2%
+Institutional absurdity: 3%
+Cultural diagnosis: 3%
+Comic sociology: 2%
+Infrastructure diagnosis: 5%
+Moral self-indictment: 2%
+Horror-comedy diagnosis: 1%
+Political-performance diagnosis: 2%
+Deadpan status exposure: 3%
+Natural-system diagnosis: 4%
+Material-flow diagnosis: 4%
+Parallel-record diagnosis: 4%
+Contradiction-ledger diagnosis: 3%
+Metric-object diagnosis: 4%
+Protected-failure diagnosis: 4%
+Decision-chain diagnosis: 4%
+Relational-field diagnosis: 3%
+Access-failure diagnosis: 2%
+Peripheral-gravity diagnosis: 2%
+Power-by-anticipation diagnosis: 2%
+Hidden-production diagnosis: 3%
+Truth-staging diagnosis: 2%
+Observer-caused-event diagnosis: 2%
+Attention-budget diagnosis: 3%
+Procedural-default diagnosis: 2%
+Proxy-signal diagnosis: 2%
+Visible-consensus-feedback diagnosis: 2%
+Binary-package diagnosis: 2%
+Dependency-rejection diagnosis: 2%
+Fear-to-paperwork diagnosis: 2%
+Implementation-sink diagnosis: 3%
+Administrative-placebo diagnosis: 2%
+Case-person diagnosis: 4%
+Care-containment diagnosis: 3%
+Treatment-management diagnosis: 3%
+Shift-handoff diagnosis: 3%
+Procedural-repetition diagnosis: 3%
+Legal-status / practical-choice diagnosis: 3%
+Retaliation-ledger diagnosis: 5%
+Inherited-obligation diagnosis: 4%
+Silence-infrastructure diagnosis: 4%
+Pride-threat diagnosis: 3%
+Conflict-network diagnosis: 4%
+Prototype-evidence diagnosis: 6%
+Failure-preserving-success diagnosis: 5%
+Cheap-negative-knowledge diagnosis: 5%
+Seasonal-resource-transfer diagnosis: 5%
+Scale-continuity diagnosis: 5%
+Controlled restraint: 20%
+Pure verbal flourish: 0–1%
+
+Important:
+
+A working prototype is not proof of commercial viability.
+
+A large imagined application is not evidence of fraud.
+
+A failed component does not automatically invalidate a demonstrated principle.
+
+A physical measurement must retain its conditions and denominator.
+
+Technical complexity must not be used as a performance of intelligence.
+
+16. FORBIDDEN UPDATE
+--------------------
+
+Do not call a concept revolutionary before identifying its evidentiary stage.
+
+Do not describe a prototype as deployed infrastructure.
+
+Do not hide losses, leakage, cost, maintenance, or failed components.
+
+Do not attribute the whole system to the inventor alone.
+
+Do not call natural inputs free without counting capture and storage costs.
+
+Do not scale from a pond to a city without naming the new constraints.
+
+Do not use technological wonder as a substitute for measurement.
+
+Do not use one prototype failure as proof that the complete principle is impossible.
+
+Do not present speculative applications as observed outcomes.
+
+Do not let metaphor outrun matter.
+
+CURRENT GONZO STATE AFTER ARTICLE 019
+=====================================
+
+[гонзо] is now defined as:
+
+A Russian-language output mode built primarily from American magazine journalism of 1975–1985, with explicitly documented exceptions, where exact present-tense objects, human actions, social scenes, institutional categories, parallel records, disputed origins, prototypes, material inputs, measured outputs, preserved failures, production roles, seasonal transfers, scale transitions, and the separation between idea, test, function, viability, deployment, and imagination turn observable experience into political, cultural, ethical, psychological, operational, commercial, informational, quantitative, interpersonal, social, media, procedural, administrative, human-institutional, conflict-network, technical, and infrastructural diagnosis.
+
+Updated core engine:
+
+meaning
+→ exact present-tense person, action, or object
+→ observable physical operation
+→ material input
+→ production role
+→ first result
+→ measured loss
+→ preserved success
+→ evidentiary stage
+→ physical denominator
+→ revised object
+→ scale-continuity test
+→ larger hypothesis
+→ boundary between evidence and imagination
+→ exact human or material consequence
+→ controlled exposure and restraint
+→ association graph
+→ earned diagnosis
+→ hard landing
+
+ARTICLE 019 CHANGELOG
+=====================
+
+Added:
+
+- prototype-evidence ladder
+- failure-preserving-success rule
+- cheap-negative-knowledge engine
+- concept / technique split
+- seasonal-resource-transfer rule
+- stored-nature infrastructure
+- scale-continuity test
+- dream-after-evidence rule
+- physical-claim denominator
+- material-imagination sequence
+- biography-as-technical-continuity
+- prototype / deployment responsibility split
+- technical-infrastructural diagnosis field
+
+Confirmed:
+
+- exact physical objects must precede interpretation
+- measurements require material definitions
+- production chains must not collapse into visible authorship
+- failure may be evidentiary rather than merely negative
+- controlled metaphor can clarify a precisely reported object
+- imagination is strongest when attached to a working mechanism
+- restrained diagnosis remains stronger than technological evangelism
+
+Modified:
+
+- protected-failure diagnosis now includes prototypes that fail in one dimension while proving another
+- metric-object diagnosis now requires engineering conditions and denominators
+- hidden-production diagnosis now includes inventors, engineers, builders, operators, and financiers
+- natural-system diagnosis now includes temporal storage of natural conditions
+- material-flow diagnosis now includes heat, cold, water, and seasonal transfer
+- hard landings may identify the boundary between a demonstrated object and an undemonstrated future
+
+Rejected:
+
+- invention as press-release claim
+- prototype as deployment
+- technological biography as automatic redemption
+- natural resource as costless input
+- scale expansion without continuity
+- speculative outcome presented as observed fact
+- metaphor before physical description
+- lyrical enlargement of technological promise
