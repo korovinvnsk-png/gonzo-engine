@@ -588,3 +588,80 @@ Rejected:
 - volunteer category as complete replacement system
 - political anecdote without charge-thinning investigation
 - lyrical enlargement of governance conflict
+
+# SPECIAL RESEARCH EXCEPTION: JOHN STEINBECK
+
+For the next seven research cycles, replace the standard research topic with a study of John Steinbeck's subtle humor.
+
+Process only one Steinbeck article or essay during each research cycle.
+
+Do not collect or analyze all seven texts at once.
+
+## Daily procedure
+
+During each of the next seven research cycles:
+
+1. Find one journalistic article, essay, letter, travel piece, or nonfiction text written by John Steinbeck.
+2. Prefer a text that has not been analyzed during an earlier cycle.
+3. Read and analyze that single text.
+4. Record the findings in a separate research article.
+5. Preserve the findings so they can be compared with the results of the following cycles.
+
+The primary purpose is not to summarize the subject of the text.
+
+The purpose is to identify how Steinbeck creates subtle humor.
+
+For each text, examine:
+
+* understatement;
+* implied irony;
+* contradictions between expectation and reality;
+* dry or neutral descriptions of absurd situations;
+* the treatment of human weakness;
+* the relationship between humor and compassion;
+* the coexistence of comedy, sadness, dignity, embarrassment, and failure;
+* sentence structure, pacing, dialogue, detail, and narrative distance;
+* whether Steinbeck laughs at a person, laughs with them, or observes them without judgment.
+
+Do not limit the analysis to explicit jokes or obviously comic passages.
+
+Look for humor that emerges indirectly through observation, character, contrast, rhythm, and restraint.
+
+## Cumulative research
+
+Each new analysis must take the previous Steinbeck research articles into account.
+
+Identify:
+
+* mechanisms that appear repeatedly;
+* mechanisms found only in one text;
+* similarities and contradictions between the texts;
+* patterns that become more convincing as the corpus grows.
+
+Do not draw a final conclusion after the first article.
+
+Allow the model to develop gradually across all seven research cycles.
+
+## Seventh-cycle synthesis
+
+After the seventh Steinbeck text has been analyzed, create a consolidated research document titled:
+
+`John Steinbeck: System of Subtle Humor`
+
+The synthesis must describe:
+
+* the recurring mechanisms of Steinbeck's humor;
+* his narrative attitude toward people;
+* the role of understatement and omission;
+* methods of producing humor without conventional jokes;
+* the connection between comedy and compassion;
+* recurring linguistic, emotional, and structural patterns;
+* principles that may be adapted for the Gonzo Engine.
+
+Do not imitate Steinbeck's wording or reproduce his prose style.
+
+The goal is to extract the underlying system of humor and human observation, not to copy its surface expression.
+
+This exception remains active for exactly seven research cycles.
+
+After the seventh analysis and final synthesis are complete, return to the standard Gonzo research pipeline.
