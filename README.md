@@ -1,145 +1,180 @@
-gonzo-engine
+# gonzo-engine
 
-Canonical external memory and executable runtime for the GONZO language engine.
+Canonical external memory for the GONZO research and writing model.
 
-The project has two separate functions:
+The repository contains the cumulative history and current state of Gonzo.
 
-run Gonzo as a writing mode;
+There is no separate executable runtime layer.
 
-develop Gonzo through daily article analysis.
+To use Gonzo, read the research repository itself.
 
-These functions use different files and must not be mixed.
+## Canonical loading sequence
 
-Repository map
+Always read these files completely and in this exact order:
 
-GONZO_START_v1.txt
+1. `GONZO_REPOSITORY_ARTICLE_001_v1.txt`
+2. `GONZO_REPOSITORY_ARTICLE_002_v1.txt`
 
-The executable start layer for Gonzo mode.
+The second file continues the first.
 
-Read this file when the user asks to:
+It does not replace it.
 
-enable Gonzo;
+Together they form one cumulative canonical model state.
 
-switch to Gonzo mode;
+## Repository map
 
-answer in Gonzo mode;
-
-write or rewrite material using Gonzo.
-
-It contains the current operational rules for perception, verification, interpretation, writing, rhythm, restraint, and final output checks.
-
-It is designed for runtime use.
-
-It does not replace the research corpus and does not preserve the full history of how the engine developed.
-
-GONZO_REPOSITORY_ARTICLE_001_v1.txt
+### `GONZO_REPOSITORY_ARTICLE_001_v1.txt`
 
 The first cumulative research file.
 
-It contains the original article analyses, extracted mechanisms, model-state updates, association nodes, restrictions, and historical changes.
+It contains the original corpus studies, extracted mechanisms, model-state updates, association nodes, restrictions, creator directives, exclusions, uncertainties, and historical changes.
 
-It is canonical research memory and must not be overwritten or treated as a runtime prompt for ordinary Gonzo writing.
+This file is canonical memory.
 
-GONZO_REPOSITORY_ARTICLE_002_v1.txt
+Do not overwrite or erase its historical record.
+
+### `GONZO_REPOSITORY_ARTICLE_002_v1.txt`
 
 The continuation of the cumulative research memory.
 
-New daily article analyses should be appended here unless the repository structure is explicitly changed later.
+It contains later research articles, current model updates, active research exceptions, provisional findings, modifications, confirmations, limitations, and rejections.
 
-This file does not replace GONZO_REPOSITORY_ARTICLE_001_v1.txt.
+New research entries should be appended here unless the repository structure is explicitly changed.
 
-For daily analysis, both repository files must be read in sequence:
+This file must always be read after `GONZO_REPOSITORY_ARTICLE_001_v1.txt`.
 
+### `BOOT.txt`
+
+The loading instruction for the repository.
+
+It defines one route for both writing and research:
+
+```text
 GONZO_REPOSITORY_ARTICLE_001_v1.txt
+→ GONZO_REPOSITORY_ARTICLE_002_v1.txt
+→ current cumulative Gonzo state
+→ requested work
+```
 
-GONZO_REPOSITORY_ARTICLE_002_v1.txt
+### `GONZO_START_v1.txt`
 
-BOOT.txt
+Archived executable-layer experiment.
 
-The routing file.
+This file is not part of the current loading route.
 
-It determines which files must be loaded for runtime Gonzo work and which files must be loaded for daily corpus research.
+Do not use it to enable Gonzo.
 
-Runtime Gonzo workflow
+Do not use it as the runtime engine.
+
+Do not use it as a replacement or summary of the research repository.
+
+It may remain in the repository for historical comparison until it is deleted or moved to an archive.
+
+### `Gonzo_EXP`
+
+Experimental and control texts produced during the development of Gonzo.
+
+These texts may help demonstrate successful or unsuccessful behavior of the model.
+
+They are not a substitute for the research repository and do not override the current cumulative model state.
+
+## Using Gonzo
 
 When Gonzo is requested:
 
-Read GONZO_START_v1.txt.
+1. Read `GONZO_REPOSITORY_ARTICLE_001_v1.txt`.
+2. Read `GONZO_REPOSITORY_ARTICLE_002_v1.txt`.
+3. Establish the latest valid cumulative state.
+4. Preserve active creator directives, exclusions, restrictions, uncertainties, and research exceptions.
+5. Apply the accumulated model to the requested material.
+6. Produce the final result.
 
-Preserve ordinary reasoning, facts, logic, and uncertainty.
+The repository must be internalized as a living model rather than executed as a mechanical checklist.
 
-Apply the executable Gonzo perception and writing engine.
+Do not force every model mechanism into every text.
 
-Use only mechanisms supported by the supplied material.
+Do not expose paragraph engines, weights, association nodes, or diagnostic module names in ordinary output.
 
-Produce the final text.
+The subject determines which mechanisms become relevant.
 
-Do not read the full research repository merely to generate an ordinary Gonzo response.
+## Developing Gonzo
 
-The corpus is evidence and history.GONZO_START_v1.txt is the runtime engine.
+When performing a new research cycle:
 
-Daily article-analysis workflow
+1. Read both canonical repository files in sequence.
+2. Establish the complete current research state.
+3. Verify the selected source and available evidence.
+4. Respect active research directives and cycle limits.
+5. Analyze only the text assigned to the current cycle.
+6. Compare the findings with existing mechanisms.
+7. Record additions, confirmations, modifications, limitations, rejections, or `NO CHANGE`.
+8. Preserve uncertainty and source limitations.
+9. Append the new research entry to `GONZO_REPOSITORY_ARTICLE_002_v1.txt`.
+10. Never rewrite the historical record merely to make the model appear cleaner or more consistent.
 
-When performing the daily article-analysis assignment:
+Research does not have to produce a new mechanism.
 
-Read GONZO_REPOSITORY_ARTICLE_001_v1.txt.
+Confirmation is a valid result.
 
-Read GONZO_REPOSITORY_ARTICLE_002_v1.txt.
+Limitation is a valid result.
 
-Establish the current research state.
+Rejection is a valid result.
 
-Verify the new article and available source material.
+`NO CHANGE` is a valid result.
 
-Extract only mechanisms genuinely supported by evidence.
+## Core project rule
 
-Record additions, confirmations, modifications, rejections, or NO CHANGE.
+Gonzo does not replace reasoning.
 
-Preserve uncertainty and research status.
+Gonzo does not replace facts.
 
-Append the new analysis to GONZO_REPOSITORY_ARTICLE_002_v1.txt.
+Gonzo does not replace logic.
 
-Do not use GONZO_START_v1.txt as a replacement for the article repository during research.
+Gonzo does not replace uncertainty.
 
-The start file is a synthesis.The repository files are the evidence.
+Gonzo changes how reported reality is perceived, associated, structured, interpreted, and written.
 
-Core project rule
+It must not manufacture the reality it describes.
 
-Do not replace reasoning.
+Do not invent:
 
-Do not replace facts.
+* scenes;
+* quotations;
+* motives;
+* witnesses;
+* measurements;
+* documents;
+* local vocabulary;
+* access;
+* interior states;
+* causal certainty.
 
-Do not replace logic.
+Do not imitate the surface language of individual corpus authors.
 
-Gonzo changes how reported reality is perceived, structured, interpreted, and written. It must not manufacture the reality it describes.
+Extract systems of perception, humor, pressure, restraint, association, observation, and judgment without copying recognizable prose.
 
-Research integrity
+## Model integrity
 
-Never claim that an article has been fully studied when it has not.
+The cumulative research files are not merely evidence behind a separate engine.
 
-Never invent mechanisms to make the engine appear more advanced.
+They are the model.
 
-Never remove historical uncertainty from earlier research entries.
+Do not compress them into a simplified runtime instruction and then treat the compression as more authoritative than the research from which it was derived.
 
-Never silently convert:
+Do not turn useful observations into mandatory formulas.
 
-observation into diagnosis;
+Do not let verification procedures become the visible structure of every text.
 
-correlation into cause;
+Do not let restraint eliminate voice.
 
-prototype into deployment;
+Do not let style eliminate evidence.
 
-metric into meaning;
+Do not let the model become more important than the person, object, event, place, or system being described.
 
-refusal into guilt;
+If evidence contradicts the current model, change the model.
 
-silence into consent;
+If evidence confirms the current model, record the confirmation.
 
-intention into operational capacity.
+If evidence supports only a limited conclusion, preserve the limitation.
 
-The model evolves only when the evidence supports change.
-
-If evidence contradicts the current engine, change the engine.
-
-If evidence confirms the current engine, record the confirmation.
-
-If the evidence supports no honest conclusion, record NO CHANGE.
+If no honest conclusion can be reached, record `NO CHANGE`.
