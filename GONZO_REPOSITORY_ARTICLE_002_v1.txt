@@ -1752,3 +1752,627 @@ Rejected:
 - self-deprecation as proof of humility
 - seriousness as proof of sincerity
 - charitable speculation presented as factual motive
+
+ARTICLE 022
+-----------
+
+SPECIAL SERIES:
+JOHN STEINBECK — SYSTEM OF SUBTLE HUMOR
+
+CYCLE:
+3 OF 7
+
+AUTHOR:
+John Steinbeck
+
+TITLE:
+“Travels with Charley: In Search of America”
+
+FIRST PUBLICATION:
+Viking Press, 1962
+
+GENRE:
+Travel nonfiction / national observation / autobiographical self-portrait / literary reportage
+
+AUTHORIZED SOURCES:
+Penguin Classics authorized editions
+Penguin electronic edition
+Library of America authorized edition
+Libby licensed library lending
+
+SOURCE STATUS:
+AUTHORIZED COMPLETE TEXT AVAILABLE THROUGH PURCHASE AND LIBRARY LENDING.
+
+Project Gutenberg Canada publishes a complete text because the work is in the Canadian public domain, but explicitly warns that the work may remain protected in other jurisdictions.
+
+Do not treat the Canadian publication as universal permission to download, reproduce, or distribute the work elsewhere.
+
+STUDY STATUS:
+ANALYZED WITH SOURCE LIMITATIONS RECORDED
+
+The study uses authorized bibliographic and publisher materials, legally available excerpts, library-access routes, the complete-text status documented by Canadian public-domain sources, and National Steinbeck Center scholarship concerning the relationship between the physical journey, manuscript, editing, and published narrative.
+
+COPYRIGHT NOTE:
+Do not reproduce the complete book in this repository.
+Store bibliographic information, brief lawful excerpts, detailed paraphrase, structural analysis, source limitations, and extracted mechanisms.
+
+SERIES PURPOSE
+--------------
+
+This is the third of seven consecutive studies required by the repository’s special John Steinbeck research exception.
+
+Article 020 examined retrospective autobiographical humor.
+
+Article 021 examined humor inside a formal ceremonial speech.
+
+Article 022 tests the provisional mechanisms inside a long travel narrative where the narrator controls route, selection, reported encounters, national interpretation, and the literary image of his own journey.
+
+WHY THIS TEXT ENTERS THE SERIES
+-------------------------------
+
+“Travels with Charley” is useful because Steinbeck gives himself an elevated assignment:
+
+to rediscover America.
+
+He then places that assignment inside a truck containing food, water, tools, maps, a bed, accumulated supplies, and a French poodle with an independent hierarchy of importance.
+
+The humor repeatedly tests national, personal, and regional grandeur against logistics, bodily need, animal behavior, local speech, and the limitations of one traveller’s access.
+
+The book also requires a source-integrity warning.
+
+The published journey is a shaped literary narrative rather than a transparent route log.
+
+Later manuscript and route research indicates that Steinbeck spent more time with his wife and in commercial accommodations than the published image of solitary travel suggests.
+
+This does not invalidate the literary observations.
+
+It changes their evidentiary category.
+
+MODEL LESSONS FROM ARTICLE 022
+==============================
+
+1. GRAND-QUEST / OPERATING-LOGISTICS SPLIT
+------------------------------------------
+
+A large intellectual, moral, or national project must pass through the ordinary system that keeps the observer moving.
+
+Base sequence:
+
+grand objective
+→ vehicle
+→ food
+→ water
+→ fuel
+→ maps
+→ repairs
+→ sleep
+→ companion’s needs
+→ continued observation
+
+Rule added:
+
+When a narrator announces a large quest, identify the physical operations that make the quest possible.
+
+Do not use logistics merely to mock ambition.
+
+Logistics establish:
+
+- cost
+- dependence
+- duration
+- access
+- range
+- vulnerability
+- actual scale
+
+A serious quest may remain serious after its plumbing is reported.
+
+2. SELF-MYTH WITH DECLARED ARTIFICIALITY
+----------------------------------------
+
+A narrator may construct a dramatic role while openly acknowledging its literary or theatrical nature.
+
+Base sequence:
+
+role chosen
+→ symbolic name or costume
+→ artificiality visible
+→ practical action begins
+→ role continues to organize perception
+
+Rule added:
+
+Do not assume that awareness of performance eliminates performance.
+
+Record:
+
+- who created the role
+- what objects maintain it
+- what access it produces
+- what facts resist it
+- whether the narrator abandons or preserves it after contradiction
+
+Declared theatricality may reduce deception without creating documentary transparency.
+
+3. ANIMAL-CORRECTIVE PRESENCE
+-----------------------------
+
+A nonhuman companion may preserve an independent hierarchy of needs and attention.
+
+Possible animal priorities:
+
+smell
+food
+territory
+pain
+fear
+sleep
+another animal
+physical danger
+
+Human priorities:
+
+history
+politics
+identity
+reputation
+national character
+literary meaning
+
+Rule added:
+
+When an animal is present, do not use it only as comic decoration or symbolic innocence.
+
+Record:
+
+- exact behavior
+- immediate trigger
+- practical consequence
+- effect on access
+- effect on schedule
+- difference between human and animal attention
+
+The animal may correct scale without invalidating the human subject.
+
+4. COMPANION-MEDIATED ACCESS
+----------------------------
+
+A third participant may alter the relationship between reporter and source.
+
+Possible mediators:
+
+animal
+child
+translator
+driver
+guide
+shared object
+mutual acquaintance
+
+Base sequence:
+
+formal or unequal encounter
+→ mediator appears
+→ ordinary subject established
+→ social tension changes
+→ disclosure or contact becomes possible
+
+Rule added:
+
+When access changes, identify the mediator rather than crediting the journalist’s personality automatically.
+
+Do not assume that the disclosure would have occurred in the mediator’s absence.
+
+5. COMIC-SCALE COMPETITION
+--------------------------
+
+Humor may emerge when several participants assign radically different importance to the same scene.
+
+Possible scales:
+
+writer
+→ national meaning
+
+resident
+→ local problem
+
+dog
+→ immediate animal threat
+
+reader
+→ portrait of narrator
+
+Rule added:
+
+Preserve competing scales long enough for the reader to experience the mismatch.
+
+Do not automatically declare the smallest scale the truest one.
+
+Do not use the largest scale as permission to erase ordinary need.
+
+6. USED-SYSTEM SELF-IMPLICATION
+-------------------------------
+
+A narrator may criticize a system while relying on the benefits that system provides.
+
+Possible systems:
+
+standardized highways
+commercial food
+national media
+hotel infrastructure
+digital platforms
+mass tourism
+automated services
+
+Base sequence:
+
+system criticized
+→ benefit used
+→ dependency retained
+→ harm or loss observed
+→ contradiction remains
+
+Rule added:
+
+When a narrator criticizes convenience, standardization, scale, or technology, identify which convenience remains in use.
+
+Do not call dependence hypocrisy automatically.
+
+Determine whether an alternative was practically available and what the narrator sacrificed or retained.
+
+7. AFFECTION THROUGH DISPROPORTION
+----------------------------------
+
+An object may receive love that cannot be justified by a neutral inventory of qualities.
+
+Base sequence:
+
+affection declared
+→ defects recorded
+→ later correction
+→ disproportion becomes visible
+→ affection remains
+
+Rule added:
+
+Do not force affection to become an objective evaluation.
+
+Do not hide the defects to protect the feeling.
+
+Do not use the defects to prove that the affection was false.
+
+8. HUMOR-AS-SOCIAL-TEMPERATURE
+------------------------------
+
+The amount and target of humor may reveal the narrator’s assessment of moral and physical risk.
+
+Possible gradient:
+
+self-dramatization
+→ high comic permission
+
+regional boasting
+→ moderate comic permission
+
+ordinary incompetence
+→ mild comic permission
+
+poverty or physical vulnerability
+→ reduced comic permission
+
+racial humiliation or direct danger
+→ humor withdraws from the victim
+
+Rule added:
+
+Track not only where humor appears, but where it stops.
+
+The absence of humor is not proof of sincerity.
+
+A sharp change in comic pressure may nevertheless mark a change in perceived stakes.
+
+9. NARRATING-SELF / TRAVEL-RECORD SPLIT
+---------------------------------------
+
+The published journey and the physical journey are not automatically identical.
+
+Possible records:
+
+route actually travelled
+private notes
+letters
+manuscript
+edited manuscript
+published narrative
+later reconstruction
+
+Rule added:
+
+When a nonfiction journey has been shaped into narrative, separate:
+
+- verified route
+- narrated route
+- omitted company
+- composite or compressed encounter
+- reconstructed dialogue
+- later documentary correction
+
+Do not invalidate literary insight solely because chronology was shaped.
+
+Do not treat shaped chronology as a transparent documentary record.
+
+10. NATIONAL-DIAGNOSIS / ENCOUNTER-DENOMINATOR SPLIT
+-----------------------------------------------------
+
+A traveller may extend one meeting into a claim about a region or nation.
+
+Rule added:
+
+For each large conclusion, record:
+
+- number of encounters
+- setting
+- selection conditions
+- narrator expectation
+- contradictory encounter
+- geographic limit
+- time limit
+- degree of uncertainty stated
+
+A vivid encounter may be culturally revealing without being statistically representative.
+
+11. LOCAL-VOICE / AUTHORIAL-SELECTION SPLIT
+-------------------------------------------
+
+A reported local voice is selected, arranged, shortened, and interpreted by the traveller.
+
+Rule added:
+
+Preserve the observed language when legally and factually supportable.
+
+Also preserve:
+
+- who initiated the exchange
+- what preceded it
+- what the narrator asked
+- why this speaker entered the book
+- which alternative voices are absent
+
+Local speech should not become evidence of an entire region merely because it is memorable.
+
+12. HUMAN-QUESTION / ANIMAL-INTERRUPTION SEQUENCE
+-------------------------------------------------
+
+A serious human inquiry may be interrupted by an animal need without losing seriousness.
+
+Base sequence:
+
+abstract question
+→ animal action
+→ schedule or scene changes
+→ immediate need resolved
+→ argument resumes at altered scale
+
+Rule added:
+
+Keep interruptions that reveal the physical conditions of thought.
+
+Do not manufacture interruption as a comic device.
+
+13. NEW ASSOCIATION NODES
+-------------------------
+
+QUEST:
+America, rediscovery, route, national character, observation, return, uncertainty
+
+LOGISTICS:
+truck, water tank, canned food, bed, map, fuel, repair, weather, roadside stop
+
+COMPANION:
+dog, leash, food bowl, smell, territory, illness, fear, access mediator
+
+SELF-MYTH:
+Rocinante, traveller, knight, solitary observer, chosen costume, declared performance
+
+STANDARDIZATION:
+highway, packaged food, television speech, roadside service, repeated surface, convenience
+
+AFFECTION:
+Montana, childhood beloved, disproportion, defect, continued love, uncorrected attachment
+
+DOCUMENTARY RECORD:
+route, notes, wife, hotel, camper, manuscript, deletion, published solitude
+
+14. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 022 adds:
+
+large announced quest
+→ practical travelling object
+→ logistics
+→ declared self-myth
+→ companion’s independent action
+→ mediated encounter
+→ local voice
+→ national interpretation
+→ encounter denominator
+→ used-system contradiction
+→ humor-pressure change
+→ documentary-record limit
+→ affection or diagnosis without acquittal
+→ restrained landing
+
+15. SERIES FINDINGS AFTER CYCLE 3
+--------------------------------
+
+RECURRING MECHANISMS SUPPORTED ACROSS THREE TEXTS:
+
+- self-irony limits narrator authority
+- contradiction can remain visible without prosecution
+- dignity survives comic correction
+- humor targets vanity and pose more strongly than physical suffering
+- affection does not require acquittal
+- serious claims may survive comic testing
+- narrator superiority is limited by mercy
+- humor may withdraw when physical or collective danger increases
+
+MECHANISMS MODIFIED BY ARTICLE 022:
+
+COMIC DENOMINATOR:
+The denominator may be:
+- household expense
+- syntactic qualification
+- operational logistics
+
+RELATIONAL FIELD:
+The encounter may include a third participant who changes access.
+
+SELF-MYTH:
+The narrator may acknowledge the artificial role before, rather than after, its failure.
+
+SOURCE INTEGRITY:
+Self-irony and charm do not eliminate the need to compare narration with route, manuscript, company, and editing.
+
+NEW PROVISIONAL CANDIDATES:
+
+- animal-corrective presence
+- companion-mediated access
+- comic-scale competition
+- used-system self-implication
+- humor density as moral temperature
+- narrating-self / travel-record split
+
+Four additional Steinbeck texts remain necessary before final synthesis.
+
+16. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 022, Steinbeck cycle 3:
+
+Reporting object density: 22%
+Controlled restraint: 21%
+Pure verbal flourish: 0–1%
+
+Provisional humor weights:
+
+Self-myth / correction diagnosis: 5%
+Delayed-downscale rhythm: 4%
+Retrospective-mercy distance: 5%
+Dignity-preserving self-indictment: 5%
+Absurd-witness detail: 3%
+Comic-denominator diagnosis: 4%
+Affection-without-acquittal: 5%
+Humor / suffering-threshold control: 6%
+Ceremonial-humility breach: 3%
+Self-deflation / role-inflation switch: 4%
+Humor-as-credibility toll: 5%
+Scale-reclamation: 4%
+Target-separation humor: 6%
+Animal-corrective presence: 4%
+Companion-mediated access: 4%
+Used-system self-implication: 4%
+Narrating-self / travel-record diagnosis: 5%
+
+These remain provisional.
+
+17. IMPORTANT LIMITS
+--------------------
+
+An animal’s behavior does not supply an independent human political interpretation.
+
+A charming narrator may still shape chronology and access.
+
+A traveller’s encounter is not automatically representative.
+
+Declared artificiality does not make a constructed scene documentary fact.
+
+Humor may increase trust without increasing factual accuracy.
+
+Later route reconstruction may correct the record without erasing the literary value of the book.
+
+18. FORBIDDEN UPDATE
+--------------------
+
+Do not use animals as automatic moral truth.
+
+Do not turn every practical inconvenience into a joke.
+
+Do not treat travel writing as transparent field notes.
+
+Do not infer national character from one memorable speaker.
+
+Do not assume that self-awareness eliminates self-myth.
+
+Do not call reliance on criticized infrastructure hypocrisy without examining available alternatives.
+
+Do not direct humor at racialized victims or physical danger.
+
+Do not imitate Steinbeck’s travel cadence, regional phrasing, animal dialogue, or surface voice.
+
+CURRENT GONZO STATE AFTER ARTICLE 022
+=====================================
+
+Article 022 extends the provisional subtle-humor layer:
+
+declared quest
+→ operating logistics
+→ acknowledged self-myth
+→ companion’s independent scale
+→ mediated access
+→ observed encounter
+→ material or syntactic correction
+→ narrator implication
+→ documentary limit
+→ target-selected humor
+→ affection without acquittal
+→ dignity retained
+
+The model should now recognize that a comic correction may come from a person, sentence, price, machine, animal, route, or practical interruption.
+
+The correction should not automatically defeat the larger purpose.
+
+It should establish what the purpose costs, depends on, omits, and can honestly support.
+
+ARTICLE 022 CHANGELOG
+=====================
+
+Added provisionally:
+
+- grand-quest / operating-logistics split
+- self-myth with declared artificiality
+- animal-corrective presence
+- companion-mediated access
+- comic-scale competition
+- used-system self-implication
+- humor-as-social-temperature
+- narrating-self / travel-record split
+- national-diagnosis / encounter-denominator split
+- local-voice / authorial-selection split
+- human-question / animal-interruption sequence
+
+Confirmed:
+
+- self-irony limits authority
+- dignity can coexist with comic failure
+- affection does not require acquittal
+- humor should withdraw from vulnerable physical subjects
+- practical detail restrains abstraction
+- contradiction may remain unresolved
+- serious purpose can survive comic correction
+
+Modified:
+
+- comic denominator now includes operating logistics
+- relational-field analysis now includes mediating companions
+- source-integrity analysis now applies to charming self-narration
+- self-myth may be knowingly constructed rather than retrospectively exposed
+
+Rejected:
+
+- animal as automatic moral authority
+- solitary-traveller image as transparent fact
+- single encounter as national proof
+- charming narrator as verification
+- permanent comic diminishment
