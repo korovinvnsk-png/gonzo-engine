@@ -3590,3 +3590,601 @@ Rejected:
 - radical vocabulary as operational capacity
 - solidarity declaration as proof of concrete openness
 - resilience as acquittal of deprivation
+
+ARTICLE 025
+-----------
+
+SPECIAL SERIES:
+JOHN STEINBECK — SYSTEM OF SUBTLE HUMOR
+
+CYCLE:
+6 OF 7
+
+AUTHOR:
+John Steinbeck
+
+TITLE:
+“How to Tell Good Guys from Bad Guys”
+
+FIRST PUBLICATION:
+Punch
+September 22, 1954
+
+AMERICAN PUBLICATION:
+The Reporter
+Volume 12, Number 5
+March 10, 1955
+Pages 42–44
+
+GENRE:
+Magazine essay / television criticism / domestic observation / political satire
+
+CORPUS STATUS:
+SPECIAL STEINBECK RESEARCH EXCEPTION.
+
+The text falls outside the standard 1975–1985 corpus window.
+
+It enters only because the repository requires seven consecutive studies of Steinbeck’s nonfiction humor system.
+
+SOURCE STATUS:
+BIBLIOGRAPHICALLY VERIFIED.
+
+The Princeton University Steinbeck collection confirms the American publication in The Reporter on March 10, 1955, pages 42–44.
+
+Surviving galley proofs are documented in the Mary Steinbeck Dekker Family Collection.
+
+A complete freely accessible authorized digital edition was not located.
+
+A complete third-party transcription exists online, but its permission status could not be independently verified.
+
+Do not identify that transcription as an authorized edition.
+
+STUDY STATUS:
+ANALYZED WITH SOURCE LIMITATION RECORDED.
+
+COPYRIGHT NOTE:
+Do not reproduce the complete essay in this repository.
+Store bibliographic information, brief lawful excerpts, detailed paraphrase, structural analysis, source limits, and extracted mechanisms.
+
+SERIES PURPOSE
+--------------
+
+This is the sixth of seven consecutive studies required by the repository’s special John Steinbeck research exception.
+
+Article 020 studied personal self-myth corrected by household fact.
+
+Article 021 studied ceremonial self-irony and recovery of legitimate serious scale.
+
+Article 022 studied a large quest corrected by logistics, an animal companion, and documentary limits.
+
+Article 023 studied unsolicited help, care becoming control, and one-sided conflict.
+
+Article 024 studied historical memory, speculative confidence, class imagination, and humor inside mass deprivation.
+
+Article 025 tests the system inside television criticism, family observation, genre convention, and political judgment.
+
+WHY THIS TEXT ENTERS THE SERIES
+-------------------------------
+
+“How to Tell Good Guys from Bad Guys” is useful because the essay begins with a child apparently made passive by television.
+
+The child nevertheless retains advertising language, scientific facts, aesthetic distinctions, genre conventions, and political classifications.
+
+The narrator then discovers that Westerns provide a complete visible moral grammar.
+
+The good character wears white, remains clean, controls expression, and performs virtue before sufficient evidence is available.
+
+The bad character wears dark clothing, needs a shave, sneers, bullies, and displays emotional movement.
+
+A gray character appears ambiguous but follows a predictable conversion path.
+
+The same visual grammar is then applied to a real political figure.
+
+The useful lesson is:
+
+A cultural code may influence judgment before the observer becomes conscious that a code is being used.
+
+MODEL LESSONS FROM ARTICLE 025
+==============================
+
+1. VISIBLE-MORAL-CODE ENGINE
+----------------------------
+
+A moral category may be attached to a visible or audible sign before conduct has been evaluated.
+
+Possible signs:
+
+color
+clothing
+cleanliness
+facial mobility
+voice
+lighting
+music
+camera angle
+editing position
+order of appearance
+
+Rule added:
+
+For every immediate moral classification, separate:
+
+- observed sign
+- learned cultural meaning
+- conduct already known
+- conduct inferred
+- source that taught the code
+- participant who benefits from rapid recognition
+
+Do not describe a visual convention as natural evidence of character.
+
+2. COSTUME-BEFORE-CONDUCT SPLIT
+-------------------------------
+
+An audience may know who is good or bad before the character performs enough actions to justify the verdict.
+
+Base sequence:
+
+character appears
+→ costume supplies category
+→ audience expectation forms
+→ later actions are interpreted through category
+→ contradictory evidence receives less weight
+
+Rule added:
+
+Record the order:
+
+- appearance
+- label
+- action
+- consequence
+- revision or non-revision.
+
+Do not rearrange the sequence so that conduct appears to have produced a label that existed earlier.
+
+3. GENRE-GRAMMAR / WORLD-JUDGMENT TRANSFER
+------------------------------------------
+
+A rule learned from fiction may later organize judgment of real people.
+
+Possible transferred grammars:
+
+Western
+crime story
+war film
+romantic comedy
+sports broadcast
+reality television
+superhero narrative
+advertising
+
+Rule added:
+
+When public judgment becomes unusually rapid, identify whether a familiar narrative position existed before the evidence.
+
+Possible positions:
+
+hero
+villain
+traitor
+victim
+rescuer
+comic fool
+corrupt official
+redeemable intermediate figure
+
+Do not claim that genre alone caused the judgment.
+
+Preserve legal, political, material, and historical evidence.
+
+4. MORAL-LEGIBILITY / HUMAN-COMPLEXITY TRADEOFF
+------------------------------------------------
+
+A character designed for rapid moral recognition may lose emotional and practical complexity.
+
+Possible structure:
+
+good character
+→ stable face
+→ clean surface
+→ limited desire
+→ predictable action
+
+bad character
+→ expressive face
+→ visible appetite
+→ dirt
+→ energy
+→ theatrical interest
+
+Rule added:
+
+When a publicly approved figure appears unusually empty, determine whether legibility required suppression of contradiction.
+
+Do not mistake emotional stillness for moral purity.
+
+Do not mistake expressive complexity for guilt.
+
+5. PREDICTABLE-AMBIGUITY ENGINE
+-------------------------------
+
+A system may include an intermediate category whose transformation is already encoded.
+
+Base sequence:
+
+gray character appears
+→ apparent uncertainty
+→ initial signs reveal current state
+→ story position reveals future state
+→ ambiguity becomes a scheduled reversal
+
+Rule added:
+
+For every claimed open middle, identify:
+
+- available outcomes
+- outcome markers
+- institutional or genre constraints
+- frequency of actual surprise
+- penalty for remaining unresolved
+
+Do not call a reversible binary a genuinely plural system.
+
+6. PASSIVE-ABSORPTION / ACTIVE-CLASSIFICATION SPLIT
+---------------------------------------------------
+
+A viewer may appear physically passive while accurately retaining information and applying categories.
+
+Base sequence:
+
+low visible response
+→ repeated exposure
+→ language retained
+→ product distinction learned
+→ genre rule internalized
+→ later classification performed automatically
+
+Rule added:
+
+Do not infer absence of learning from:
+
+- silence
+- slouched posture
+- low participation
+- absence of verbal commentary
+- apparent distraction.
+
+Test what the participant can later reproduce, recognize, predict, or purchase.
+
+7. INTERFACE-EXPERT / SYSTEM-OUTSIDER REVERSAL
+----------------------------------------------
+
+A habitual user may operate a system without perceiving its rules.
+
+An inexperienced user may notice the rules because every step requires explanation.
+
+Base sequence:
+
+expert user
+→ immediate recognition
+→ no need to articulate rule
+
+outsider
+→ confusion
+→ explicit question
+→ hidden grammar becomes visible
+
+Rule added:
+
+When investigating an interface or cultural form, preserve naive questions that force tacit knowledge into language.
+
+Do not treat user fluency as proof that the system is transparent.
+
+8. STANDARDIZED-INDIVIDUALITY PARADOX
+-------------------------------------
+
+A product may promise personal distinction while producing visible sameness across users.
+
+Base sequence:
+
+individual improvement promised
+→ standard product applied
+→ shared commercial ideal
+→ local difference reduced
+→ conformity described as self-expression
+
+Rule added:
+
+When individuality is sold, identify:
+
+- available templates
+- permitted deviations
+- repeated visual outcome
+- language of uniqueness
+- production mechanism.
+
+Do not blame individual users for similarity created by the offered choices.
+
+9. POLITICAL-PERFORMANCE / SUBSTANTIVE-RECORD SPLIT
+---------------------------------------------------
+
+A political figure may be judged through both:
+
+A:
+documented actions, claims, procedures, consequences
+
+B:
+voice, expression, aggression, costume, camera behavior, genre resemblance
+
+Rule added:
+
+Preserve both records.
+
+Do not assume that an accurate political verdict proves the reliability of the visual mechanism.
+
+Do not assume that mediated appearance is irrelevant merely because substantive evidence exists.
+
+10. VISUAL-VERDICT / CAUSAL-VERDICT SPLIT
+-----------------------------------------
+
+A public figure may decline after appearing to match a familiar villain code.
+
+This does not establish that the code caused the decline.
+
+Rule added:
+
+Separate:
+
+- resemblance
+- audience reaction
+- contemporaneous commentary
+- polling or behavioral change
+- substantive revelations
+- institutional action
+- later historical interpretation.
+
+Use epistemic markers when the causal share cannot be measured.
+
+11. COMIC-PREPARATION / POLITICAL-PAYOFF STRUCTURE
+--------------------------------------------------
+
+A political essay may delay its named political subject until the reader has learned the operating system through a domestic scene.
+
+Base sequence:
+
+ordinary household problem
+→ observed behavior
+→ repeated convention
+→ child or nonexpert explanation
+→ general rule
+→ political application
+→ low domestic landing
+
+Rule added:
+
+When possible, establish the mechanism before naming the most polarizing case.
+
+Do not conceal the eventual political relevance through deceptive framing.
+
+12. NEW ASSOCIATION NODES
+-------------------------
+
+TELEVISION:
+screen, speaker, passive posture, repeated exposure, advertisement, Western, hearing
+
+MORAL CODE:
+white hat, black hat, gray hat, clean face, stubble, sneer, stillness
+
+INTERFACE:
+expert child, confused parent, tacit grammar, prediction, familiar convention
+
+STANDARDIZATION:
+product, commercial beauty, repeated surface, promised individuality, indistinguishable result
+
+POLITICAL PERFORMANCE:
+hearing, camera, bullying, laugh, shave, villain resemblance, public verdict
+
+AMBIGUITY:
+gray category, scheduled conversion, narrative position, predictable reversal
+
+13. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 025 adds:
+
+ordinary household convenience
+→ passive-looking participant
+→ retained commercial message
+→ evidence against first diagnosis
+→ familiar fictional genre
+→ naive question
+→ visible moral code
+→ practical denominator
+→ intermediate category
+→ predicted transformation
+→ transfer to political performance
+→ substantive record preserved
+→ causal uncertainty marked
+→ domestic object or action
+→ restrained landing
+
+14. SERIES FINDINGS AFTER CYCLE 6
+--------------------------------
+
+RECURRING MECHANISMS NOW STRONGLY SUPPORTED:
+
+- self-irony limits narrator authority
+- naive questions expose tacit systems
+- comic correction preserves dignity
+- large abstractions require practical denominators
+- humor targets vanity, control, status, and performance more strongly than vulnerability
+- contradiction is preserved without prosecutorial overstatement
+- serious conclusions may survive comic examination
+- passive appearance does not establish passive cognition
+- cultural systems become visible through ordinary use
+- humor may carry political analysis without converting physical victims into comic objects
+
+MECHANISMS MODIFIED BY ARTICLE 025:
+
+COMIC DENOMINATOR:
+The denominator may now be:
+- household expense
+- syntactic qualification
+- logistics
+- recipient use
+- property boundary
+- organizational capacity
+- costume maintenance
+
+TARGET-SEPARATION HUMOR:
+The object of satire may be a visual political code rather than either the politician or the audience alone.
+
+RETROSPECTIVE MERCY:
+The adult narrator grants the child real expertise and records the adult’s own inferiority inside the system.
+
+SCALE RECLAMATION:
+A child’s apparently trivial genre observation may legitimately expand into political analysis after the mechanism is demonstrated.
+
+NEW PROVISIONAL CANDIDATES:
+
+- visible-moral-code engine
+- costume-before-conduct split
+- genre-grammar / world-judgment transfer
+- moral-legibility / human-complexity tradeoff
+- predictable-ambiguity engine
+- interface-expert / system-outsider reversal
+- standardized-individuality paradox
+
+One Steinbeck study remains before final synthesis.
+
+15. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 025, Steinbeck cycle 6:
+
+Reporting object density: 22%
+Controlled restraint: 22%
+Pure verbal flourish: 0–1%
+
+Provisional humor weights:
+
+Self-myth / correction diagnosis: 5%
+Dignity-preserving self-indictment: 6%
+Comic-denominator diagnosis: 5%
+Humor / suffering-threshold control: 7%
+Target-separation humor: 7%
+Interface-outsider diagnosis: 5%
+Visible-moral-code diagnosis: 6%
+Costume-before-conduct diagnosis: 5%
+Genre-transfer diagnosis: 5%
+Predictable-ambiguity diagnosis: 4%
+Passive-absorption diagnosis: 5%
+Standardized-individuality diagnosis: 4%
+Political-performance diagnosis: 6%
+Visual-verdict causal restraint: 6%
+
+These remain provisional until cycle 7 completes the Steinbeck synthesis.
+
+16. IMPORTANT LIMITS
+--------------------
+
+The freely accessible complete transcription is not an authorized edition.
+
+The essay’s political conclusion is interpretive rather than causal proof.
+
+A visual impression can support a correct judgment for unreliable reasons.
+
+A child’s accurate genre prediction does not establish mature political understanding.
+
+Media influence may coexist with prior beliefs, substantive evidence, party identity, and institutional action.
+
+The essay itself simplifies television while criticizing simplification.
+
+17. FORBIDDEN UPDATE
+--------------------
+
+Do not classify real people as good or bad from clothing, grooming, voice, or facial movement.
+
+Do not assume that visual neutrality means moral neutrality.
+
+Do not treat audience passivity as proof of non-influence.
+
+Do not treat user fluency as understanding of the system.
+
+Do not call a predetermined transformation genuine ambiguity.
+
+Do not use a correct final verdict to validate every mechanism that contributed to it.
+
+Do not reproduce the complete unauthorized transcription.
+
+Do not imitate Steinbeck’s child dialogue, Western vocabulary, comic digressions, or surface cadence.
+
+CURRENT GONZO STATE AFTER ARTICLE 025
+=====================================
+
+Article 025 extends the provisional subtle-humor layer:
+
+ordinary scene
+→ confident first interpretation
+→ practical contradiction
+→ naive question
+→ hidden cultural grammar
+→ visible classification code
+→ material denominator
+→ predicted ambiguity
+→ transfer into public judgment
+→ substantive evidence retained
+→ causal uncertainty preserved
+→ dignity survives
+→ low physical landing
+
+The model should now recognize that people often see a verdict before they see the evidence.
+
+The code may be so familiar that only an outsider notices it.
+
+The writer’s task is not merely to reverse the verdict.
+
+It is to show who supplied the hat, who taught the audience its color, and what happened before the character had time to act.
+
+ARTICLE 025 CHANGELOG
+=====================
+
+Added provisionally:
+
+- visible-moral-code engine
+- costume-before-conduct split
+- genre-grammar / world-judgment transfer
+- moral-legibility / human-complexity tradeoff
+- predictable-ambiguity engine
+- passive-absorption / active-classification split
+- interface-expert / system-outsider reversal
+- standardized-individuality paradox
+- political-performance / substantive-record split
+- visual-verdict / causal-verdict split
+- comic-preparation / political-payoff structure
+
+Confirmed:
+
+- self-irony limits authority
+- naive questions reveal invisible systems
+- practical detail restrains abstraction
+- humor may enlarge into serious analysis
+- dignity survives comic exposure
+- target selection remains ethically decisive
+- cultural fluency is not the same as conscious understanding
+
+Modified:
+
+- comic denominator now includes maintenance cost of symbolic appearance
+- scale reclamation now permits movement from child observation to political diagnosis
+- source integrity now distinguishes bibliographic verification from authorized full-text access
+- political-performance diagnosis now includes pre-existing fictional grammar
+
+Rejected:
+
+- costume as moral evidence
+- passive posture as absence of learning
+- visual accuracy as causal proof
+- binary reversal as genuine complexity
+- familiar interface as transparent system
