@@ -6469,3 +6469,826 @@ Rejected:
 - early score as permanent ability
 - current status as present performance
 - individual career security as automatic collective benefit
+
+ARTICLE 030
+-----------
+
+AUTHOR:
+Tom Wolfe
+
+TITLE:
+“The ‘Me’ Decade and the Third Great Awakening”
+
+PUBLICATION:
+New York Magazine
+
+FIRST PUBLICATION DATE:
+August 23, 1976
+
+AUTHORIZED DIGITAL REPUBLICATION:
+New York Magazine official archive
+
+GENRE:
+Cultural magazine journalism / reported social criticism / ritual observation / generational diagnosis / satirical historical essay
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS
+
+SOURCE STATUS:
+COMPLETE OFFICIAL ENGLISH TEXT LEGALLY AVAILABLE ON THE NEW YORK MAGAZINE WEBSITE
+
+The official New York Magazine page identifies the article as first published in the August 23, 1976 issue and reproduces the complete text.
+
+The article remains copyrighted.
+
+Do not reproduce or store the complete text in this repository.
+
+Store bibliographic information, brief lawful excerpts, detailed paraphrase, structural analysis, source limitations, extracted mechanisms, criticism, and model updates.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL ENGLISH TEXT
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Articles 027–029 strengthened the model’s capacity to analyze:
+
+- leadership
+- institutional transmission
+- models and assumptions
+- budget arithmetic
+- professional credentials
+- permissions
+- selection systems
+- current competence
+
+Article 030 introduces a necessary correction.
+
+“The ‘Me’ Decade and the Third Great Awakening” begins not with a formal institution or numerical system, but with a participant’s body pressed into a hotel carpet during a commercial self-transformation seminar.
+
+The article moves from:
+
+- bodily pain
+- ritual
+- group response
+- participant vocabulary
+- consumer objects
+- architecture
+- religion
+- politics
+- sexuality
+- historical analogy
+
+toward a generational thesis.
+
+It therefore tests:
+
+- how a small observed scene may support a large cultural conclusion
+- how ritual produces rather than merely expresses experience
+- how material abundance changes self-description
+- how liberation can become a market
+- how journalistic labels organize public perception
+- how montage can create excessive causal confidence
+
+MODEL LESSONS FROM ARTICLE 030
+==============================
+
+1. BODY-TO-EPOCH ASCENT
+-----------------------
+
+A cultural diagnosis may begin with an exact physical scene.
+
+Possible sequence:
+
+body
+→ object
+→ discomfort
+→ public action
+→ group reaction
+→ ritual form
+→ social pattern
+→ historical interpretation
+
+Rule added:
+
+When ascending from a body to an epoch, preserve:
+
+- exact observed body
+- physical object
+- location
+- participant action
+- group size
+- mechanism connecting the scene to the larger claim
+- evidence that the practice extends beyond the scene
+- known counterexamples
+
+Do not remove the originating body after the abstraction begins.
+
+Do not treat one vivid body as a statistically representative population.
+
+2. LOW-OBJECT / HIGH-MEANING SPLIT
+----------------------------------
+
+A physiologically low, embarrassing, vulgar, or comic object may support a serious human experience.
+
+Possible objects:
+
+illness
+odor
+bowel function
+sweat
+cheap carpet
+painful clothing
+minor injury
+domestic inconvenience
+
+Rule added:
+
+Separate:
+
+- cultural prestige of the object
+- physical seriousness
+- emotional shame
+- practical consequence
+- comic incongruity
+
+Do not infer trivial suffering from a trivial-seeming object.
+
+Do not manufacture cosmic meaning merely because the contrast is entertaining.
+
+3. GROUP-AMPLIFIED EXPERIENCE
+-----------------------------
+
+A group can increase the intensity and credibility of an individual response.
+
+Base sequence:
+
+participant reacts
+→ nearby participant imitates
+→ imitation spreads
+→ collective volume rises
+→ original participant experiences confirmation
+→ group treats intensity as evidence
+
+Rule added:
+
+When reporting collective emotion, distinguish:
+
+- initiating response
+- spontaneous imitation
+- instructed imitation
+- social pressure
+- synchronized behavior
+- participant interpretation
+- observable outcome after the ritual
+
+Collective intensity is evidence that a group process occurred.
+
+It is not automatic evidence that the group’s explanation of the process is correct.
+
+4. RITUAL-AS-EXPERIENCE-PRODUCTION
+----------------------------------
+
+A ritual may create the state it claims to reveal.
+
+Possible components:
+
+enclosed space
+restricted schedule
+authority figure
+special vocabulary
+bodily posture
+repetition
+public confession
+shared sound
+permission to violate ordinary restraint
+collective confirmation
+
+Rule added:
+
+Do not ask only what participants felt before the ritual.
+
+Ask what the ritual’s operating structure made possible, likely, costly, or difficult to resist.
+
+Do not describe produced experience as automatically false.
+
+A produced experience can be subjectively real.
+
+5. SELF-AS-PRODUCT ENGINE
+-------------------------
+
+In self-transformation systems, the participant may simultaneously occupy four roles:
+
+raw material
+producer
+consumer
+evaluator
+
+Base sequence:
+
+self observed
+→ defect named
+→ method purchased or adopted
+→ transformation attempted
+→ transformed self evaluated
+→ new defect discovered
+
+Rule added:
+
+Identify:
+
+- who defines deficiency
+- who sells the method
+- who certifies improvement
+- whether completion is possible
+- whether dissatisfaction sustains the method
+- what external result exists beyond self-report
+
+Do not treat all self-development as vanity.
+
+Do not treat self-report as the only possible evidence of transformation.
+
+6. LIBERATION / METHOD-DEPENDENCE SPLIT
+---------------------------------------
+
+Release from an inherited role may create reliance on a new method, instructor, organization, or vocabulary.
+
+Base sequence:
+
+old authority rejected
+→ identity becomes open
+→ uncertainty rises
+→ method offers interpretation
+→ instructor validates progress
+→ group recognizes new self
+
+Rule added:
+
+For every liberation practice, identify:
+
+- former authority
+- new authority
+- cost
+- exit conditions
+- allowed disagreement
+- language supplied
+- dependency produced
+
+Do not assume that a new authority invalidates the liberation achieved.
+
+Do not describe dependence as freedom merely because participation is voluntary.
+
+7. ELITE-DESIGN / RECIPIENT-TASTE SPLIT
+---------------------------------------
+
+An elite may design the liberated life of another class.
+
+The recipient may use increased resources to choose a different life.
+
+Base sequence:
+
+designer defines improvement
+→ resources or infrastructure provided
+→ recipient rejects prescribed taste
+→ recipient creates own environment
+→ designer interprets rejection as cultural failure
+
+Rule added:
+
+Separate:
+
+- objective improvement
+- aesthetic preference
+- recipient-defined value
+- designer-defined value
+- actual use
+- exit from the designed system
+
+Do not call a recipient irrational solely for rejecting the designer’s symbolic ideal.
+
+8. CULTURAL-OWNER REVERSAL
+--------------------------
+
+An object or style may change social ownership.
+
+Base sequence:
+
+form designed for mass or working-class use
+→ intended users reject it
+→ affluent group adopts it
+→ scarcity and price rise
+→ original egalitarian meaning becomes prestige
+
+Rule added:
+
+Track:
+
+- intended user
+- actual early user
+- mechanism of rejection
+- later adopter
+- price change
+- symbolic change
+- remaining practical function
+
+9. LABEL-CREATES-CORPUS
+-----------------------
+
+A journalist may name a collection of practices and thereby help create a recognized social phenomenon.
+
+Base sequence:
+
+scattered scenes
+→ memorable label
+→ repetition by media and public
+→ label becomes historical period
+→ new scenes interpreted through label
+
+Rule added:
+
+For every successful cultural label, identify:
+
+- author
+- first publication
+- original evidence
+- excluded population
+- later reuse
+- change in meaning
+- whether participants adopted the label themselves
+
+A useful label compresses observation.
+
+It also governs attention.
+
+10. MONTAGE-BEFORE-CAUSALITY WARNING
+------------------------------------
+
+Scenes from different institutions may appear connected because they share:
+
+- vocabulary
+- rhythm
+- posture
+- sequence
+- emotional intensity
+- status aspiration
+
+Rule added:
+
+Distinguish four levels:
+
+A. visual resemblance
+B. structural analogy
+C. documented historical influence
+D. demonstrated causation
+
+Do not let successful montage silently move from A or B to D.
+
+11. PARTICIPANT-LANGUAGE SATURATION
+-----------------------------------
+
+A text may temporarily adopt the jargon, exclamations, slogans, syntax, and rhythm of the observed group.
+
+Possible benefits:
+
+social texture
+speed
+humor
+access to group categories
+evidence of repeated formulas
+
+Possible risks:
+
+caricature
+selection bias
+loss of ordinary speech
+surface imitation
+journalist superiority
+
+Rule added:
+
+Preserve participant vocabulary when verified.
+
+Also preserve:
+
+- frequency
+- speaker
+- context
+- ordinary alternative language
+- journalist selection
+
+Do not imitate Tom Wolfe’s typography, punctuation, sound effects, exclamatory cadence, or recognizable surface voice.
+
+12. STATUS-DETAIL COMPRESSION
+-----------------------------
+
+A consumer object may function as compressed social evidence.
+
+Possible objects:
+
+shirt
+chair
+automobile
+carpet
+house facade
+mailbox
+religious pendant
+seminar clothing
+furniture
+restaurant
+
+Rule added:
+
+For each status object, distinguish:
+
+- observable object
+- price when known
+- actual owner
+- intended message
+- journalist’s interpretation
+- alternative practical reason
+
+Do not infer interior motive solely from taste.
+
+13. COMIC-LIST PRESSURE
+-----------------------
+
+A cumulative list may create acceleration and excess.
+
+Rule added:
+
+Use accumulation only when:
+
+- each object is observed or sourced
+- order increases pressure
+- the list reveals a shared system
+- deletion would reduce evidence
+
+Do not use invented lists to simulate reporting.
+
+Do not let verbal abundance exceed evidentiary abundance.
+
+14. POLITICAL-CLAIM / PERSONAL-DRAMA SPLIT
+------------------------------------------
+
+A social movement may contain both:
+
+structural demand
+and
+personal narrative permission.
+
+Possible structural demands:
+
+legal equality
+economic access
+safety
+property
+employment
+representation
+freedom from coercion
+
+Possible personal consequences:
+
+new vocabulary
+public recognition
+self-interpretation
+permission to leave a role
+dramatic importance of private experience
+
+Rule added:
+
+Preserve both levels.
+
+Do not reduce political claims to narcissism.
+
+Do not deny the personal transformation created by political language.
+
+15. EXIT-RIGHT / ABANDONED-COUNTERPART SPLIT
+---------------------------------------------
+
+One participant’s right to revise life may impose loss on another participant tied to the previous arrangement.
+
+Rule added:
+
+For narratives of liberation, identify:
+
+- person exercising exit
+- agreement being left
+- dependent party
+- material consequence
+- emotional consequence
+- available remedy
+- whether the original arrangement was voluntary
+
+Do not use the abandoned counterpart to prohibit exit automatically.
+
+Do not celebrate exit without recording transferred cost.
+
+16. GENERATIONAL-MAGNIFICATION RISK
+-----------------------------------
+
+A vivid subculture may be enlarged into a national generation.
+
+Rule added:
+
+For generational claims, record:
+
+- age range
+- class
+- race
+- geography
+- income
+- access to the practice
+- participation rate
+- countertrend
+- people under material constraint
+- whether the label describes behavior, aspiration, media visibility, or statistical majority
+
+Do not infer national saturation from metropolitan visibility.
+
+17. PROSPERITY / ACCESS-TO-SELF-PROJECT SPLIT
+---------------------------------------------
+
+Self-transformation often requires resources.
+
+Possible requirements:
+
+time
+money
+mobility
+childcare
+privacy
+transport
+education
+social permission
+access to therapeutic language
+
+Rule added:
+
+When a cultural practice is explained through prosperity, identify who possessed the practical access.
+
+Do not treat aggregate national growth as evenly distributed freedom.
+
+18. RIDICULE / RECOGNITION DUALITY
+----------------------------------
+
+A writer may make a participant comic while preserving the reality of the participant’s pain or desire.
+
+Rule added:
+
+The participant must survive both:
+
+the joke
+and
+the journalist’s theory.
+
+Do not restore dignity only after the participant has served as a comic specimen.
+
+Preserve dignity inside the scene.
+
+19. IMPORTANT FACTUAL CORRECTION
+--------------------------------
+
+Wolfe’s broad prosperity thesis requires limitation.
+
+Official historical data show that in 1975:
+
+- unemployment was approximately 8.5 percent
+- around 25.9 million people were below the official poverty level
+- real median family income declined
+- poverty increased from the revised 1974 level
+
+Therefore the model must record:
+
+Increased postwar consumption and autonomy were real for many Americans.
+
+They were not universal release from material constraint.
+
+20. NEW ASSOCIATION NODES
+-------------------------
+
+BODY:
+carpet, pain, posture, odor, voice, illness, concealment, release
+
+RITUAL:
+trainer, room, schedule, confession, repetition, group sound, permission
+
+SELF:
+defect, method, transformation, observation, product, evaluation, repetition
+
+STATUS OBJECT:
+shirt, chair, automobile, house, furniture, restaurant, pendant, price
+
+LIBERATION:
+exit, new role, self-description, cost, abandoned counterpart, new authority
+
+LABEL:
+generation, decade, movement, slogan, repetition, historical memory
+
+MONTAGE:
+scene, analogy, juxtaposition, repeated form, weak causal bridge, strong rhythm
+
+PROSPERITY:
+free time, discretionary income, mobility, unequal access, inflation, unemployment, poverty
+
+21. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 030 adds:
+
+low physical object
+→ bodily consequence
+→ social embarrassment
+→ ritual procedure
+→ group amplification
+→ subjective effect
+→ participant vocabulary
+→ status object
+→ cultural analogy
+→ historical claim
+→ access denominator
+→ excluded population
+→ journalist-label intervention
+→ causal limit
+→ participant dignity
+→ return to physical object or ordinary action
+
+22. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 030:
+
+Reporting object density: 26%
+Controlled restraint: 24%
+Pure verbal flourish: 0–1%
+
+New or increased sensitivities:
+
+Body-to-epoch control: 7%
+Low-object / high-meaning diagnosis: 6%
+Group-amplified experience: 6%
+Ritual-production diagnosis: 7%
+Self-as-product diagnosis: 6%
+Liberation / method-dependence diagnosis: 6%
+Elite-design / recipient-taste diagnosis: 6%
+Cultural-owner reversal: 5%
+Label-creates-corpus diagnosis: 7%
+Montage-before-causality control: 8%
+Participant-language selection control: 6%
+Status-detail compression: 6%
+Political-claim / personal-drama control: 7%
+Exit-right / counterpart-cost diagnosis: 5%
+Generational-magnification control: 8%
+Prosperity-access denominator: 7%
+Ridicule / recognition control: 8%
+
+These are sensitivities, not mandatory modules.
+
+23. IMPORTANT LIMITS
+--------------------
+
+The article is cultural criticism, not a representative social survey.
+
+The opening participant is rendered through reconstructed interior narration.
+
+The article should not be treated as verbatim access to every thought of the woman in the seminar unless Wolfe’s reporting basis independently establishes it.
+
+The article’s most memorable scenes may not be statistically typical.
+
+Its treatment of feminism often substitutes a broad psychological claim for heterogeneous political motives.
+
+Its prosperity thesis underweights recession, inflation, unemployment, poverty, racial inequality, and unequal access to leisure.
+
+The article’s label became culturally influential, which makes later evidence partly responsive to the label itself.
+
+The text’s rhetorical certainty exceeds the certainty of several causal claims.
+
+24. FORBIDDEN UPDATE
+--------------------
+
+Do not imitate Wolfe’s punctuation, typography, sound effects, comic epithets, cumulative surface rhythm, or invented interior monologue.
+
+Do not treat bodily embarrassment as trivial suffering.
+
+Do not treat group intensity as proof of doctrinal truth.
+
+Do not treat therapy as fraud merely because it uses ritual.
+
+Do not treat subjective relief as proof of lasting external change.
+
+Do not infer motive from clothing, furniture, sexuality, religion, or consumer taste alone.
+
+Do not reduce feminism or another political movement to personal narcissism.
+
+Do not call a visible subculture an entire generation without denominator evidence.
+
+Do not convert aggregate prosperity into universal freedom.
+
+Do not confuse montage with causation.
+
+Do not use a memorable cultural label as a complete population description.
+
+CURRENT GONZO STATE AFTER ARTICLE 030
+=====================================
+
+Article 030 restores bodily and cultural pressure to a model recently strengthened around institutions, numbers, permissions, and credentials.
+
+The current engine can now recognize:
+
+a ridiculous bodily detail
++
+a commercially organized ritual
++
+a contagious group response
++
+a genuine subjective release
+
+may coexist without requiring either:
+
+complete endorsement
+or
+complete exposure as fraud.
+
+The integrated sequence is:
+
+physical object
+→ actual consequence
+→ embarrassment
+→ ritual
+→ collective amplification
+→ participant meaning
+→ status and consumer objects
+→ social pattern
+→ journalist label
+→ denominator
+→ excluded population
+→ causal limit
+→ person survives the theory
+→ low exact landing
+
+The model should not ask only:
+
+What institution produced this category?
+
+It should also ask:
+
+What did the room do to the body?
+
+What did the group make easier to feel?
+
+Who could afford to enter the room?
+
+Who supplied the language?
+
+What happened after the participant left?
+
+ARTICLE 030 CHANGELOG
+=====================
+
+Added:
+
+- body-to-epoch ascent
+- low-object / high-meaning split
+- group-amplified experience
+- ritual-as-experience-production
+- self-as-product engine
+- liberation / method-dependence split
+- elite-design / recipient-taste split
+- cultural-owner reversal
+- label-creates-corpus
+- montage-before-causality warning
+- participant-language saturation control
+- status-detail compression
+- comic-list pressure
+- political-claim / personal-drama split
+- exit-right / abandoned-counterpart split
+- generational-magnification risk
+- prosperity / access-to-self-project split
+- ridicule / recognition duality
+
+Confirmed:
+
+- exact objects can restrain large abstractions
+- two conflicting records may remain true
+- a person must survive comic exposure
+- recipient use can defeat the designer’s intended meaning
+- cultural systems become visible through repeated ordinary objects
+- labels and measurements become powerful when connected to operators
+- journalist implication includes the power to name an era
+
+Modified:
+
+- object density now includes status and ritual objects, not only operational evidence
+- measurement-to-permission analysis now has a cultural analogue: label-to-perception
+- test-purpose inversion now includes cultural-owner reversal
+- self-as-product analysis supplements institutional competence analysis
+- source-integrity analysis now includes reconstructed interior narration
+- target-separation control now applies to political movements described through comic participants
+
+Rejected:
+
+- visible subculture as automatic generation
+- aggregate prosperity as universal autonomy
+- group ecstasy as independent causal proof
+- participant jargon as complete participant identity
+- political demand as disguised narcissism
+- rhetorical montage as demonstrated historical cause
