@@ -7980,3 +7980,767 @@ Rejected:
 - a hospital anecdote as transparent access to motive
 - audience recognition as representative social evidence
 - critic fluency as external neutrality
+
+ARTICLE 032
+-----------
+
+AUTHOR:
+Susan Sontag
+
+TITLE:
+“Fascinating Fascism”
+
+PUBLICATION:
+The New York Review of Books
+
+DATE:
+February 6, 1975
+
+GENRE:
+Cultural criticism / visual criticism / historical argument / propaganda analysis / political aesthetics
+
+CORPUS STATUS:
+VERIFIED / WITHIN STANDARD 1975–1985 CORPUS
+
+AUTHORIZED SOURCE:
+The New York Review of Books official archive
+
+SOURCE STATUS:
+COMPLETE OFFICIAL ENGLISH TEXT LEGALLY AVAILABLE ON THE NYRB WEBSITE
+
+The official New York Review of Books archive publishes the complete English text of the February 6, 1975 essay.
+
+The article remains copyrighted.
+
+Do not reproduce or store the complete text in this repository.
+
+Store bibliographic information, brief lawful excerpts, detailed paraphrase, structural analysis, source corrections, limitations, extracted mechanisms, and model updates.
+
+STUDY STATUS:
+ANALYZED FROM THE COMPLETE OFFICIAL ENGLISH TEXT AND THE OFFICIAL SUBSEQUENT CORRECTION / EXCHANGE RECORD
+
+POST-PUBLICATION SOURCE RECORD:
+The research record must preserve three later NYRB exchanges directly related to the article:
+
+1. Susan Sontag — “Credit for Kracauer,” March 6, 1975.
+2. Adrienne Rich / Susan Sontag — “Feminism and Fascism: An Exchange,” March 20, 1975.
+3. David B. Hinton / Susan Sontag — “An Exchange on Leni Riefenstahl,” September 18, 1975.
+
+Sontag publicly acknowledged that five sentences in her synopsis of The Blue Light inadvertently paraphrased Siegfried Kracauer without attribution.
+
+In the later Hinton exchange she also acknowledged three factual errors in the original essay and reconstructed portions of their secondary-source provenance.
+
+These corrections belong to the evidentiary history of Article 032 and must not be omitted merely because the central critical argument remains analytically useful.
+
+WHY THIS ARTICLE ENTERS THE MODEL
+---------------------------------
+
+Article 030 examined how a journalist may construct a cultural category through scenes, ritual, participant language, status objects, and montage.
+
+Article 031 examined the gap between sophisticated interpretive vocabulary, action, bodily reality, and the ethical use of vulnerable witnesses.
+
+Article 032 moves into the politics of visual form and historical rehabilitation.
+
+“Fascinating Fascism” begins with an uncomfortable dual record:
+
+Leni Riefenstahl’s photographs can possess genuine formal beauty
+
+while
+
+the systems of selection, representation, hierarchy, bodily perfection, discipline, submission, effort, death, and communal ecstasy visible across her work can remain historically and politically charged.
+
+The article therefore rejects two easy solutions:
+
+political condemnation does not require pretending that powerful art is aesthetically weak;
+
+aesthetic power does not make the political system producing or organizing the image innocent.
+
+The article also provides an unusually valuable self-correction record.
+
+Its subsequent letters demonstrate that:
+
+a strong interpretive thesis can contain factual errors;
+
+multiple secondary sources can reproduce one original error;
+
+memory can lose the provenance of borrowed language;
+
+correction must alter the factual record even when the broader thesis may survive.
+
+MODEL LESSONS FROM ARTICLE 032
+==============================
+
+1. AESTHETIC-QUALITY / AESTHETIC-INNOCENCE SPLIT
+-------------------------------------------------
+
+An image, film, text, building, speech, or ritual may be formally accomplished and politically compromised at the same time.
+
+Possible records:
+
+A:
+composition
+technical skill
+rhythm
+beauty
+innovation
+emotional force
+
+B:
+commission
+funding
+selection
+political function
+excluded reality
+institutional purpose
+material consequence
+
+Rule added:
+
+Preserve both records.
+
+Do not downgrade demonstrable formal quality merely to simplify moral judgment.
+
+Do not use formal quality as evidence of political innocence.
+
+Do not infer that acknowledging beauty constitutes endorsement.
+
+2. REALITY-STAGED-FOR-DOCUMENT ENGINE
+-------------------------------------
+
+A documentary image may record a real event whose physical reality was organized partly for the purpose of being recorded.
+
+Base sequence:
+
+desired public image
+→ event architecture
+→ placement of participants
+→ choreography
+→ physical event occurs
+→ camera records actual event
+→ recording later functions as documentary evidence
+
+Rule added:
+
+For every visually persuasive public scene, distinguish:
+
+- object reality
+- action reality
+- spontaneity
+- participant awareness
+- staging
+- camera position
+- event design
+- later editorial selection
+
+A real object does not prove spontaneous context.
+
+A staged context does not make every visible object fictitious.
+
+3. FACT-PRESERVED / SIGNIFICANCE-NEUTRALIZED SPLIT
+---------------------------------------------------
+
+Historical rehabilitation may occur without denial of the historical fact.
+
+Base sequence:
+
+damaging history remains known
+→ time passes
+→ new cultural frame emerges
+→ formal achievement becomes central
+→ political origin is described as background
+→ factual past remains
+→ practical significance declines
+
+Rule added:
+
+When a controversial person or institution is rehabilitated, ask separately:
+
+- Was the factual record denied?
+- Was the factual record disputed?
+- Was the factual record accepted but reweighted?
+- Which past fact stopped controlling present judgment?
+- Who changed the weighting?
+- What new value replaced it?
+
+Do not confuse factual acceptance with continued moral or institutional consequence.
+
+4. FORMAL-CONTINUITY / IDEOLOGICAL-IDENTITY SPLIT
+-------------------------------------------------
+
+An artist may repeat formal preferences across different subjects, periods, patrons, and media.
+
+Possible recurring structures:
+
+perfect bodies
+hierarchy
+mass choreography
+ordeal
+purity
+submission
+ecstatic community
+heroic effort
+death
+leader / follower geometry
+
+Rule added:
+
+Formal recurrence supports investigation of continuity.
+
+It does not automatically establish:
+
+identical ideology
+identical motive
+identical commission
+identical audience
+identical political function
+
+Required sequence:
+
+formal resemblance
+→ repeated selection
+→ historical context
+→ authorial statements
+→ institutional function
+→ contrary examples
+→ proportionate conclusion
+
+5. AESTHETIC-SEPARATION TEST
+----------------------------
+
+A cultural institution may attempt to isolate formal qualities from political or historical function.
+
+Possible formula:
+
+“Whatever the politics, the work is beautiful.”
+
+Rule added:
+
+Before accepting separation, identify whether the political system affects:
+
+- subject selection
+- camera position
+- bodily ideal
+- narrative hierarchy
+- financing
+- staging
+- editing
+- distribution
+- intended audience response
+
+Some formal qualities may remain analytically separable.
+
+Others may be produced by the political function itself.
+
+Do not decide the question in advance.
+
+6. COSTUME-AS-INSTITUTIONAL-INTERFACE
+-------------------------------------
+
+Clothing, badges, uniforms, passes, colors, medals, and insignia may encode an operating hierarchy.
+
+Possible information:
+
+rank
+unit
+permission
+achievement
+authority
+subordination
+access
+legitimate violence
+membership
+
+Rule added:
+
+For a status costume, identify both:
+
+symbolic meaning
+and
+operational consequence.
+
+A uniform may be aesthetic surface.
+
+It may also be a readable institutional interface.
+
+This extends COSTUME-BEFORE-CONDUCT.
+
+7. DETAIL / VERIFICATION SPLIT
+------------------------------
+
+Documentary detail can support verification.
+
+The same detail can support fantasy, nostalgia, propaganda, collecting, or fetishization.
+
+Base sequence:
+
+exact insignia
+→ date
+→ unit
+→ permit
+→ rank
+→ object provenance
+
+may produce:
+
+historical understanding
+
+or
+
+greater imaginative immersion.
+
+Rule added:
+
+Do not infer truthfulness of the surrounding narrative from density of correct minor details.
+
+Ask:
+
+What proposition does the detail actually verify?
+
+8. NOTE-PROVENANCE DECAY
+------------------------
+
+Borrowed information may lose visible source identity while moving through memory, notes, drafts, and rewrites.
+
+Base sequence:
+
+source read
+→ source paraphrased in notes
+→ note detached from citation
+→ memory incorporates note
+→ draft uses material as apparently personal recall
+→ publication loses attribution
+
+Rule added:
+
+For research notes containing distinctive language, interpretation, chronology, or plot synopsis:
+
+preserve provenance at note creation.
+
+Do not rely on later memory to reconstruct ownership of phrasing.
+
+A failure of attribution does not require deliberate plagiarism.
+
+It still requires correction.
+
+9. SOURCE-COUNT / SOURCE-INDEPENDENCE SPLIT
+-------------------------------------------
+
+Several published sources may derive from one original error.
+
+Base sequence:
+
+source A makes claim
+→ source B repeats A
+→ source C repeats B or A
+→ later researcher finds three matching sources
+→ false appearance of independent confirmation
+
+Rule added:
+
+For important disputed claims, identify source genealogy.
+
+Count independent evidentiary origins, not citations.
+
+Three echoes are not three witnesses.
+
+10. FACTUAL-SCAFFOLD / INTERPRETIVE-THESIS SPLIT
+-------------------------------------------------
+
+A factual correction may weaken:
+
+one sentence
+one chronological inference
+one characterization
+one causal bridge
+
+without automatically destroying the entire interpretive thesis.
+
+Rule added:
+
+After a correction:
+
+1. identify the incorrect fact;
+2. identify every conclusion directly dependent on it;
+3. remove or revise those conclusions;
+4. identify independent support for the larger thesis;
+5. preserve the thesis only to the degree that independent evidence remains.
+
+Do not protect a favored argument by calling factual errors trivial before performing this dependency test.
+
+Do not discard independently supported analysis solely because another factual component failed.
+
+11. ERROR-PROVENANCE RECORD
+---------------------------
+
+A published error should be treated as a process with provenance.
+
+Record:
+
+- original claim
+- immediate source
+- source behind that source
+- date of challenge
+- correction
+- remaining uncertainty
+- downstream repetitions when known
+
+Rule added:
+
+Corrections are part of the article’s evidentiary history.
+
+Do not silently replace the original record with the corrected version.
+
+12. MOVEMENT / FACTION / PARTICIPANT SPLIT
+------------------------------------------
+
+A political or cultural movement cannot be assigned one motive from the behavior of selected participants.
+
+Required distinctions:
+
+movement
+organization
+festival
+publication
+faction
+individual
+supporter
+critic
+opponent
+
+Rule added:
+
+After a statement such as:
+
+“feminists supported”
+“critics believed”
+“the left wanted”
+“the avant-garde accepted”
+
+identify the actual operator.
+
+Do not convert a visible participant into the grammatical subject of an entire movement.
+
+13. BEAUTY / EFFECT / INFLUENCE SPLIT
+-------------------------------------
+
+An artwork may be:
+
+beautiful
+emotionally powerful
+politically effective
+
+without being:
+
+formally innovative
+historically influential on later artists.
+
+Rule added:
+
+Separate:
+
+- aesthetic quality
+- immediate affect
+- political effectiveness
+- formal innovation
+- later influence
+
+Do not use one dimension as evidence for the others.
+
+14. SYMBOL / HISTORICAL-KNOWLEDGE SPLIT
+---------------------------------------
+
+A symbol can acquire aesthetic, erotic, commercial, ironic, or subcultural meaning among users with incomplete knowledge of its historical function.
+
+Rule added:
+
+For politically loaded iconography, identify:
+
+- original use
+- current user knowledge
+- current intended meaning
+- audience interpretation
+- historical residue
+- material consequence
+
+Do not infer ideological allegiance solely from symbolic attraction.
+
+Do not erase the symbol’s historical origin merely because current use differs.
+
+15. AESTHETIC-NEUTRALIZATION / EROTIC-RECODING SPLIT
+-----------------------------------------------------
+
+The same political material may travel through distinct cultural transformations.
+
+Possible paths:
+
+historical propaganda
+→ museum object
+→ aesthetic masterpiece
+
+or:
+
+historical instrument of hierarchy
+→ costume
+→ erotic or subcultural symbol
+
+Rule added:
+
+Do not treat all later uses of political imagery as one phenomenon.
+
+Map the recoding mechanism.
+
+16. CRITIC-SELF-CORRECTION TEST
+-------------------------------
+
+A critic’s later correction is evidence about both:
+
+the original article
+and
+the critic’s epistemic behavior.
+
+Rule added:
+
+Record whether the writer:
+
+- acknowledges the error
+- names its source
+- reconstructs provenance
+- corrects the affected claim
+- distinguishes fact from interpretation
+- permits the correction to remain attached to the public record
+
+Self-correction increases transparency.
+
+It does not retroactively make the original error harmless.
+
+17. NEW ASSOCIATION NODES
+-------------------------
+
+AESTHETIC:
+beauty, composition, body, effort, harmony, perfection, choreography, monumental form
+
+REHABILITATION:
+biography, jacket copy, euphemism, retrospective frame, cultural prestige, forgetting, reweighting
+
+STAGING:
+rally, architecture, camera, parade, mass, placement, choreography, documentary appearance
+
+UNIFORM:
+rank, badge, medal, insignia, pass, authority, hierarchy, permission
+
+PROVENANCE:
+note, secondary source, copied error, paraphrase, attribution, correction, genealogy
+
+CONTINUITY:
+subject change, medium change, recurring selection, formal grammar, ideological inference, counterexample
+
+18. PARAGRAPH ENGINE UPDATE
+---------------------------
+
+Article 032 adds:
+
+beautiful object
+→ strongest positive aesthetic record
+→ production history
+→ disputed biography
+→ staging mechanism
+→ image / event split
+→ recurring formal grammar
+→ political interpretation
+→ alternative use or later recoding
+→ factual challenge
+→ source genealogy
+→ correction
+→ thesis dependency test
+→ surviving conclusion
+→ restrained landing
+
+19. MODEL WEIGHT UPDATE
+-----------------------
+
+After Article 032:
+
+Reporting object density: 26%
+Controlled restraint: 26%
+Pure verbal flourish: 0–1%
+
+New or increased sensitivities:
+
+Aesthetic-quality / innocence diagnosis: 7%
+Reality-staged-for-document diagnosis: 8%
+Fact-preserved / significance-neutralized diagnosis: 6%
+Formal-continuity control: 7%
+Aesthetic-separation test: 7%
+Costume-as-interface diagnosis: 5%
+Detail / verification diagnosis: 7%
+Note-provenance control: 8%
+Source-independence control: 8%
+Factual-scaffold / thesis-dependency diagnosis: 9%
+Error-provenance recording: 8%
+Movement / faction / participant control: 7%
+Beauty / effect / influence split: 5%
+Symbol / historical-knowledge diagnosis: 6%
+Critic-self-correction control: 8%
+
+These are sensitivities, not mandatory modules.
+
+20. IMPORTANT LIMITS
+--------------------
+
+The essay contains factual errors acknowledged after publication.
+
+Five sentences describing The Blue Light inadvertently paraphrased Siegfried Kracauer and were not properly attributed in the original publication.
+
+Sontag later acknowledged three additional factual errors challenged by David B. Hinton.
+
+The existence of those errors does not automatically invalidate every aesthetic conclusion in the article.
+
+The survival of an interpretive thesis does not make those errors irrelevant.
+
+Claims about continuity of aesthetic form require distinction from claims about identical political intention.
+
+Claims about sexual or subcultural uses of political imagery require population and historical limits.
+
+The essay frequently moves from formal analogy to broad cultural explanation.
+
+Those transitions require stronger causal restraint than Sontag sometimes supplies.
+
+The official NYRB text is complete and legally readable but remains copyrighted.
+
+21. FORBIDDEN UPDATE
+--------------------
+
+Do not reproduce the complete copyrighted essay.
+
+Do not imitate Sontag’s aphoristic cadence, rhetorical compression, polemical voice, or surface language.
+
+Do not describe aesthetic quality as moral innocence.
+
+Do not pretend politically objectionable art must be aesthetically weak.
+
+Do not infer fascist ideology from mass choreography, physical beauty, uniforms, discipline, or monumental form alone.
+
+Do not infer political allegiance solely from erotic or aesthetic use of historical symbols.
+
+Do not equate several citations with several independent sources.
+
+Do not preserve a factual claim after its provenance has failed.
+
+Do not discard an independently supported thesis merely because a separate factual claim failed.
+
+Do not use “the movement,” “feminists,” “critics,” “the left,” or another collective subject without identifying the operator when the distinction matters.
+
+Do not treat documentary detail as proof of the surrounding narrative.
+
+CURRENT GONZO STATE AFTER ARTICLE 032
+=====================================
+
+Article 032 adds an aesthetic-provenance and correction layer to the cultural, bodily, institutional, quantitative, and source-integrity mechanisms already present in the model.
+
+The current engine can now recognize:
+
+a genuinely beautiful work
++
+a politically compromised production history
++
+a later cultural rehabilitation
++
+a detailed documentary surface
++
+a partially erroneous critical account
+
+may coexist.
+
+The integrated sequence is:
+
+object
+→ aesthetic quality
+→ production
+→ staging
+→ historical function
+→ later reframing
+→ recurring formal grammar
+→ political inference
+→ source provenance
+→ independent-source count
+→ factual challenge
+→ correction
+→ thesis dependency test
+→ surviving uncertainty
+→ person or object remains more complicated than verdict
+→ hard landing
+
+The model should not ask only:
+
+Is the image real?
+
+It should ask:
+
+Who arranged the reality before the camera arrived?
+
+It should not ask only:
+
+How many sources agree?
+
+It should ask:
+
+How many independent evidentiary lines produced those sources?
+
+And after an error is found, it should not ask:
+
+Does the whole theory survive or die?
+
+It should ask:
+
+Exactly which beam was holding which part of the roof?
+
+ARTICLE 032 CHANGELOG
+=====================
+
+Added:
+
+- aesthetic-quality / aesthetic-innocence split
+- reality-staged-for-document engine
+- fact-preserved / significance-neutralized split
+- formal-continuity / ideological-identity split
+- aesthetic-separation test
+- costume-as-institutional-interface
+- detail / verification split
+- note-provenance decay
+- source-count / source-independence split
+- factual-scaffold / interpretive-thesis split
+- error-provenance record
+- movement / faction / participant split
+- beauty / effect / influence split
+- symbol / historical-knowledge split
+- aesthetic-neutralization / erotic-recoding split
+- critic-self-correction test
+
+Confirmed:
+
+- exact objects can support incompatible meanings
+- image reality does not establish spontaneity
+- montage must not silently become causality
+- participant and movement must remain distinct
+- source integrity includes the conditions under which a record was produced
+- strong positive and negative records may remain simultaneously true
+- factual corrections belong to the history of the model rather than being silently erased
+
+Modified:
+
+- truth-staging now explicitly includes events physically designed for later documentary appearance
+- detail-density analysis now distinguishes verification from immersive fantasy
+- parallel-record analysis now includes source genealogy
+- source-integrity analysis now includes provenance decay inside a writer’s own notes
+- cultural rehabilitation analysis now distinguishes factual denial from declining significance
+- contradiction analysis now requires local dependency testing after factual correction
+
+Rejected:
+
+- beauty as innocence
+- ugliness as necessary evidence of harmful ideology
+- formal similarity as automatic ideological identity
+- real scene as spontaneous scene
+- citation count as independent confirmation
+- factual correction as automatic destruction of the full argument
+- surviving thesis as excuse to minimize factual error
